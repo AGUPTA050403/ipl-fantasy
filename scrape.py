@@ -316,6 +316,9 @@ def parse_scorecard_next_data(nd, lookup):
             elif isinstance(dt, str):
                 dismissal_long = dt
 
+            if dismissal_long or dismissal_short:
+                print(f'      [dismissal] {bat_name}: long={dismissal_long!r}  short={dismissal_short!r}')
+
             fielders = b.get('inningFielders', []) or []
             credited = False
 
@@ -323,8 +326,11 @@ def parse_scorecard_next_data(nd, lookup):
             for f in fielders:
                 fp_obj = f.get('player', {})
                 fname  = fp_obj.get('longName') or fp_obj.get('name', '')
-                # dismissalType can be 'caught', 'stumped', or similar
-                how    = (f.get('dismissalType') or f.get('type') or '').lower()
+                # Log the raw dismissal type so we know what ESPN sends
+                how_raw = f.get('dismissalType') or f.get('type') or ''
+                how     = how_raw.lower()
+                if how_raw:
+                    print(f'      [fielder] {fname!r} dismissalType={how_raw!r}')
                 fp = find_player(fname, lookup)
                 if fp:
                     add(fp['player']['full'], 'stumpings' if 'stump' in how else 'catches')
