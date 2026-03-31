@@ -182,60 +182,93 @@ def extract_next_data(html):
 # ── Match list ────────────────────────────────────────────────
 def get_completed_matches():
     """
-    Scrape the series results page and collect full scorecard URLs.
+    Two-stage match discovery:
+    1. Scrape the results page for confirmed scorecard links (always reliable)
+    2. Probe sequential match IDs starting from the last known one to catch
+       matches whose scorecards are published but not yet linked on the results page.
     Returns list of {id, slug, name, date}.
     """
     print(f"Fetching match list for IPL 2026...")
-    url = f'https://www.espncricinfo.com/series/{SERIES_SLUG}/match-schedule-fixtures-and-results'
-    html = get_html(url)
-    soup = BeautifulSoup(html, 'html.parser')
 
-    seen = set()
+    seen  = set()
     matches = []
 
-    # Pull every href that looks like a completed scorecard
-    for a in soup.find_all('a', href=True):
-        href = a['href']
-        # Pattern: /series/ipl-2026-1510719/TEAM-vs-TEAM-Nth-match-MATCHID/full-scorecard
-        m = re.search(
-            rf'/series/{re.escape(SERIES_SLUG)}/([^/]+-(\d{{6,}}))/full-scorecard',
-            href
+    # ── Stage 1: results page ─────────────────────────────────
+    try:
+        html = get_html(
+            f'https://www.espncricinfo.com/series/{SERIES_SLUG}/match-schedule-fixtures-and-results'
         )
-        if m:
-            slug = m.group(1)
-            mid  = m.group(2)
-            if mid not in seen:
-                seen.add(mid)
-                # Build a clean name from slug: strip trailing match ID, fix ordinal casing
-                raw_name = slug.replace('-', ' ')
-                raw_name = re.sub(r'\s+' + re.escape(mid) + r'\s*$', '', raw_name)  # strip ID
-                # Title-case but fix ordinals: 1st 2nd 3rd 4th etc.
-                raw_name = re.sub(r'\b(\d+)(St|Nd|Rd|Th)\b',
-                                  lambda x: x.group(1) + x.group(2).lower(),
-                                  raw_name.title())
-                matches.append({'id': mid, 'slug': slug, 'name': raw_name, 'date': ''})
+        soup = BeautifulSoup(html, 'html.parser')
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            m = re.search(
+                rf'/series/{re.escape(SERIES_SLUG)}/([^/]+-(\d{{6,}}))/full-scorecard',
+                href
+            )
+            if m:
+                slug, mid = m.group(1), m.group(2)
+                if mid not in seen:
+                    seen.add(mid)
+                    matches.append(_make_match(mid, slug))
+        print(f"  Results page: {len(matches)} matches")
+    except Exception as e:
+        print(f"  Results page failed: {e}")
 
-    # Also try __NEXT_DATA__ for richer match metadata
-    nd = extract_next_data(html)
-    if nd:
+    # ── Stage 2: probe sequential IDs beyond what we found ────
+    # IPL 2026 match IDs start at 1527674; try up to 20 ahead of the last found
+    FIRST_MATCH_ID = 1527674
+    known_ids = sorted(int(m['id']) for m in matches) if matches else [FIRST_MATCH_ID - 1]
+    probe_start = max(known_ids) + 1
+    probe_end   = probe_start + 20
+    consecutive_misses = 0
+
+    print(f"  Probing IDs {probe_start}–{probe_end} for new matches...")
+    for mid_int in range(probe_start, probe_end + 1):
+        mid = str(mid_int)
+        if mid in seen:
+            continue
         try:
+            url  = f'https://www.espncricinfo.com/series/{SERIES_SLUG}/match-{mid}/full-scorecard'
+            html = get_html(url)
+            nd   = extract_next_data(html)
+            if not nd:
+                consecutive_misses += 1
+                if consecutive_misses >= 3:
+                    break
+                continue
+            # Check if the match is complete (has innings data)
             raw = json.dumps(nd)
-            # Find all completed match entries
-            for item in re.finditer(
-                r'"matchId"\s*:\s*(\d+).*?"description"\s*:\s*"([^"]+)".*?"startDate"\s*:\s*"(\d{4}-\d{2}-\d{2})',
-                raw, re.DOTALL
-            ):
-                mid, desc, date = item.group(1), item.group(2), item.group(3)
-                for match in matches:
-                    if match['id'] == mid:
-                        match['name'] = desc
-                        match['date'] = date
-                        break
+            if '"inningBatsmen"' not in raw:
+                consecutive_misses += 1
+                if consecutive_misses >= 3:
+                    break
+                continue
+            # Extract slug from canonical URL in __NEXT_DATA__ if possible
+            slug_m = re.search(
+                rf'"/{re.escape(SERIES_SLUG)}/([^/"]+)/full-scorecard"', raw
+            )
+            slug = slug_m.group(1) if slug_m else f'match-{mid}'
+            seen.add(mid)
+            matches.append(_make_match(mid, slug))
+            print(f"    Found new match via probe: {mid}")
+            consecutive_misses = 0
+            time.sleep(1.5)
         except Exception:
-            pass
+            consecutive_misses += 1
+            if consecutive_misses >= 3:
+                break
 
-    print(f"  Found {len(matches)} completed matches")
-    return matches
+    print(f"  Total completed matches found: {len(matches)}")
+    return sorted(matches, key=lambda m: int(m['id']))
+
+def _make_match(mid, slug):
+    """Build a clean match dict from its ID and URL slug."""
+    raw_name = slug.replace('-', ' ')
+    raw_name = re.sub(r'\s+' + re.escape(mid) + r'\s*$', '', raw_name)
+    raw_name = re.sub(r'\b(\d+)(St|Nd|Rd|Th)\b',
+                      lambda x: x.group(1) + x.group(2).lower(),
+                      raw_name.title())
+    return {'id': mid, 'slug': slug, 'name': raw_name, 'date': ''}
 
 # ── Scorecard parsing ─────────────────────────────────────────
 def parse_dismissal_text(text):
@@ -509,43 +542,89 @@ def build_output(matches_data):
         }
 
     return {
-        'lastUpdated':   datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-        'matchesLoaded': len(matches_data),
-        'teams':         teams_out,
-        'players':       players,
+        'lastUpdated':    datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+        'matchesLoaded':  len(matches_data),
+        'scrapedMatchIds': [m['id'] for m, _ in matches_data],
+        'teams':          teams_out,
+        'players':        players,
     }
+
+# ── Load existing data.json ───────────────────────────────────
+def load_existing():
+    """
+    Returns (already_scraped_ids, existing_matches_data) from data.json.
+    existing_matches_data is a list of (match_meta, stats_dict) we can
+    pass straight into build_output alongside new matches.
+    """
+    try:
+        with open('data.json') as f:
+            existing = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set(), []
+
+    already_ids = set(existing.get('scrapedMatchIds', []))
+
+    # Reconstruct matches_data from the stored per-player match arrays
+    # We need (match_meta, {full_name: {runs,wickets,catches,stumpings}}) per match
+    match_stats = {}  # match_name+date key → {full_name: stats}
+    for full_name, pdata in existing.get('players', {}).items():
+        for m in pdata.get('matches', []):
+            key = (m['name'], m['date'])
+            if key not in match_stats:
+                match_stats[key] = {}
+            match_stats[key][full_name] = {
+                'runs':      m['runs'],
+                'wickets':   m['wickets'],
+                'catches':   m['catches'],
+                'stumpings': m['stumpings'],
+            }
+
+    # Pair each unique match key with its scraped ID (best effort)
+    existing_matches_data = []
+    for (name, date), stats in match_stats.items():
+        existing_matches_data.append(({'id': None, 'name': name, 'date': date}, stats))
+
+    return already_ids, existing_matches_data
 
 # ── Main ──────────────────────────────────────────────────────
 def main():
-    lookup  = build_lookup()
-    matches = get_completed_matches()
+    lookup = build_lookup()
 
-    if not matches:
-        print("No completed matches found yet. Writing empty data.json.")
-        output = build_output([])
+    # Load what we already have — skip those match IDs this run
+    already_ids, existing_matches_data = load_existing()
+    print(f"Already scraped: {len(already_ids)} matches")
+
+    matches = get_completed_matches()
+    new_matches = [m for m in matches if m['id'] not in already_ids]
+
+    if not new_matches:
+        print("No new matches to scrape.")
+        # Still rewrite data.json so lastUpdated is current
+        output = build_output(existing_matches_data)
     else:
-        print(f"\nScraping {len(matches)} completed matches...")
-        matches_data = []
-        for match in matches:
+        print(f"\nScraping {len(new_matches)} new match(es)...")
+        new_matches_data = []
+        for match in new_matches:
             print(f"  [{match['id']}] {match['name']}")
             try:
                 stats, method = scrape_scorecard(match, lookup)
                 hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings'))]
                 print(f"    → {method}: {len(hits)} fantasy players — {', '.join(hits) or 'none'}")
                 if stats:
-                    matches_data.append((match, stats))
+                    new_matches_data.append((match, stats))
             except Exception as e:
                 print(f"    Failed: {e}")
             time.sleep(2)
 
-        output = build_output(matches_data)
+        # Merge existing + new
+        output = build_output(existing_matches_data + new_matches_data)
 
     with open('data.json', 'w') as f:
         json.dump(output, f, indent=2)
 
-    print(f"\nDone. {output['matchesLoaded']} matches loaded → data.json updated.")
+    print(f"\nDone. {output['matchesLoaded']} total matches in data.json.")
     print("\nFantasy player stats:")
-    for name, s in sorted(output['players'].items(), key=lambda x: -sum([x[1]['runs'], x[1]['wickets']*25, x[1]['catches']*10, x[1]['stumpings']*5])):
+    for name, s in sorted(output['players'].items(), key=lambda x: -(x[1]['runs'] + x[1]['wickets']*25 + x[1]['catches']*10 + x[1]['stumpings']*5)):
         pts = s['runs'] + s['wickets']*25 + s['catches']*10 + s['stumpings']*5
         if pts > 0:
             print(f"  {name:30s}  {s['runs']}r  {s['wickets']}w  {s['catches']}c  {s['stumpings']}st  → {pts}pts")

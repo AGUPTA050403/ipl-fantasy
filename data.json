@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-31T20:58:27Z",
-  "matchesLoaded": 3,
+  "lastUpdated": "2026-03-31T21:10:18Z",
+  "matchesLoaded": 4,
+  "scrapedMatchIds": [
+    null,
+    null,
+    null,
+    null
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -291,11 +297,20 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 0,
+      "runs": 13,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 13,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "Ishan Kishan": {
       "runs": 80,
@@ -314,18 +329,36 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 0,
+      "runs": 18,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0
+        }
+      ]
     },
     "Marco Jansen": {
-      "runs": 0,
-      "wickets": 0,
-      "catches": 0,
+      "runs": 9,
+      "wickets": 1,
+      "catches": 1,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 9,
+          "wickets": 1,
+          "catches": 1,
+          "stumpings": 0
+        }
+      ]
     },
     "Krunal Pandya": {
       "runs": 0,
@@ -461,18 +494,36 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 0,
+      "runs": 38,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 38,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0
+        }
+      ]
     },
     "Marcus Stoinis": {
       "runs": 0,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "Nitish Kumar Reddy": {
       "runs": 1,
@@ -495,7 +546,16 @@
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "KL Rahul": {
       "runs": 0,
@@ -506,10 +566,19 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 0,
+      "wickets": 2,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "Lockie Ferguson": {
       "runs": 0,
@@ -551,16 +620,34 @@
     "Arshdeep Singh": {
       "runs": 0,
       "wickets": 0,
-      "catches": 0,
+      "catches": 2,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0
+        }
+      ]
     },
     "Shubman Gill": {
-      "runs": 0,
+      "runs": 39,
       "wickets": 0,
-      "catches": 0,
+      "catches": 2,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 39,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0
+        }
+      ]
     },
     "Shimron Hetmyer": {
       "runs": 0,
@@ -754,10 +841,19 @@
     },
     "Rashid Khan": {
       "runs": 0,
-      "wickets": 0,
-      "catches": 0,
+      "wickets": 1,
+      "catches": 1,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
+          "stumpings": 0
+        }
+      ]
     },
     "Mohammed Shami": {
       "runs": 0,
@@ -904,24 +1000,51 @@
     },
     "Kagiso Rabada": {
       "runs": 0,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "Prasidh Krishna": {
       "runs": 0,
-      "wickets": 0,
-      "catches": 0,
+      "wickets": 3,
+      "catches": 1,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 1,
+          "stumpings": 0
+        }
+      ]
     },
     "Shashank Singh": {
-      "runs": 0,
+      "runs": 4,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "Match",
+          "date": "31 Mar",
+          "runs": 4,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
     },
     "Riyan Parag": {
       "runs": 14,
