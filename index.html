@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPL Fantasy 2026</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Player Detail Modal -->
+  <div id="player-modal" class="overlay hidden" onclick="handleModalBackdrop(event)">
+    <div class="modal player-modal-inner" id="player-modal-box">
+      <button class="close-btn" onclick="closePlayerModal()">×</button>
+      <div id="player-modal-content"></div>
+    </div>
+  </div>
+
+  <!-- App Shell -->
+  <div id="app">
+
+    <header>
+      <div class="header-inner">
+        <div class="header-left">
+          <span class="site-logo">🏏</span>
+          <div>
+            <h1>IPL Fantasy 2026</h1>
+            <p id="status-line">Loading...</p>
+          </div>
+        </div>
+        <div class="header-right">
+          <button class="btn-primary" onclick="loadData()">↻ Refresh</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Loading bar -->
+    <div id="loading-bar" class="loading-bar hidden">
+      <div class="spinner"></div>
+      <span>Loading stats...</span>
+    </div>
+
+    <main>
+      <section>
+        <div class="section-heading">Leaderboard</div>
+        <div id="leaderboard"></div>
+      </section>
+
+      <section style="margin-top:32px">
+        <div class="section-heading">Teams</div>
+        <div id="teams-grid" class="teams-grid"></div>
+      </section>
+    </main>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

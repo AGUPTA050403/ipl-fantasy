@@ -1,0 +1,959 @@
+{
+  "lastUpdated": "2026-03-31T20:25:50Z",
+  "matchesLoaded": 3,
+  "teams": {
+    "Adi": {
+      "displayName": "Adi's Team",
+      "color": "#1565c0",
+      "players": [
+        {
+          "nick": "Bumrah",
+          "full": "Jasprit Bumrah"
+        },
+        {
+          "nick": "Sai Su",
+          "full": "Sai Sudharsan"
+        },
+        {
+          "nick": "Kishan",
+          "full": "Ishan Kishan"
+        },
+        {
+          "nick": "Shreyas",
+          "full": "Shreyas Iyer"
+        },
+        {
+          "nick": "Jansen",
+          "full": "Marco Jansen"
+        },
+        {
+          "nick": "Krunal",
+          "full": "Krunal Pandya"
+        },
+        {
+          "nick": "Axar",
+          "full": "Axar Patel"
+        },
+        {
+          "nick": "Noor Ahmed",
+          "full": "Noor Ahmad"
+        },
+        {
+          "nick": "Pant",
+          "full": "Rishabh Pant"
+        },
+        {
+          "nick": "K Ahmed",
+          "full": "Khaleel Ahmed"
+        },
+        {
+          "nick": "Markram",
+          "full": "Aiden Markram"
+        },
+        {
+          "nick": "R Sharma",
+          "full": "Rohit Sharma"
+        }
+      ]
+    },
+    "Kahaan": {
+      "displayName": "Kahaan's Team",
+      "color": "#c62828",
+      "players": [
+        {
+          "nick": "Head",
+          "full": "Travis Head"
+        },
+        {
+          "nick": "Jaiswal",
+          "full": "Yashasvi Jaiswal"
+        },
+        {
+          "nick": "Dube",
+          "full": "Shivam Dube"
+        },
+        {
+          "nick": "Buttler",
+          "full": "Jos Buttler"
+        },
+        {
+          "nick": "Stoinis",
+          "full": "Marcus Stoinis"
+        },
+        {
+          "nick": "NKR",
+          "full": "Nitish Kumar Reddy"
+        },
+        {
+          "nick": "Siraj",
+          "full": "Mohammed Siraj"
+        },
+        {
+          "nick": "KL Rahul",
+          "full": "KL Rahul"
+        },
+        {
+          "nick": "Chahal",
+          "full": "Yuzvendra Chahal"
+        },
+        {
+          "nick": "Lockie",
+          "full": "Lockie Ferguson"
+        },
+        {
+          "nick": "Mohsin Khan",
+          "full": "Mohsin Khan"
+        },
+        {
+          "nick": "Suryavanshi",
+          "full": "Vaibhav Suryavanshi"
+        }
+      ]
+    },
+    "Anmol": {
+      "displayName": "Anmol's Team",
+      "color": "#e65100",
+      "players": [
+        {
+          "nick": "Pandya",
+          "full": "Hardik Pandya"
+        },
+        {
+          "nick": "Arshdeep",
+          "full": "Arshdeep Singh"
+        },
+        {
+          "nick": "Gill",
+          "full": "Shubman Gill"
+        },
+        {
+          "nick": "Hetmyer",
+          "full": "Shimron Hetmyer"
+        },
+        {
+          "nick": "Varma",
+          "full": "Tilak Varma"
+        },
+        {
+          "nick": "Narine",
+          "full": "Sunil Narine"
+        },
+        {
+          "nick": "Jadeja",
+          "full": "Ravindra Jadeja"
+        },
+        {
+          "nick": "Allen",
+          "full": "Finn Allen"
+        },
+        {
+          "nick": "Bishnoi",
+          "full": "Ravi Bishnoi"
+        },
+        {
+          "nick": "Bhuvi",
+          "full": "Bhuvneshwar Kumar"
+        },
+        {
+          "nick": "Brevis",
+          "full": "Dewald Brevis"
+        },
+        {
+          "nick": "Gaikwad",
+          "full": "Ruturaj Gaikwad"
+        }
+      ]
+    },
+    "Krish": {
+      "displayName": "Krish's Team",
+      "color": "#6a1b9a",
+      "players": [
+        {
+          "nick": "Sky",
+          "full": "Suryakumar Yadav"
+        },
+        {
+          "nick": "Virat",
+          "full": "Virat Kohli"
+        },
+        {
+          "nick": "Rinku",
+          "full": "Rinku Singh"
+        },
+        {
+          "nick": "Pooran",
+          "full": "Nicholas Pooran"
+        },
+        {
+          "nick": "R Khan",
+          "full": "Rashid Khan"
+        },
+        {
+          "nick": "Shami",
+          "full": "Mohammed Shami"
+        },
+        {
+          "nick": "Chakravarthy",
+          "full": "Varun Chakravarthy"
+        },
+        {
+          "nick": "Pathirana",
+          "full": "Matheesha Pathirana"
+        },
+        {
+          "nick": "Umran Malik",
+          "full": "Umran Malik"
+        },
+        {
+          "nick": "Holder",
+          "full": "Jason Holder"
+        },
+        {
+          "nick": "Prabsimran",
+          "full": "Prabsimran Singh"
+        },
+        {
+          "nick": "Hooda",
+          "full": "Deepak Hooda"
+        }
+      ]
+    },
+    "Shyam": {
+      "displayName": "Shyam's Team",
+      "color": "#2e7d32",
+      "players": [
+        {
+          "nick": "Abhishek",
+          "full": "Abhishek Sharma"
+        },
+        {
+          "nick": "Samson",
+          "full": "Sanju Samson"
+        },
+        {
+          "nick": "Marsh",
+          "full": "Mitchell Marsh"
+        },
+        {
+          "nick": "Klaasen",
+          "full": "Heinrich Klaasen"
+        },
+        {
+          "nick": "Kuldeep",
+          "full": "Kuldeep Yadav"
+        },
+        {
+          "nick": "Sai Kishore",
+          "full": "R Sai Kishore"
+        },
+        {
+          "nick": "Boult",
+          "full": "Trent Boult"
+        },
+        {
+          "nick": "Rabada",
+          "full": "Kagiso Rabada"
+        },
+        {
+          "nick": "Prasidh",
+          "full": "Prasidh Krishna"
+        },
+        {
+          "nick": "Shashank",
+          "full": "Shashank Singh"
+        },
+        {
+          "nick": "Parag",
+          "full": "Riyan Parag"
+        },
+        {
+          "nick": "Thakur",
+          "full": "Shardul Thakur"
+        }
+      ]
+    }
+  },
+  "players": {
+    "Jasprit Bumrah": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Sai Sudharsan": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Ishan Kishan": {
+      "runs": 80,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 80,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Shreyas Iyer": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Marco Jansen": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Krunal Pandya": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Axar Patel": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Noor Ahmad": {
+      "runs": 1,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Rishabh Pant": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Khaleel Ahmed": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Aiden Markram": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Rohit Sharma": {
+      "runs": 78,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 78,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Travis Head": {
+      "runs": 11,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Yashasvi Jaiswal": {
+      "runs": 38,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 38,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Shivam Dube": {
+      "runs": 6,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Jos Buttler": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Marcus Stoinis": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Nitish Kumar Reddy": {
+      "runs": 1,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Mohammed Siraj": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "KL Rahul": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Yuzvendra Chahal": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Lockie Ferguson": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Mohsin Khan": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Vaibhav Suryavanshi": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Hardik Pandya": {
+      "runs": 18,
+      "wickets": 1,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 18,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Arshdeep Singh": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Shubman Gill": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Shimron Hetmyer": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Tilak Varma": {
+      "runs": 20,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 20,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Sunil Narine": {
+      "runs": 0,
+      "wickets": 1,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Ravindra Jadeja": {
+      "runs": 0,
+      "wickets": 2,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Finn Allen": {
+      "runs": 37,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 37,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Ravi Bishnoi": {
+      "runs": 0,
+      "wickets": 1,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Bhuvneshwar Kumar": {
+      "runs": 0,
+      "wickets": 1,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Dewald Brevis": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Ruturaj Gaikwad": {
+      "runs": 6,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Suryakumar Yadav": {
+      "runs": 16,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 16,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Virat Kohli": {
+      "runs": 69,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 69,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Rinku Singh": {
+      "runs": 33,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 33,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Nicholas Pooran": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Rashid Khan": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Mohammed Shami": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Varun Chakravarthy": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Matheesha Pathirana": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Umran Malik": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Jason Holder": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Prabsimran Singh": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Deepak Hooda": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Abhishek Sharma": {
+      "runs": 7,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Sanju Samson": {
+      "runs": 6,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Mitchell Marsh": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Heinrich Klaasen": {
+      "runs": 31,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
+          "date": "",
+          "runs": 31,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Kuldeep Yadav": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "R Sai Kishore": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Trent Boult": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Kagiso Rabada": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Prasidh Krishna": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Shashank Singh": {
+      "runs": 0,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": []
+    },
+    "Riyan Parag": {
+      "runs": 14,
+      "wickets": 0,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
+          "date": "",
+          "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    },
+    "Shardul Thakur": {
+      "runs": 0,
+      "wickets": 3,
+      "catches": 0,
+      "stumpings": 0,
+      "matches": [
+        {
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
+          "date": "",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 0,
+          "stumpings": 0
+        }
+      ]
+    }
+  }
+}
