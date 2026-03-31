@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 12-20 * * *' # every hour from 12pm to 8pm UTC
   workflow_dispatch:          # manual trigger button in GitHub UI
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data.json'           # don't re-trigger when scraper commits data.json
 
 permissions:
   contents: write

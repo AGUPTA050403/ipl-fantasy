@@ -21,7 +21,7 @@ SERIES_ID   = '1510719'
 SERIES_SLUG = 'ipl-2026-1510719'
 
 # ── Points system ─────────────────────────────────────────────
-PTS = {'run': 1, 'wicket': 25, 'catch': 10, 'stumping': 5}
+PTS = {'run': 1, 'wicket': 25, 'catch': 10, 'stumping': 5, 'run_out': 5}
 
 # ── Team rosters ──────────────────────────────────────────────
 TEAMS = {
@@ -93,7 +93,7 @@ TEAMS = {
             {'nick': 'Pathirana',    'full': 'Matheesha Pathirana', 'aliases': ['Matheesha Pathirana']},
             {'nick': 'Umran Malik',  'full': 'Umran Malik',         'aliases': ['Umran Malik']},
             {'nick': 'Holder',       'full': 'Jason Holder',        'aliases': ['Jason Holder']},
-            {'nick': 'Prabsimran',   'full': 'Prabsimran Singh',    'aliases': ['Prabsimran Singh']},
+            {'nick': 'Prabhsimran',  'full': 'Prabhsimran Singh',   'aliases': ['Prabhsimran Singh', 'Prabsimran Singh']},
             {'nick': 'Hooda',        'full': 'Deepak Hooda',        'aliases': ['Deepak Hooda']},
         ],
     },
@@ -271,6 +271,19 @@ def _make_match(mid, slug):
     return {'id': mid, 'slug': slug, 'name': raw_name, 'date': ''}
 
 # ── Scorecard parsing ─────────────────────────────────────────
+def parse_run_out_fielder(text):
+    """
+    Parse 'run out (Roy)' or 'run out (Hetmyer/†Jurel)' → first named fielder.
+    Returns fielder name string or None.
+    """
+    t = (text or '').strip()
+    m = re.match(r'^run\s+out\s*\(([^)]+)\)', t, re.I)
+    if not m:
+        return None
+    # Take the first fielder before any '/' separator
+    fielder = m.group(1).split('/')[0]
+    return clean_name(fielder).strip()
+
 def parse_dismissal_text(text):
     """
     Parse both short ('c Pant b Bumrah') and long ('caught Rishabh Pant bowled Jasprit Bumrah')
@@ -312,7 +325,7 @@ def parse_scorecard_next_data(nd, lookup):
 
     def add(full_name, key, val=1):
         if full_name not in result:
-            result[full_name] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0}
+            result[full_name] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0, 'run_outs': 0}
         result[full_name][key] += val
 
     def walk(obj):
@@ -374,11 +387,21 @@ def parse_scorecard_next_data(nd, lookup):
                 for dtext in [dismissal_long, dismissal_short]:
                     if not dtext:
                         continue
+                    # Check for run out first
+                    ro_fielder = parse_run_out_fielder(dtext)
+                    if ro_fielder:
+                        fp = find_player(ro_fielder, lookup)
+                        if not fp:
+                            fp = find_player_by_lastname(ro_fielder, lookup)
+                        if fp:
+                            add(fp['player']['full'], 'run_outs')
+                        credited = True
+                        break
+                    # Catch / stumping
                     credit = parse_dismissal_text(dtext)
                     if not credit:
                         continue
                     kind, fielder_name = credit
-                    # Exact match first, then last-name fallback for short format
                     fp = find_player(fielder_name, lookup)
                     if not fp:
                         fp = find_player_by_lastname(fielder_name, lookup)
@@ -409,7 +432,7 @@ def parse_scorecard_html_tables(html, lookup):
 
     def add(full_name, key, val=1):
         if full_name not in result:
-            result[full_name] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0}
+            result[full_name] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0, 'run_outs': 0}
         result[full_name][key] += val
 
     # ESPN wraps each innings in a div; batting and bowling tables are siblings
@@ -469,11 +492,38 @@ def extract_match_date(nd):
     """Pull the match date out of __NEXT_DATA__."""
     try:
         raw = json.dumps(nd)
-        # Try several field names ESPN uses
         for field in ('"startDate"', '"matchDate"', '"date"'):
             m = re.search(field + r'\s*:\s*"(\d{4}-\d{2}-\d{2})', raw)
             if m:
                 return m.group(1)
+    except Exception:
+        pass
+    return ''
+
+def extract_match_name(nd):
+    """
+    Pull a short 'RCB vs SRH' name from __NEXT_DATA__.
+    Team abbreviations appear near the inningBatsmen data.
+    """
+    try:
+        raw = json.dumps(nd)
+        idx = raw.find('inningBatsmen')
+        if idx < 0:
+            return ''
+        # Look in the 3000 chars before the first innings for team abbreviations
+        chunk = raw[max(0, idx - 3000):idx]
+        # IPL team codes are 2-4 uppercase letters; exclude country codes (IND, AUS, PAK etc.)
+        COUNTRY_CODES = {'IND','AUS','ENG','PAK','NZ','SA','WI','SL','BAN','ZIM','AFG','IRE','SCO','UAE','NED'}
+        abbrevs = re.findall(r'"abbreviation"\s*:\s*"([A-Z]{2,4})"', chunk)
+        seen_t, unique = set(), []
+        for a in abbrevs:
+            if a not in seen_t and a not in COUNTRY_CODES:
+                seen_t.add(a)
+                unique.append(a)
+            if len(unique) == 2:
+                break
+        if len(unique) == 2:
+            return f"{unique[0]} vs {unique[1]}"
     except Exception:
         pass
     return ''
@@ -497,9 +547,12 @@ def scrape_scorecard(match, lookup):
     nd   = extract_next_data(html)
 
     if nd:
-        # Extract date while we have the page data
         if not match.get('date'):
             match['date'] = extract_match_date(nd)
+        # Always prefer the extracted short name over the slug-derived one
+        extracted_name = extract_match_name(nd)
+        if extracted_name:
+            match['name'] = extracted_name
         result = parse_scorecard_next_data(nd, lookup)
         if result:
             return result, '__NEXT_DATA__'
@@ -513,7 +566,7 @@ def build_output(matches_data):
     players = {}
     for team in TEAMS.values():
         for p in team['players']:
-            players[p['full']] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0, 'matches': []}
+            players[p['full']] = {'runs': 0, 'wickets': 0, 'catches': 0, 'stumpings': 0, 'run_outs': 0, 'matches': []}
 
     for match, stats in matches_data:
         for full_name, delta in stats.items():
@@ -524,6 +577,7 @@ def build_output(matches_data):
             s['wickets']   += delta['wickets']
             s['catches']   += delta['catches']
             s['stumpings'] += delta['stumpings']
+            s['run_outs']  += delta.get('run_outs', 0)
             s['matches'].append({
                 'name':      match['name'],
                 'date':      format_date(match['date']),
@@ -531,6 +585,7 @@ def build_output(matches_data):
                 'wickets':   delta['wickets'],
                 'catches':   delta['catches'],
                 'stumpings': delta['stumpings'],
+                'run_outs':  delta.get('run_outs', 0),
             })
 
     teams_out = {}
@@ -608,7 +663,7 @@ def main():
             print(f"  [{match['id']}] {match['name']}")
             try:
                 stats, method = scrape_scorecard(match, lookup)
-                hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings'))]
+                hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))]
                 print(f"    → {method}: {len(hits)} fantasy players — {', '.join(hits) or 'none'}")
                 if stats:
                     new_matches_data.append((match, stats))
@@ -624,10 +679,10 @@ def main():
 
     print(f"\nDone. {output['matchesLoaded']} total matches in data.json.")
     print("\nFantasy player stats:")
-    for name, s in sorted(output['players'].items(), key=lambda x: -(x[1]['runs'] + x[1]['wickets']*25 + x[1]['catches']*10 + x[1]['stumpings']*5)):
-        pts = s['runs'] + s['wickets']*25 + s['catches']*10 + s['stumpings']*5
+    for name, s in sorted(output['players'].items(), key=lambda x: -(x[1]['runs'] + x[1]['wickets']*25 + x[1]['catches']*10 + x[1]['stumpings']*5 + x[1].get('run_outs',0)*5)):
+        pts = s['runs'] + s['wickets']*25 + s['catches']*10 + s['stumpings']*5 + s.get('run_outs',0)*5
         if pts > 0:
-            print(f"  {name:30s}  {s['runs']}r  {s['wickets']}w  {s['catches']}c  {s['stumpings']}st  → {pts}pts")
+            print(f"  {name:30s}  {s['runs']}r  {s['wickets']}w  {s['catches']}c  {s['stumpings']}st  {s.get('run_outs',0)}ro  → {pts}pts")
 
 if __name__ == '__main__':
     main()

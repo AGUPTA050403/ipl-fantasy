@@ -298,7 +298,7 @@ main {
 .pm-total-box .tb-lbl { font-size: .75rem; color: var(--muted); margin-top: 4px; }
 
 .pm-breakdown {
-  display: grid; grid-template-columns: repeat(4,1fr);
+  display: grid; grid-template-columns: repeat(5,1fr);
   gap: 10px; margin-bottom: 24px;
 }
 .pm-bd-card {
@@ -342,6 +342,43 @@ main {
   padding: 28px 0; font-size: .9rem;
 }
 
+/* ── Cap predictions ─────────────────────────────────────── */
+.caps-grid {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+}
+.caps-header {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border-bottom: 1px solid var(--border);
+}
+.caps-col-head {
+  padding: 10px 14px;
+  font-size: .78rem; font-weight: 700; color: #fff;
+  border-left: 3px solid transparent;
+  background: var(--surface2);
+}
+.caps-col-head:not(:last-child) { border-right: 1px solid var(--border); }
+.caps-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border-bottom: 1px solid var(--border);
+}
+.caps-row:last-child { border-bottom: none; }
+.cap-cell {
+  padding: 12px 14px;
+  border-right: 1px solid var(--border);
+}
+.cap-cell:last-child { border-right: none; }
+.orange-cell { background: rgba(245,140,20,.08); }
+.purple-cell { background: rgba(130,60,200,.08); }
+.cap-player  { font-size: .9rem; font-weight: 700; margin-bottom: 3px; }
+.cap-stat    { font-size: .82rem; font-weight: 700; }
+.orange-cell .cap-stat { color: #f59c14; }
+.purple-cell .cap-stat { color: #a855f7; }
+
 /* ── Responsive ───────────────────────────────────────── */
 @media (max-width: 900px) {
   .lb-row { grid-template-columns: 40px 1fr 90px; }
@@ -351,7 +388,7 @@ main {
   header { padding: 0 16px; }
   main { padding: 20px 16px 48px; }
   .teams-grid { grid-template-columns: 1fr; }
-  .pm-breakdown { grid-template-columns: repeat(2,1fr); }
+  .pm-breakdown { grid-template-columns: repeat(3,1fr); }
   .pm-totals { flex-direction: column; }
   .modal { padding: 28px 20px; }
   .player-modal-inner { padding: 24px 18px; }
