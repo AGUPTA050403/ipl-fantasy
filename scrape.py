@@ -137,6 +137,16 @@ def find_player(name, lookup):
         return None
     return lookup.get(norm(clean_name(name)))
 
+def find_player_by_lastname(name, lookup):
+    """Last-name-only fallback — only used for fielder matching from short dismissal text."""
+    if not name:
+        return None
+    last = norm(clean_name(name)).split()[-1] if norm(clean_name(name)).split() else ''
+    if not last or len(last) < 3:  # skip very short tokens to avoid false matches
+        return None
+    matches = [v for k, v in lookup.items() if k.split()[-1] == last]
+    return matches[0] if len(matches) == 1 else None  # only match if unambiguous
+
 # ── HTTP session ──────────────────────────────────────────────
 SESSION = requests.Session()
 SESSION.headers.update({
@@ -196,8 +206,14 @@ def get_completed_matches():
             mid  = m.group(2)
             if mid not in seen:
                 seen.add(mid)
-                # Try to get a clean name and date from __NEXT_DATA__
-                matches.append({'id': mid, 'slug': slug, 'name': slug.replace('-', ' ').title(), 'date': ''})
+                # Build a clean name from slug: strip trailing match ID, fix ordinal casing
+                raw_name = slug.replace('-', ' ')
+                raw_name = re.sub(r'\s+' + re.escape(mid) + r'\s*$', '', raw_name)  # strip ID
+                # Title-case but fix ordinals: 1st 2nd 3rd 4th etc.
+                raw_name = re.sub(r'\b(\d+)(St|Nd|Rd|Th)\b',
+                                  lambda x: x.group(1) + x.group(2).lower(),
+                                  raw_name.title())
+                matches.append({'id': mid, 'slug': slug, 'name': raw_name, 'date': ''})
 
     # Also try __NEXT_DATA__ for richer match metadata
     nd = extract_next_data(html)
@@ -223,19 +239,34 @@ def get_completed_matches():
 
 # ── Scorecard parsing ─────────────────────────────────────────
 def parse_dismissal_text(text):
-    """Parse 'c Head b Bumrah' style strings → ('catch'|'stumping', fielder_name)"""
+    """
+    Parse both short ('c Pant b Bumrah') and long ('caught Rishabh Pant bowled Jasprit Bumrah')
+    dismissal strings. Returns ('catch'|'stumping', fielder_name) or None.
+    """
     t = (text or '').strip()
-    if not t or t.lower() in ('not out', 'did not bat', 'absent', 'retired hurt'):
+    if not t or t.lower() in ('not out', 'did not bat', 'absent', 'retired hurt', ''):
         return None
 
-    # c & b BowlerName — bowler gets catch but we skip (counted in bowling)
-    if re.match(r'^c\s*&\s*b\s+', t, re.I):
+    # c & b / caught and bowled — bowler gets catch, skip (already counted via bowling)
+    if re.match(r'^(c\s*&\s*b|caught and bowled)\s+', t, re.I):
         return None
 
+    # Long format: "caught Rishabh Pant bowled ..."
+    m = re.match(r'^caught\s+(.+?)\s+bowled\b', t, re.I)
+    if m:
+        return ('catch', m.group(1).strip())
+
+    # Long format: "stumped Rishabh Pant bowled ..."
+    m = re.match(r'^stumped\s+(.+?)\s+bowled\b', t, re.I)
+    if m:
+        return ('stumping', m.group(1).strip())
+
+    # Short format: "c †Pant b Bumrah" (strip † before passing in)
     m = re.match(r'^c\s+(.+?)\s+b\s+', t, re.I)
     if m:
         return ('catch', m.group(1).strip())
 
+    # Short format: "st †Pant b Chahal"
     m = re.match(r'^st\s+(.+?)\s+b\s+', t, re.I)
     if m:
         return ('stumping', m.group(1).strip())
@@ -274,33 +305,48 @@ def parse_scorecard_next_data(nd, lookup):
             if p:
                 add(p['player']['full'], 'runs', runs)
 
-            # Fielding credit
-            dismissal_text = ''
+            # Fielding credit — try structured fielders list first, then dismissal text
+            # Prefer long dismissal text (full names) over short (abbreviated names)
             dt = b.get('dismissalText')
+            dismissal_long  = ''
+            dismissal_short = ''
             if isinstance(dt, dict):
-                dismissal_text = dt.get('short', '') or dt.get('long', '')
+                dismissal_long  = dt.get('long', '')  or ''
+                dismissal_short = dt.get('short', '') or ''
             elif isinstance(dt, str):
-                dismissal_text = dt
+                dismissal_long = dt
 
-            # Also try structured fielders list
             fielders = b.get('inningFielders', []) or []
             credited = False
+
+            # Structured fielders (most reliable — full names from player objects)
             for f in fielders:
                 fp_obj = f.get('player', {})
                 fname  = fp_obj.get('longName') or fp_obj.get('name', '')
-                how    = (f.get('dismissalType') or '').lower()
+                # dismissalType can be 'caught', 'stumped', or similar
+                how    = (f.get('dismissalType') or f.get('type') or '').lower()
                 fp = find_player(fname, lookup)
                 if fp:
                     add(fp['player']['full'], 'stumpings' if 'stump' in how else 'catches')
                     credited = True
 
-            if not credited and dismissal_text:
-                credit = parse_dismissal_text(dismissal_text)
-                if credit:
+            # Try long text first (has full names), then short text
+            if not credited:
+                for dtext in [dismissal_long, dismissal_short]:
+                    if not dtext:
+                        continue
+                    credit = parse_dismissal_text(dtext)
+                    if not credit:
+                        continue
                     kind, fielder_name = credit
+                    # Exact match first, then last-name fallback for short format
                     fp = find_player(fielder_name, lookup)
+                    if not fp:
+                        fp = find_player_by_lastname(fielder_name, lookup)
                     if fp:
                         add(fp['player']['full'], 'catches' if kind == 'catch' else 'stumpings')
+                        credited = True
+                        break
 
         # Bowling
         for b in inning.get('inningBowlers', []):
@@ -380,6 +426,29 @@ def parse_scorecard_html_tables(html, lookup):
 
     return result
 
+def extract_match_date(nd):
+    """Pull the match date out of __NEXT_DATA__."""
+    try:
+        raw = json.dumps(nd)
+        # Try several field names ESPN uses
+        for field in ('"startDate"', '"matchDate"', '"date"'):
+            m = re.search(field + r'\s*:\s*"(\d{4}-\d{2}-\d{2})', raw)
+            if m:
+                return m.group(1)
+    except Exception:
+        pass
+    return ''
+
+def format_date(iso):
+    """Convert 2026-03-28 → 28 Mar"""
+    if not iso:
+        return ''
+    try:
+        dt = datetime.strptime(iso, '%Y-%m-%d')
+        return dt.strftime('%-d %b')
+    except Exception:
+        return iso
+
 def scrape_scorecard(match, lookup):
     mid  = match['id']
     slug = match['slug']
@@ -389,6 +458,9 @@ def scrape_scorecard(match, lookup):
     nd   = extract_next_data(html)
 
     if nd:
+        # Extract date while we have the page data
+        if not match.get('date'):
+            match['date'] = extract_match_date(nd)
         result = parse_scorecard_next_data(nd, lookup)
         if result:
             return result, '__NEXT_DATA__'
@@ -415,7 +487,7 @@ def build_output(matches_data):
             s['stumpings'] += delta['stumpings']
             s['matches'].append({
                 'name':      match['name'],
-                'date':      match['date'],
+                'date':      format_date(match['date']),
                 'runs':      delta['runs'],
                 'wickets':   delta['wickets'],
                 'catches':   delta['catches'],

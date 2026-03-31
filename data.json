@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T20:25:50Z",
+  "lastUpdated": "2026-03-31T20:58:27Z",
   "matchesLoaded": 3,
   "teams": {
     "Adi": {
@@ -281,8 +281,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -304,8 +304,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 80,
           "wickets": 0,
           "catches": 0,
@@ -334,8 +334,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -357,8 +357,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 1,
           "wickets": 0,
           "catches": 0,
@@ -380,8 +380,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -403,8 +403,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 78,
           "wickets": 0,
           "catches": 0,
@@ -419,8 +419,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 11,
           "wickets": 0,
           "catches": 0,
@@ -431,15 +431,15 @@
     "Yashasvi Jaiswal": {
       "runs": 38,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 38,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0
         }
       ]
@@ -451,8 +451,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -481,8 +481,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 1,
           "wickets": 0,
           "catches": 0,
@@ -539,8 +539,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 18,
           "wickets": 1,
           "catches": 0,
@@ -569,8 +569,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -581,15 +581,15 @@
     "Tilak Varma": {
       "runs": 20,
       "wickets": 0,
-      "catches": 0,
+      "catches": 2,
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 20,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0
         }
       ]
@@ -601,8 +601,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -617,8 +617,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 2,
           "catches": 0,
@@ -633,8 +633,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 37,
           "wickets": 0,
           "catches": 0,
@@ -645,15 +645,15 @@
     "Ravi Bishnoi": {
       "runs": 0,
       "wickets": 1,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0
         }
       ]
@@ -665,8 +665,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -688,8 +688,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -704,8 +704,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 16,
           "wickets": 0,
           "catches": 0,
@@ -716,15 +716,15 @@
     "Virat Kohli": {
       "runs": 69,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 69,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0
         }
       ]
@@ -736,8 +736,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 33,
           "wickets": 0,
           "catches": 0,
@@ -773,8 +773,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -824,8 +824,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 7,
           "wickets": 0,
           "catches": 0,
@@ -840,8 +840,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -859,15 +859,15 @@
     "Heinrich Klaasen": {
       "runs": 31,
       "wickets": 0,
-      "catches": 0,
+      "catches": 2,
       "stumpings": 0,
       "matches": [
         {
-          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1St Match 1527674",
-          "date": "",
+          "name": "Royal Challengers Bengaluru Vs Sunrisers Hyderabad 1st Match",
+          "date": "31 Mar",
           "runs": 31,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0
         }
       ]
@@ -893,8 +893,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -930,8 +930,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Rajasthan Royals Vs Chennai Super Kings 3Rd Match 1527676",
-          "date": "",
+          "name": "Rajasthan Royals Vs Chennai Super Kings 3rd Match",
+          "date": "31 Mar",
           "runs": 14,
           "wickets": 0,
           "catches": 0,
@@ -946,8 +946,8 @@
       "stumpings": 0,
       "matches": [
         {
-          "name": "Mumbai Indians Vs Kolkata Knight Riders 2Nd Match 1527675",
-          "date": "",
+          "name": "Mumbai Indians Vs Kolkata Knight Riders 2nd Match",
+          "date": "31 Mar",
           "runs": 0,
           "wickets": 3,
           "catches": 0,
