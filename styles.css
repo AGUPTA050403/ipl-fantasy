@@ -392,4 +392,19 @@ main {
   .pm-totals { flex-direction: column; }
   .modal { padding: 28px 20px; }
   .player-modal-inner { padding: 24px 18px; }
+
+  /* Caps on mobile: stack into 2 rows of cards */
+  .caps-header { display: none; }
+  .caps-row {
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+  }
+  .cap-cell { position: relative; padding: 10px 12px; }
+  .cap-cell::before {
+    content: attr(data-owner);
+    display: block;
+    font-size: .68rem;
+    color: var(--muted);
+    margin-bottom: 2px;
+  }
 }

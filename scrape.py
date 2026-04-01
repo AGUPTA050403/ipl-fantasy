@@ -562,7 +562,7 @@ def scrape_scorecard(match, lookup):
     return result, 'HTML tables'
 
 # ── Build data.json ───────────────────────────────────────────
-def build_output(matches_data):
+def build_output(matches_data, existing_ids=None):
     players = {}
     for team in TEAMS.values():
         for p in team['players']:
@@ -597,19 +597,21 @@ def build_output(matches_data):
         }
 
     return {
-        'lastUpdated':    datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-        'matchesLoaded':  len(matches_data),
-        'scrapedMatchIds': [m['id'] for m, _ in matches_data],
-        'teams':          teams_out,
-        'players':        players,
+        'lastUpdated':     datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+        'matchesLoaded':   len(matches_data),
+        'scrapedMatchIds': sorted(
+            (existing_ids or set()) | {m['id'] for m, _ in matches_data if m.get('id')}
+        ),
+        'teams':           teams_out,
+        'players':         players,
     }
 
 # ── Load existing data.json ───────────────────────────────────
 def load_existing():
     """
     Returns (already_scraped_ids, existing_matches_data) from data.json.
-    existing_matches_data is a list of (match_meta, stats_dict) we can
-    pass straight into build_output alongside new matches.
+    already_scraped_ids: set of match ID strings to skip this run.
+    existing_matches_data: list of (match_meta, stats_dict) to carry forward.
     """
     try:
         with open('data.json') as f:
@@ -617,27 +619,32 @@ def load_existing():
     except (FileNotFoundError, json.JSONDecodeError):
         return set(), []
 
-    already_ids = set(existing.get('scrapedMatchIds', []))
+    # Only keep real string IDs — filter out any nulls from previous bugs
+    already_ids = {i for i in existing.get('scrapedMatchIds', []) if i}
 
-    # Reconstruct matches_data from the stored per-player match arrays
-    # We need (match_meta, {full_name: {runs,wickets,catches,stumpings}}) per match
-    match_stats = {}  # match_name+date key → {full_name: stats}
+    # If IDs were corrupted/lost, start fresh to avoid double-counting
+    if not already_ids:
+        return set(), []
+
+    # Reconstruct per-match stats from each player's match history
+    match_stats = {}  # (name, date) → {full_name: stats_dict}
     for full_name, pdata in existing.get('players', {}).items():
         for m in pdata.get('matches', []):
             key = (m['name'], m['date'])
             if key not in match_stats:
                 match_stats[key] = {}
             match_stats[key][full_name] = {
-                'runs':      m['runs'],
-                'wickets':   m['wickets'],
-                'catches':   m['catches'],
-                'stumpings': m['stumpings'],
+                'runs':      m.get('runs', 0),
+                'wickets':   m.get('wickets', 0),
+                'catches':   m.get('catches', 0),
+                'stumpings': m.get('stumpings', 0),
+                'run_outs':  m.get('run_outs', 0),  # preserve run outs
             }
 
-    # Pair each unique match key with its scraped ID (best effort)
-    existing_matches_data = []
-    for (name, date), stats in match_stats.items():
-        existing_matches_data.append(({'id': None, 'name': name, 'date': date}, stats))
+    existing_matches_data = [
+        ({'id': None, 'name': name, 'date': date}, stats)
+        for (name, date), stats in match_stats.items()
+    ]
 
     return already_ids, existing_matches_data
 
@@ -654,8 +661,7 @@ def main():
 
     if not new_matches:
         print("No new matches to scrape.")
-        # Still rewrite data.json so lastUpdated is current
-        output = build_output(existing_matches_data)
+        output = build_output(existing_matches_data, already_ids)
     else:
         print(f"\nScraping {len(new_matches)} new match(es)...")
         new_matches_data = []
@@ -671,8 +677,9 @@ def main():
                 print(f"    Failed: {e}")
             time.sleep(2)
 
-        # Merge existing + new
-        output = build_output(existing_matches_data + new_matches_data)
+        # existing_matches_data = data for already-cached matches (skipped this run)
+        # new_matches_data = freshly scraped new matches
+        output = build_output(existing_matches_data + new_matches_data, already_ids)
 
     with open('data.json', 'w') as f:
         json.dump(output, f, indent=2)

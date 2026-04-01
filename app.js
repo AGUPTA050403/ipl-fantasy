@@ -91,7 +91,7 @@ function renderCaps() {
         const name = CAP_PREDICTIONS[key].orange;
         const s    = DATA.players[name] || { runs: 0 };
         const nick = Object.values(DATA.teams).flatMap(t => t.players).find(p => p.full === name)?.nick || name.split(' ').pop();
-        return `<div class="cap-cell orange-cell">
+        return `<div class="cap-cell orange-cell" data-owner="${teamNames[key]}">
           <div class="cap-player">${nick}</div>
           <div class="cap-stat">${s.runs} runs</div>
         </div>`;
@@ -103,7 +103,7 @@ function renderCaps() {
         const name = CAP_PREDICTIONS[key].purple;
         const s    = DATA.players[name] || { wickets: 0 };
         const nick = Object.values(DATA.teams).flatMap(t => t.players).find(p => p.full === name)?.nick || name.split(' ').pop();
-        return `<div class="cap-cell purple-cell">
+        return `<div class="cap-cell purple-cell" data-owner="${teamNames[key]}">
           <div class="cap-player">${nick}</div>
           <div class="cap-stat">${s.wickets} wkts</div>
         </div>`;

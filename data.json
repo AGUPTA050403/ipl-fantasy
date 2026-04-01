@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-31T21:30:32Z",
+  "lastUpdated": "2026-04-01T07:15:54Z",
   "matchesLoaded": 4,
   "scrapedMatchIds": [
-    null,
-    null,
-    null,
-    null
+    "1527674",
+    "1527675",
+    "1527676",
+    "1527677"
   ],
   "teams": {
     "Adi": {
@@ -289,7 +289,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -307,7 +307,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 13,
           "wickets": 0,
           "catches": 0,
@@ -325,7 +325,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 80,
           "wickets": 0,
           "catches": 0,
@@ -343,7 +343,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 18,
           "wickets": 0,
           "catches": 1,
@@ -361,7 +361,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 9,
           "wickets": 1,
           "catches": 1,
@@ -379,7 +379,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -405,7 +405,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 1,
           "wickets": 0,
           "catches": 0,
@@ -431,7 +431,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -457,7 +457,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 78,
           "wickets": 0,
           "catches": 0,
@@ -475,7 +475,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 11,
           "wickets": 0,
           "catches": 0,
@@ -493,7 +493,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 38,
           "wickets": 0,
           "catches": 1,
@@ -511,7 +511,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -529,7 +529,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 38,
           "wickets": 0,
           "catches": 1,
@@ -547,7 +547,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -565,7 +565,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 1,
           "wickets": 0,
           "catches": 0,
@@ -583,7 +583,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -609,7 +609,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 2,
           "catches": 0,
@@ -651,7 +651,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 18,
           "wickets": 1,
           "catches": 0,
@@ -669,7 +669,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 2,
@@ -687,7 +687,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 39,
           "wickets": 0,
           "catches": 2,
@@ -701,16 +701,16 @@
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
-          "run_outs": 0
+          "run_outs": 1
         }
       ]
     },
@@ -723,7 +723,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 20,
           "wickets": 0,
           "catches": 2,
@@ -741,7 +741,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -759,7 +759,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 2,
           "catches": 0,
@@ -777,7 +777,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 37,
           "wickets": 0,
           "catches": 0,
@@ -795,7 +795,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 1,
@@ -813,7 +813,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -839,7 +839,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -857,7 +857,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 16,
           "wickets": 0,
           "catches": 0,
@@ -875,7 +875,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 69,
           "wickets": 0,
           "catches": 1,
@@ -893,7 +893,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 33,
           "wickets": 0,
           "catches": 0,
@@ -919,7 +919,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 1,
@@ -945,7 +945,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -987,7 +987,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 37,
           "wickets": 0,
           "catches": 0,
@@ -1013,7 +1013,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 7,
           "wickets": 0,
           "catches": 0,
@@ -1031,7 +1031,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -1057,7 +1057,7 @@
       "matches": [
         {
           "name": "RCB vs SRH",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 31,
           "wickets": 0,
           "catches": 2,
@@ -1091,7 +1091,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -1109,7 +1109,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -1127,7 +1127,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 3,
           "catches": 1,
@@ -1145,7 +1145,7 @@
       "matches": [
         {
           "name": "PBKS vs GT",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 4,
           "wickets": 0,
           "catches": 0,
@@ -1163,7 +1163,7 @@
       "matches": [
         {
           "name": "RR vs CSK",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 14,
           "wickets": 0,
           "catches": 0,
@@ -1181,7 +1181,7 @@
       "matches": [
         {
           "name": "MI vs KKR",
-          "date": "31 Mar",
+          "date": "1 Apr",
           "runs": 0,
           "wickets": 3,
           "catches": 0,
