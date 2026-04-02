@@ -1,12 +1,13 @@
 {
-  "lastUpdated": "2026-04-02T13:15:56Z",
-  "matchesLoaded": 5,
+  "lastUpdated": "2026-04-02T14:39:00Z",
+  "matchesLoaded": 6,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
     "1527676",
     "1527677",
-    "1527678"
+    "1527678",
+    "1527679"
   ],
   "teams": {
     "Adi": {
@@ -318,7 +319,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 80,
+      "runs": 82,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -328,6 +329,15 @@
           "name": "RCB vs SRH",
           "date": "1 Apr",
           "runs": 80,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -498,7 +508,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 11,
+      "runs": 57,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -508,6 +518,15 @@
           "name": "RCB vs SRH",
           "date": "1 Apr",
           "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -598,6 +617,15 @@
           "name": "RCB vs SRH",
           "date": "1 Apr",
           "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -795,6 +823,15 @@
           "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1031,6 +1068,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1085,7 +1131,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 7,
+      "runs": 54,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1095,6 +1141,15 @@
           "name": "RCB vs SRH",
           "date": "1 Apr",
           "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 47,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1151,6 +1206,15 @@
           "runs": 31,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
