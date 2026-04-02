@@ -171,6 +171,15 @@ def extract_next_data(html):
             pass
     return None
 
+def is_match_complete(nd):
+    """Return True if the match is finished (state=POST), False if live/pre."""
+    if not nd:
+        return False
+    raw = json.dumps(nd)
+    states = re.findall(r'"state"\s*:\s*"([^"]+)"', raw)
+    # POST = finished, LIVE = in progress, PRE = not started
+    return 'POST' in states and 'LIVE' not in states
+
 # ── Match list ────────────────────────────────────────────────
 def get_completed_matches():
     """
@@ -649,29 +658,71 @@ def main():
     print(f"Already scraped: {len(already_ids)} matches")
 
     matches = get_completed_matches()
+
+    # Separate into new (never seen) and previously-cached
     new_matches = [m for m in matches if m['id'] not in already_ids]
 
+    new_matches_data = []
+    live_matches_data = []   # in-progress: re-scraped every run, never cached
+    newly_completed_ids = set()
+
+    all_to_scrape = new_matches  # always scrape new ones
+
     if not new_matches:
-        print("No new matches to scrape.")
-        output = build_output(existing_matches_data, already_ids)
+        print("No new matches found on results page.")
     else:
         print(f"\nScraping {len(new_matches)} new match(es)...")
-        new_matches_data = []
-        for match in new_matches:
-            print(f"  [{match['id']}] {match['name']}")
-            try:
-                stats, method = scrape_scorecard(match, lookup)
-                hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))]
-                print(f"    → {method}: {len(hits)} fantasy players — {', '.join(hits) or 'none'}")
-                if stats:
-                    new_matches_data.append((match, stats))
-            except Exception as e:
-                print(f"    Failed: {e}")
-            time.sleep(2)
 
-        # existing_matches_data = data for already-cached matches (skipped this run)
-        # new_matches_data = freshly scraped new matches
-        output = build_output(existing_matches_data + new_matches_data, already_ids)
+    for match in all_to_scrape:
+        print(f"  [{match['id']}] {match['name']}")
+        try:
+            html = SESSION.get(
+                f'https://www.espncricinfo.com/series/{SERIES_SLUG}/{match["slug"]}/full-scorecard'
+            ).text
+            nd = extract_next_data(html)
+            complete = is_match_complete(nd)
+
+            if nd:
+                if not match.get('date'):
+                    match['date'] = extract_match_date(nd)
+                extracted_name = extract_match_name(nd)
+                if extracted_name:
+                    match['name'] = extracted_name
+
+            stats = {}
+            if nd:
+                stats = parse_scorecard_next_data(nd, lookup)
+            if not stats:
+                stats, _ = parse_scorecard_html_tables(html, lookup), 'HTML tables'
+
+            hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))]
+            status_label = 'complete' if complete else 'LIVE'
+            print(f"    → {status_label}: {len(hits)} fantasy players — {', '.join(hits) or 'none'}")
+
+            if stats:
+                if complete:
+                    new_matches_data.append((match, stats))
+                    newly_completed_ids.add(match['id'])
+                else:
+                    live_matches_data.append((match, stats))
+        except Exception as e:
+            print(f"    Failed: {e}")
+        time.sleep(2)
+
+    # For previously-cached matches, check if any are actually live
+    # (edge case: a match was scraped mid-game last run and cached incorrectly)
+    # We don't handle this here since we only cache POST matches going forward.
+
+    if live_matches_data:
+        print(f"\n{len(live_matches_data)} live match(es) scraped (not cached):")
+        for m, _ in live_matches_data:
+            print(f"  [{m['id']}] {m['name']} — will re-scrape next run")
+
+    # existing = cached completed; new_matches_data = newly completed; live = current game
+    all_matches_data = existing_matches_data + new_matches_data + live_matches_data
+    updated_ids = already_ids | newly_completed_ids  # only cache completed matches
+
+    output = build_output(all_matches_data, updated_ids)
 
     with open('data.json', 'w') as f:
         json.dump(output, f, indent=2)
