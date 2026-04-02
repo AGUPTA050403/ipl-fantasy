@@ -97,14 +97,25 @@ function renderCaps() {
       </div>`;
   }
 
+  const orangeOrder = [...order].sort((a, b) => {
+    const ra = (DATA.players[CAP_PREDICTIONS[a].orange] || {}).runs || 0;
+    const rb = (DATA.players[CAP_PREDICTIONS[b].orange] || {}).runs || 0;
+    return rb - ra;
+  });
+  const purpleOrder = [...order].sort((a, b) => {
+    const wa = (DATA.players[CAP_PREDICTIONS[a].purple] || {}).wickets || 0;
+    const wb = (DATA.players[CAP_PREDICTIONS[b].purple] || {}).wickets || 0;
+    return wb - wa;
+  });
+
   document.getElementById('caps-grid').innerHTML = `
     <div class="cap-section">
       <div class="cap-section-label">🟠 Orange Cap</div>
-      <div class="cap-cards">${order.map(k => capCard(k, 'orange')).join('')}</div>
+      <div class="cap-cards">${orangeOrder.map(k => capCard(k, 'orange')).join('')}</div>
     </div>
     <div class="cap-section">
       <div class="cap-section-label">🟣 Purple Cap</div>
-      <div class="cap-cards">${order.map(k => capCard(k, 'purple')).join('')}</div>
+      <div class="cap-cards">${purpleOrder.map(k => capCard(k, 'purple')).join('')}</div>
     </div>`;
 }
 
