@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T08:36:34Z",
-  "matchesLoaded": 4,
+  "lastUpdated": "2026-04-02T08:47:17Z",
+  "matchesLoaded": 5,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
     "1527676",
-    "1527677"
+    "1527677",
+    "1527678"
   ],
   "teams": {
     "Adi": {
@@ -390,11 +391,21 @@
     },
     "Axar Patel": {
       "runs": 0,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Noor Ahmad": {
       "runs": 1,
@@ -415,12 +426,22 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 0,
+      "runs": 7,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Khaleel Ahmed": {
       "runs": 0,
@@ -441,12 +462,22 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 0,
+      "runs": 11,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Rohit Sharma": {
       "runs": 78,
@@ -598,7 +629,17 @@
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Yuzvendra Chahal": {
       "runs": 0,
@@ -628,11 +669,21 @@
     },
     "Mohsin Khan": {
       "runs": 0,
-      "wickets": 0,
-      "catches": 0,
+      "wickets": 1,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Vaibhav Suryavanshi": {
       "runs": 0,
@@ -807,7 +858,7 @@
     "Bhuvneshwar Kumar": {
       "runs": 0,
       "wickets": 1,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -817,6 +868,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -903,12 +963,22 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 0,
+      "runs": 8,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Rashid Khan": {
       "runs": 0,
@@ -929,12 +999,22 @@
       ]
     },
     "Mohammed Shami": {
-      "runs": 0,
-      "wickets": 0,
+      "runs": 1,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 1,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Varun Chakravarthy": {
       "runs": 0,
@@ -1041,12 +1121,22 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 0,
+      "runs": 35,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 35,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Heinrich Klaasen": {
       "runs": 31,
@@ -1068,11 +1158,21 @@
     },
     "Kuldeep Yadav": {
       "runs": 0,
-      "wickets": 0,
-      "catches": 0,
+      "wickets": 2,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "R Sai Kishore": {
       "runs": 0,

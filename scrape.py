@@ -13,7 +13,7 @@ import re
 import time
 from datetime import datetime, timezone
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 # ── Config ────────────────────────────────────────────────────
@@ -148,15 +148,7 @@ def find_player_by_lastname(name, lookup):
     return matches[0] if len(matches) == 1 else None  # only match if unambiguous
 
 # ── HTTP session ──────────────────────────────────────────────
-SESSION = requests.Session()
-SESSION.headers.update({
-    'User-Agent':      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-    'Accept':          'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.9',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Referer':         'https://www.espncricinfo.com/',
-    'Connection':      'keep-alive',
-})
+SESSION = requests.Session(impersonate='chrome')
 
 def get_html(url, retries=3):
     for attempt in range(retries):
