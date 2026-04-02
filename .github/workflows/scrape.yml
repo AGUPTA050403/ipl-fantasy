@@ -2,7 +2,7 @@ name: Scrape IPL Stats
 
 on:
   schedule:
-    - cron: '0 12-20 * * *' # every hour from 12pm to 8pm UTC
+    - cron: '*/30 12-20 * * *' # every 30 mins from 12pm to 8pm UTC
   workflow_dispatch:          # manual trigger button in GitHub UI
   push:
     branches: [main]
