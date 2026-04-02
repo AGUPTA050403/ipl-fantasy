@@ -77,37 +77,34 @@ function renderAll() {
 }
 
 function renderCaps() {
-  const order = ['Adi','Kahaan','Anmol','Krish','Shyam'];
+  const order      = ['Adi','Kahaan','Anmol','Krish','Shyam'];
   const teamColors = { Adi:'#1565c0', Kahaan:'#c62828', Anmol:'#e65100', Krish:'#6a1b9a', Shyam:'#2e7d32' };
   const teamNames  = Object.fromEntries(Object.entries(DATA.teams).map(([k,v]) => [k, v.displayName]));
+  const allPlayers = Object.values(DATA.teams).flatMap(t => t.players);
+
+  function capCard(key, type) {
+    const isOrange = type === 'orange';
+    const name  = CAP_PREDICTIONS[key][type];
+    const s     = DATA.players[name] || { runs: 0, wickets: 0 };
+    const nick  = allPlayers.find(p => p.full === name)?.nick || name.split(' ').pop();
+    const stat  = isOrange ? `${s.runs} runs` : `${s.wickets} wkts`;
+    const color = teamColors[key];
+    return `
+      <div class="cap-card ${isOrange ? 'cap-orange' : 'cap-purple'}">
+        <div class="cap-card-owner" style="color:${color}">${teamNames[key]}</div>
+        <div class="cap-card-player">${nick}</div>
+        <div class="cap-card-stat">${stat}</div>
+      </div>`;
+  }
 
   document.getElementById('caps-grid').innerHTML = `
-    <div class="caps-header">
-      ${order.map(key => `<div class="caps-col-head" style="border-color:${teamColors[key]}">${teamNames[key]}</div>`).join('')}
+    <div class="cap-section">
+      <div class="cap-section-label">🟠 Orange Cap</div>
+      <div class="cap-cards">${order.map(k => capCard(k, 'orange')).join('')}</div>
     </div>
-    <div class="caps-row">
-      <div class="caps-row-label">🟠 Orange Cap</div>
-      ${order.map(key => {
-        const name = CAP_PREDICTIONS[key].orange;
-        const s    = DATA.players[name] || { runs: 0 };
-        const nick = Object.values(DATA.teams).flatMap(t => t.players).find(p => p.full === name)?.nick || name.split(' ').pop();
-        return `<div class="cap-cell orange-cell" data-owner="${teamNames[key]}">
-          <div class="cap-player">${nick}</div>
-          <div class="cap-stat">${s.runs} runs</div>
-        </div>`;
-      }).join('')}
-    </div>
-    <div class="caps-row">
-      <div class="caps-row-label">🟣 Purple Cap</div>
-      ${order.map(key => {
-        const name = CAP_PREDICTIONS[key].purple;
-        const s    = DATA.players[name] || { wickets: 0 };
-        const nick = Object.values(DATA.teams).flatMap(t => t.players).find(p => p.full === name)?.nick || name.split(' ').pop();
-        return `<div class="cap-cell purple-cell" data-owner="${teamNames[key]}">
-          <div class="cap-player">${nick}</div>
-          <div class="cap-stat">${s.wickets} wkts</div>
-        </div>`;
-      }).join('')}
+    <div class="cap-section">
+      <div class="cap-section-label">🟣 Purple Cap</div>
+      <div class="cap-cards">${order.map(k => capCard(k, 'purple')).join('')}</div>
     </div>`;
 }
 

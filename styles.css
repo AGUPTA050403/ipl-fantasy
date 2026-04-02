@@ -343,41 +343,41 @@ main {
 }
 
 /* ── Cap predictions ─────────────────────────────────────── */
-.caps-grid {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  overflow: hidden;
+.caps-grid        { display: flex; flex-direction: column; gap: 12px; }
+
+.cap-section      { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 16px 18px; }
+
+.cap-section-label {
+  font-size: .75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .08em; color: var(--muted); margin-bottom: 12px;
 }
-.caps-header {
+
+.cap-cards {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  border-bottom: 1px solid var(--border);
+  gap: 8px;
 }
-.caps-col-head {
-  padding: 10px 14px;
-  font-size: .78rem; font-weight: 700; color: #fff;
-  border-left: 3px solid transparent;
-  background: var(--surface2);
-}
-.caps-col-head:not(:last-child) { border-right: 1px solid var(--border); }
-.caps-row {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  border-bottom: 1px solid var(--border);
-}
-.caps-row:last-child { border-bottom: none; }
-.cap-cell {
+
+.cap-card {
+  border-radius: 10px;
   padding: 12px 14px;
-  border-right: 1px solid var(--border);
+  display: flex; flex-direction: column; gap: 4px;
 }
-.cap-cell:last-child { border-right: none; }
-.orange-cell { background: rgba(245,140,20,.08); }
-.purple-cell { background: rgba(130,60,200,.08); }
-.cap-player  { font-size: .9rem; font-weight: 700; margin-bottom: 3px; }
-.cap-stat    { font-size: .82rem; font-weight: 700; }
-.orange-cell .cap-stat { color: #f59c14; }
-.purple-cell .cap-stat { color: #a855f7; }
+.cap-orange { background: rgba(245,140,20,.1); border: 1px solid rgba(245,140,20,.25); }
+.cap-purple { background: rgba(168,85,247,.1); border: 1px solid rgba(168,85,247,.25); }
+
+.cap-card-owner  { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; }
+.cap-card-player { font-size: 1rem; font-weight: 800; color: var(--text); }
+.cap-card-stat   { font-size: .82rem; font-weight: 700; }
+.cap-orange .cap-card-stat { color: #f59c14; }
+.cap-purple .cap-card-stat { color: #a855f7; }
+
+@media (max-width: 700px) {
+  .cap-cards { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 420px) {
+  .cap-cards { grid-template-columns: repeat(2, 1fr); }
+}
 
 /* ── Responsive ───────────────────────────────────────── */
 @media (max-width: 900px) {
@@ -393,18 +393,4 @@ main {
   .modal { padding: 28px 20px; }
   .player-modal-inner { padding: 24px 18px; }
 
-  /* Caps on mobile: stack into 2 rows of cards */
-  .caps-header { display: none; }
-  .caps-row {
-    grid-template-columns: 1fr 1fr;
-    gap: 0;
-  }
-  .cap-cell { position: relative; padding: 10px 12px; }
-  .cap-cell::before {
-    content: attr(data-owner);
-    display: block;
-    font-size: .68rem;
-    color: var(--muted);
-    margin-bottom: 2px;
-  }
 }
