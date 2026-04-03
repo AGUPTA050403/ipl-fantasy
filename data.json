@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2026-04-03T13:05:45Z",
-  "matchesLoaded": 6,
+  "lastUpdated": "2026-04-03T14:11:54Z",
+  "matchesLoaded": 7,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
     "1527676",
     "1527677",
     "1527678",
-    "1527679"
+    "1527679",
+    "1527680"
   ],
   "teams": {
     "Adi": {
@@ -432,6 +433,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -463,6 +473,15 @@
         {
           "name": "RR vs CSK",
           "date": "1 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -563,6 +582,15 @@
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -754,6 +782,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -928,7 +965,7 @@
       "matches": []
     },
     "Ruturaj Gaikwad": {
-      "runs": 6,
+      "runs": 12,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -937,6 +974,15 @@
         {
           "name": "RR vs CSK",
           "date": "1 Apr",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
           "runs": 6,
           "wickets": 0,
           "catches": 0,
@@ -1107,7 +1153,7 @@
     "Prabhsimran Singh": {
       "runs": 37,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1117,6 +1163,15 @@
           "runs": 37,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1158,7 +1213,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 6,
+      "runs": 13,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1168,6 +1223,15 @@
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs CSK",
+          "date": "3 Apr",
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
