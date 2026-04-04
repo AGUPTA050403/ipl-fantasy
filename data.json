@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-04T13:55:50Z",
-  "matchesLoaded": 8,
+  "lastUpdated": "2026-04-04T14:35:39Z",
+  "matchesLoaded": 9,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -9,7 +9,8 @@
     "1527678",
     "1527679",
     "1527680",
-    "1527681"
+    "1527681",
+    "1527682"
   ],
   "teams": {
     "Adi": {
@@ -582,7 +583,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 38,
+      "runs": 74,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -594,6 +595,15 @@
           "runs": 38,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 36,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -699,6 +709,15 @@
         {
           "name": "PBKS vs GT",
           "date": "1 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -864,6 +883,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -933,6 +961,15 @@
           "date": "1 Apr",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1129,7 +1166,7 @@
     },
     "Rashid Khan": {
       "runs": 0,
-      "wickets": 1,
+      "wickets": 2,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -1140,6 +1177,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1416,6 +1462,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1432,6 +1487,15 @@
           "runs": 0,
           "wickets": 3,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1466,6 +1530,15 @@
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs RR",
+          "date": "4 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
