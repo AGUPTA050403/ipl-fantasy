@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T12:57:25Z",
+  "lastUpdated": "2026-04-04T13:55:50Z",
   "matchesLoaded": 8,
   "scrapedMatchIds": [
     "1527674",
@@ -418,20 +418,20 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs MI",
           "date": "4 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -715,18 +715,18 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 0,
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "DC vs MI",
-          "date": "4 Apr",
-          "runs": 1,
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -983,6 +983,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "1 Apr",
           "runs": 0,
@@ -994,15 +1003,6 @@
         {
           "name": "DC vs LSG",
           "date": "2 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs MI",
-          "date": "4 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 1,
@@ -1356,20 +1356,20 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs MI",
           "date": "4 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
