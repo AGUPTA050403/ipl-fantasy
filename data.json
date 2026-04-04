@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-03T20:48:51Z",
-  "matchesLoaded": 7,
+  "lastUpdated": "2026-04-04T12:57:25Z",
+  "matchesLoaded": 8,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -8,7 +8,8 @@
     "1527677",
     "1527678",
     "1527679",
-    "1527680"
+    "1527680",
+    "1527681"
   ],
   "teams": {
     "Adi": {
@@ -288,7 +289,7 @@
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs KKR",
@@ -298,6 +299,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -402,8 +412,8 @@
     },
     "Axar Patel": {
       "runs": 0,
-      "wickets": 1,
-      "catches": 0,
+      "wickets": 2,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -413,6 +423,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -509,7 +528,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 78,
+      "runs": 113,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -519,6 +538,15 @@
           "name": "MI vs KKR",
           "date": "1 Apr",
           "runs": 78,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 35,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -680,7 +708,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 0,
+      "runs": 1,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -690,6 +718,15 @@
           "name": "DC vs LSG",
           "date": "2 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -845,6 +882,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -932,7 +978,7 @@
     "Bhuvneshwar Kumar": {
       "runs": 0,
       "wickets": 1,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -948,6 +994,15 @@
         {
           "name": "DC vs LSG",
           "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 1,
@@ -992,7 +1047,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 16,
+      "runs": 67,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1002,6 +1057,15 @@
           "name": "MI vs KKR",
           "date": "1 Apr",
           "runs": 16,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 51,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1299,6 +1363,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1412,6 +1485,15 @@
           "date": "1 Apr",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs MI",
+          "date": "4 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
