@@ -137,12 +137,14 @@ def find_player(name, lookup):
         return None
     return lookup.get(norm(clean_name(name)))
 
+AMBIGUOUS_LASTNAMES = {'kumar', 'singh', 'sharma', 'patel', 'khan', 'yadav', 'reddy'}
+
 def find_player_by_lastname(name, lookup):
     """Last-name-only fallback — only used for fielder matching from short dismissal text."""
     if not name:
         return None
     last = norm(clean_name(name)).split()[-1] if norm(clean_name(name)).split() else ''
-    if not last or len(last) < 3:  # skip very short tokens to avoid false matches
+    if not last or len(last) < 4 or last in AMBIGUOUS_LASTNAMES:
         return None
     matches = [v for k, v in lookup.items() if k.split()[-1] == last]
     return matches[0] if len(matches) == 1 else None  # only match if unambiguous
@@ -502,14 +504,30 @@ def parse_scorecard_html_tables(html, lookup):
 
     return result
 
-def extract_match_date(nd):
-    """Pull the match date out of __NEXT_DATA__."""
+def extract_match_date(nd, match_id=None):
+    """Pull the match date out of __NEXT_DATA__.
+    Uses the match's own objectId to find its startDate, avoiding dates
+    from other matches/series embedded in the page.
+    """
     try:
         raw = json.dumps(nd)
-        for field in ('"startDate"', '"matchDate"', '"date"'):
-            m = re.search(field + r'\s*:\s*"(\d{4}-\d{2}-\d{2})', raw)
-            if m:
-                return m.group(1)
+        # Best: find startDate in the object for this specific match ID
+        if match_id:
+            idx = raw.find(f'"objectId": {match_id}')
+            if idx > 0:
+                chunk = raw[idx:idx + 500]
+                m = re.search(r'"startDate"\s*:\s*"(\d{4}-\d{2}-\d{2})', chunk)
+                if m:
+                    return m.group(1)
+        # Fallback: find startDate near inningBatsmen (the scorecard data)
+        idx = raw.find('"inningBatsmen"')
+        if idx > 0:
+            # Search broader window both directions
+            for start, end in [(max(0, idx-20000), idx), (idx, idx+20000)]:
+                chunk = raw[start:end]
+                m = re.search(r'"startDate"\s*:\s*"(\d{4}-\d{2}-\d{2})', chunk)
+                if m:
+                    return m.group(1)
     except Exception:
         pass
     return ''
@@ -695,7 +713,7 @@ def main():
             complete = is_match_complete(nd)
 
             if nd:
-                date = extract_match_date(nd)
+                date = extract_match_date(nd, match_id=mid)
                 if date:
                     match['date'] = date
                 name = extract_match_name(nd)
