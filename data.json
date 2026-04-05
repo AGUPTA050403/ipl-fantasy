@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T12:59:33Z",
+  "lastUpdated": "2026-04-05T13:58:30Z",
   "matchesLoaded": 10,
   "scrapedMatchIds": [
     "1527674",
@@ -483,15 +483,6 @@
       "run_outs": 1,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 7,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 30,
@@ -499,6 +490,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -537,20 +537,20 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 11,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 45,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1200,18 +1200,18 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 8,
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs SRH",
-          "date": "5 Apr",
-          "runs": 0,
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1254,19 +1254,19 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 1,
-          "wickets": 1,
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs SRH",
-          "date": "5 Apr",
-          "runs": 0,
-          "wickets": 2,
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 1,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1430,18 +1430,18 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 35,
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs SRH",
-          "date": "5 Apr",
-          "runs": 14,
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 35,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
