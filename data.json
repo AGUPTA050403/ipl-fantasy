@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T13:58:30Z",
-  "matchesLoaded": 10,
+  "lastUpdated": "2026-04-05T14:44:42Z",
+  "matchesLoaded": 11,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -11,7 +11,8 @@
     "1527680",
     "1527681",
     "1527682",
-    "1527683"
+    "1527683",
+    "1527684"
   ],
   "teams": {
     "Adi": {
@@ -418,6 +419,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -472,6 +482,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -521,6 +540,15 @@
         {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -649,7 +677,7 @@
     "Shivam Dube": {
       "runs": 6,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -668,6 +696,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1091,6 +1128,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1157,7 +1203,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 69,
+      "runs": 97,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -1169,6 +1215,15 @@
           "runs": 69,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 28,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
