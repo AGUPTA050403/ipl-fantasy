@@ -58,7 +58,7 @@ TEAMS = {
             {'nick': 'Chahal',      'full': 'Yuzvendra Chahal',     'aliases': ['Yuzvendra Chahal']},
             {'nick': 'Lockie',      'full': 'Lockie Ferguson',      'aliases': ['Lockie Ferguson']},
             {'nick': 'Mohsin Khan', 'full': 'Mohsin Khan',          'aliases': ['Mohsin Khan']},
-            {'nick': 'Suryavanshi', 'full': 'Vaibhav Suryavanshi', 'aliases': ['Vaibhav Suryavanshi']},
+            {'nick': 'Suryavanshi', 'full': 'Vaibhav Suryavanshi', 'aliases': ['Vaibhav Suryavanshi', 'Vaibhav Sooryavanshi']},
         ],
     },
     'Anmol': {
@@ -172,13 +172,14 @@ def extract_next_data(html):
     return None
 
 def is_match_complete(nd):
-    """Return True if the match is finished (state=POST), False if live/pre."""
+    """Return True if the match is finished.
+    Uses status=RESULT which is specific to this match's scorecard page.
+    Avoids checking 'state' which also appears for unrelated matches embedded in the page.
+    """
     if not nd:
         return False
     raw = json.dumps(nd)
-    states = re.findall(r'"state"\s*:\s*"([^"]+)"', raw)
-    # POST = finished, LIVE = in progress, PRE = not started
-    return 'POST' in states and 'LIVE' not in states
+    return bool(re.search(r'"status"\s*:\s*"RESULT"', raw))
 
 # ── Match list ────────────────────────────────────────────────
 def get_completed_matches():
@@ -352,8 +353,7 @@ def parse_scorecard_next_data(nd, lookup):
             if p:
                 add(p['player']['full'], 'runs', runs)
 
-            # Fielding credit — try structured fielders list first, then dismissal text
-            # Prefer long dismissal text (full names) over short (abbreviated names)
+            # Get dismissal text (long preferred — has full names)
             dt = b.get('dismissalText')
             dismissal_long  = ''
             dismissal_short = ''
@@ -363,53 +363,66 @@ def parse_scorecard_next_data(nd, lookup):
             elif isinstance(dt, str):
                 dismissal_long = dt
 
-            if dismissal_long or dismissal_short:
-                print(f'      [dismissal] {bat_name}: long={dismissal_long!r}  short={dismissal_short!r}')
-
-            fielders = b.get('inningFielders', []) or []
             credited = False
 
-            # Structured fielders (most reliable — full names from player objects)
+            # ESPN uses either 'inningFielders' or 'dismissalFielders' depending on the match
+            fielders = b.get('inningFielders') or b.get('dismissalFielders') or []
+
+            # Structured fielders — most reliable since they contain full player names
             for f in fielders:
-                fp_obj = f.get('player', {})
+                fp_obj = f.get('player') or {}  # ESPN sometimes sets player: null
                 fname  = fp_obj.get('longName') or fp_obj.get('name', '')
-                # Log the raw dismissal type so we know what ESPN sends
                 how_raw = f.get('dismissalType') or f.get('type') or ''
                 how     = how_raw.lower()
-                if how_raw:
-                    print(f'      [fielder] {fname!r} dismissalType={how_raw!r}')
                 fp = find_player(fname, lookup)
                 if fp:
-                    add(fp['player']['full'], 'stumpings' if 'stump' in how else 'catches')
+                    # For structured dismissalFielders without a type, infer from dismissal text
+                    if not how:
+                        if re.search(r'^st\s|^stumped\s', dismissal_long or dismissal_short, re.I):
+                            how = 'stumped'
+                        elif re.search(r'^run\s*out', dismissal_long or dismissal_short, re.I):
+                            how = 'run_out'
+                        else:
+                            how = 'caught'
+                    if 'stump' in how:
+                        add(fp['player']['full'], 'stumpings')
+                        print(f'    [field] {fname} → stumping (structured)')
+                    elif 'run_out' in how or 'run out' in how:
+                        add(fp['player']['full'], 'run_outs')
+                        print(f'    [field] {fname} → run_out (structured)')
+                    else:
+                        add(fp['player']['full'], 'catches')
+                        print(f'    [field] {fname} → catch (structured)')
                     credited = True
 
-            # Try long text first (has full names), then short text
+            # Fallback: parse dismissal text (long first, then short)
             if not credited:
                 for dtext in [dismissal_long, dismissal_short]:
                     if not dtext:
                         continue
-                    # Check for run out first
                     ro_fielder = parse_run_out_fielder(dtext)
                     if ro_fielder:
-                        fp = find_player(ro_fielder, lookup)
-                        if not fp:
-                            fp = find_player_by_lastname(ro_fielder, lookup)
+                        fp = find_player(ro_fielder, lookup) or find_player_by_lastname(ro_fielder, lookup)
                         if fp:
                             add(fp['player']['full'], 'run_outs')
+                            print(f'    [field] {fp["player"]["full"]} → run_out (text: {dtext!r})')
+                        else:
+                            print(f'    [field] UNMATCHED run_out fielder {ro_fielder!r} (text: {dtext!r})')
                         credited = True
                         break
-                    # Catch / stumping
                     credit = parse_dismissal_text(dtext)
                     if not credit:
                         continue
                     kind, fielder_name = credit
-                    fp = find_player(fielder_name, lookup)
-                    if not fp:
-                        fp = find_player_by_lastname(fielder_name, lookup)
+                    fp = find_player(fielder_name, lookup) or find_player_by_lastname(fielder_name, lookup)
                     if fp:
-                        add(fp['player']['full'], 'catches' if kind == 'catch' else 'stumpings')
-                        credited = True
-                        break
+                        stat = 'catches' if kind == 'catch' else 'stumpings'
+                        add(fp['player']['full'], stat)
+                        print(f'    [field] {fp["player"]["full"]} → {stat} (text: {dtext!r})')
+                    else:
+                        print(f'    [field] UNMATCHED {kind} fielder {fielder_name!r} (text: {dtext!r})')
+                    credited = True
+                    break
 
         # Bowling
         for b in inning.get('inningBowlers', []):
@@ -504,18 +517,17 @@ def extract_match_date(nd):
 def extract_match_name(nd):
     """
     Pull a short 'RCB vs SRH' name from __NEXT_DATA__.
-    Team abbreviations appear near the inningBatsmen data.
+    Searches the full JSON for IPL team abbreviations (2-4 uppercase letters,
+    excluding country codes) and returns the first two unique ones.
     """
+    COUNTRY_CODES = {'IND','AUS','ENG','PAK','NZ','SA','WI','SL','BAN','ZIM',
+                     'AFG','IRE','SCO','UAE','NED','SRI','ZIM','NAM','OMA','PNG'}
     try:
         raw = json.dumps(nd)
+        # Find abbreviations near inningBatsmen (most relevant context)
         idx = raw.find('inningBatsmen')
-        if idx < 0:
-            return ''
-        # Look in the 3000 chars before the first innings for team abbreviations
-        chunk = raw[max(0, idx - 3000):idx]
-        # IPL team codes are 2-4 uppercase letters; exclude country codes (IND, AUS, PAK etc.)
-        COUNTRY_CODES = {'IND','AUS','ENG','PAK','NZ','SA','WI','SL','BAN','ZIM','AFG','IRE','SCO','UAE','NED'}
-        abbrevs = re.findall(r'"abbreviation"\s*:\s*"([A-Z]{2,4})"', chunk)
+        search_range = raw if idx < 0 else raw[max(0, idx - 8000):idx + 1000]
+        abbrevs = re.findall(r'"abbreviation"\s*:\s*"([A-Z]{2,4})"', search_range)
         seen_t, unique = set(), []
         for a in abbrevs:
             if a not in seen_t and a not in COUNTRY_CODES:
@@ -563,7 +575,7 @@ def scrape_scorecard(match, lookup):
     return result, 'HTML tables'
 
 # ── Build data.json ───────────────────────────────────────────
-def build_output(matches_data, existing_ids=None):
+def build_output(matches_data, existing_ids=None, live_ids=None):
     players = {}
     for team in TEAMS.values():
         for p in team['players']:
@@ -600,9 +612,8 @@ def build_output(matches_data, existing_ids=None):
     return {
         'lastUpdated':     datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         'matchesLoaded':   len(matches_data),
-        'scrapedMatchIds': sorted(
-            (existing_ids or set()) | {m['id'] for m, _ in matches_data if m.get('id')}
-        ),
+        'scrapedMatchIds': sorted(existing_ids or set()),
+        'liveMatchIds':    sorted(live_ids or set()),
         'teams':           teams_out,
         'players':         players,
     }
@@ -610,24 +621,26 @@ def build_output(matches_data, existing_ids=None):
 # ── Load existing data.json ───────────────────────────────────
 def load_existing():
     """
-    Returns (already_scraped_ids, existing_matches_data) from data.json.
-    already_scraped_ids: set of match ID strings to skip this run.
-    existing_matches_data: list of (match_meta, stats_dict) to carry forward.
+    Returns (completed_ids, live_ids, existing_matches_data) from data.json.
+    completed_ids: set of fully-scraped match IDs — skip these entirely.
+    live_ids: set of in-progress match IDs — re-scrape but don't load from cache.
+    existing_matches_data: cached stats for completed matches only.
     """
     try:
         with open('data.json') as f:
             existing = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        return set(), []
+        return set(), set(), []
 
-    # Only keep real string IDs — filter out any nulls from previous bugs
-    already_ids = {i for i in existing.get('scrapedMatchIds', []) if i}
+    completed_ids = {i for i in existing.get('scrapedMatchIds', []) if i}
+    live_ids      = {i for i in existing.get('liveMatchIds', []) if i}
 
     # If IDs were corrupted/lost, start fresh to avoid double-counting
-    if not already_ids:
-        return set(), []
+    if not completed_ids and not live_ids:
+        return set(), set(), []
 
     # Reconstruct per-match stats from each player's match history
+    # Only for completed matches (live ones will be re-scraped fresh)
     match_stats = {}  # (name, date) → {full_name: stats_dict}
     for full_name, pdata in existing.get('players', {}).items():
         for m in pdata.get('matches', []):
@@ -639,7 +652,7 @@ def load_existing():
                 'wickets':   m.get('wickets', 0),
                 'catches':   m.get('catches', 0),
                 'stumpings': m.get('stumpings', 0),
-                'run_outs':  m.get('run_outs', 0),  # preserve run outs
+                'run_outs':  m.get('run_outs', 0),
             }
 
     existing_matches_data = [
@@ -647,82 +660,82 @@ def load_existing():
         for (name, date), stats in match_stats.items()
     ]
 
-    return already_ids, existing_matches_data
+    return completed_ids, live_ids, existing_matches_data
 
 # ── Main ──────────────────────────────────────────────────────
 def main():
     lookup = build_lookup()
 
-    # Load what we already have — skip those match IDs this run
-    already_ids, existing_matches_data = load_existing()
-    print(f"Already scraped: {len(already_ids)} matches")
+    completed_ids, prev_live_ids, existing_matches_data = load_existing()
+    print(f"Cached: {len(completed_ids)} completed, {len(prev_live_ids)} previously live")
 
     matches = get_completed_matches()
 
-    # Separate into new (never seen) and previously-cached
-    new_matches = [m for m in matches if m['id'] not in already_ids]
+    # Scrape: new matches + previously-live matches (re-check if now complete)
+    to_scrape = [m for m in matches if m['id'] not in completed_ids]
 
-    new_matches_data = []
-    live_matches_data = []   # in-progress: re-scraped every run, never cached
-    newly_completed_ids = set()
+    newly_completed_data = []
+    live_matches_data    = []
+    newly_completed_ids  = set()
+    current_live_ids     = set()
 
-    all_to_scrape = new_matches  # always scrape new ones
-
-    if not new_matches:
-        print("No new matches found on results page.")
+    if not to_scrape:
+        print("Nothing new to scrape.")
     else:
-        print(f"\nScraping {len(new_matches)} new match(es)...")
+        print(f"\nScraping {len(to_scrape)} match(es)...")
 
-    for match in all_to_scrape:
-        print(f"  [{match['id']}] {match['name']}")
+    for match in to_scrape:
+        mid = match['id']
+        print(f"\n  [{mid}] {match['name']}")
         try:
             html = SESSION.get(
                 f'https://www.espncricinfo.com/series/{SERIES_SLUG}/{match["slug"]}/full-scorecard'
             ).text
-            nd = extract_next_data(html)
+            nd       = extract_next_data(html)
             complete = is_match_complete(nd)
 
             if nd:
-                if not match.get('date'):
-                    match['date'] = extract_match_date(nd)
-                extracted_name = extract_match_name(nd)
-                if extracted_name:
-                    match['name'] = extracted_name
+                date = extract_match_date(nd)
+                if date:
+                    match['date'] = date
+                name = extract_match_name(nd)
+                if name:
+                    match['name'] = name
 
             stats = {}
             if nd:
                 stats = parse_scorecard_next_data(nd, lookup)
             if not stats:
-                stats, _ = parse_scorecard_html_tables(html, lookup), 'HTML tables'
+                stats = parse_scorecard_html_tables(html, lookup)
 
-            hits = [n for n, s in stats.items() if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))]
-            status_label = 'complete' if complete else 'LIVE'
-            print(f"    → {status_label}: {len(hits)} fantasy players — {', '.join(hits) or 'none'}")
+            hits = {n: s for n, s in stats.items()
+                    if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))}
+            status_label = 'COMPLETE' if complete else 'LIVE'
+            print(f"  → {status_label} | {len(hits)} fantasy players with stats:")
+            for pname, s in sorted(hits.items(), key=lambda x: -(x[1]['runs']+x[1]['wickets']*25+x[1]['catches']*10)):
+                pts = s['runs']+s['wickets']*25+s['catches']*10+s['stumpings']*5+s.get('run_outs',0)*5
+                print(f"      {pname:30s}  {s['runs']}r {s['wickets']}w {s['catches']}c {s['stumpings']}st {s.get('run_outs',0)}ro  = {pts}pts")
+            if not hits:
+                print("      (no fantasy players found — possible parse failure)")
 
             if stats:
                 if complete:
-                    new_matches_data.append((match, stats))
-                    newly_completed_ids.add(match['id'])
+                    newly_completed_data.append((match, stats))
+                    newly_completed_ids.add(mid)
                 else:
                     live_matches_data.append((match, stats))
+                    current_live_ids.add(mid)
+                    print(f"  ↻ Will re-scrape next run (match still LIVE)")
         except Exception as e:
-            print(f"    Failed: {e}")
+            import traceback
+            print(f"  FAILED: {e}")
+            traceback.print_exc()
         time.sleep(2)
 
-    # For previously-cached matches, check if any are actually live
-    # (edge case: a match was scraped mid-game last run and cached incorrectly)
-    # We don't handle this here since we only cache POST matches going forward.
+    all_matches_data  = existing_matches_data + newly_completed_data + live_matches_data
+    updated_completed = completed_ids | newly_completed_ids
 
-    if live_matches_data:
-        print(f"\n{len(live_matches_data)} live match(es) scraped (not cached):")
-        for m, _ in live_matches_data:
-            print(f"  [{m['id']}] {m['name']} — will re-scrape next run")
-
-    # existing = cached completed; new_matches_data = newly completed; live = current game
-    all_matches_data = existing_matches_data + new_matches_data + live_matches_data
-    updated_ids = already_ids | newly_completed_ids  # only cache completed matches
-
-    output = build_output(all_matches_data, updated_ids)
+    output = build_output(all_matches_data, updated_completed, current_live_ids)
 
     with open('data.json', 'w') as f:
         json.dump(output, f, indent=2)
