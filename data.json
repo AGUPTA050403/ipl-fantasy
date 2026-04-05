@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T14:44:42Z",
+  "lastUpdated": "2026-04-05T15:33:47Z",
   "matchesLoaded": 11,
   "scrapedMatchIds": [
     "1527674",
@@ -466,6 +466,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 1,
@@ -477,15 +486,6 @@
         {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs RCB",
-          "date": "5 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -529,6 +529,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 0,
@@ -540,15 +549,6 @@
         {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs RCB",
-          "date": "5 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -682,6 +682,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs RCB",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs CSK",
           "date": "1 Apr",
           "runs": 6,
@@ -696,15 +705,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs RCB",
-          "date": "5 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1121,20 +1121,20 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs LSG",
-          "date": "2 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "CSK vs RCB",
           "date": "5 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "2 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
