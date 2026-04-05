@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-04T20:33:36Z",
-  "matchesLoaded": 9,
+  "lastUpdated": "2026-04-05T12:59:33Z",
+  "matchesLoaded": 10,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -10,7 +10,8 @@
     "1527679",
     "1527680",
     "1527681",
-    "1527682"
+    "1527682",
+    "1527683"
   ],
   "teams": {
     "Adi": {
@@ -331,10 +332,10 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 82,
+      "runs": 83,
       "wickets": 0,
       "catches": 0,
-      "stumpings": 0,
+      "stumpings": 1,
       "run_outs": 0,
       "matches": [
         {
@@ -353,6 +354,15 @@
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 1,
           "run_outs": 0
         }
       ]
@@ -466,11 +476,11 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 7,
+      "runs": 37,
       "wickets": 0,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "DC vs LSG",
@@ -480,6 +490,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 30,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -511,9 +530,9 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 11,
+      "runs": 56,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -523,6 +542,15 @@
           "runs": 11,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 45,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -556,7 +584,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 57,
+      "runs": 64,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -575,6 +603,15 @@
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 46,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -673,9 +710,9 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 1,
+      "runs": 57,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -694,6 +731,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 56,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1161,6 +1207,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1193,7 +1248,7 @@
     },
     "Mohammed Shami": {
       "runs": 1,
-      "wickets": 1,
+      "wickets": 3,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -1203,6 +1258,15 @@
           "date": "2 Apr",
           "runs": 1,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1319,6 +1383,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1350,7 +1423,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 35,
+      "runs": 49,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1364,11 +1437,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 31,
+      "runs": 93,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1387,6 +1469,15 @@
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs SRH",
+          "date": "5 Apr",
+          "runs": 62,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
