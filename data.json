@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T13:12:55Z",
-  "matchesLoaded": 11,
+  "lastUpdated": "2026-04-06T14:30:43Z",
+  "matchesLoaded": 12,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -12,7 +12,8 @@
     "1527681",
     "1527682",
     "1527683",
-    "1527684"
+    "1527684",
+    "1527685"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -1004,6 +1005,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1134,7 +1144,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 65,
+      "runs": 71,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1153,6 +1163,15 @@
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 28,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1336,6 +1355,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1474,7 +1502,7 @@
     "Prabhsimran Singh": {
       "runs": 80,
       "wickets": 0,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1493,6 +1521,15 @@
           "runs": 43,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
