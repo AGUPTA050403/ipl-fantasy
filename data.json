@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T17:33:07Z",
+  "lastUpdated": "2026-04-07T19:04:57Z",
   "matchesLoaded": 13,
   "scrapedMatchIds": [
     "1527674",
@@ -694,6 +694,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 65,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 55,
@@ -708,15 +717,6 @@
           "runs": 38,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs RR",
-          "date": "7 Apr",
-          "runs": 65,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -963,6 +963,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 39,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 31,
@@ -975,15 +984,6 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 52,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs RR",
-          "date": "7 Apr",
-          "runs": 39,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1080,6 +1080,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 3,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 18,
@@ -1096,15 +1105,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
-        },
-        {
-          "name": "MI vs RR",
-          "date": "7 Apr",
-          "runs": 3,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -1179,6 +1179,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 7,
@@ -1192,15 +1201,6 @@
           "date": "30 Mar",
           "runs": 0,
           "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs RR",
-          "date": "7 Apr",
-          "runs": 0,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1893,6 +1893,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 20,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 8,
@@ -1905,15 +1914,6 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 14,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs RR",
-          "date": "7 Apr",
-          "runs": 20,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
