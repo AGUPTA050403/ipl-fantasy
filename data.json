@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T16:10:52Z",
-  "matchesLoaded": 12,
+  "lastUpdated": "2026-04-07T17:33:07Z",
+  "matchesLoaded": 13,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -13,7 +13,8 @@
     "1527682",
     "1527683",
     "1527684",
-    "1527685"
+    "1527685",
+    "1527686"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -313,6 +314,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -677,7 +687,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 93,
+      "runs": 158,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -698,6 +708,15 @@
           "runs": 38,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 65,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -937,7 +956,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 83,
+      "runs": 122,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -960,6 +979,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 39,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -976,6 +1004,15 @@
           "runs": 18,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1036,7 +1073,7 @@
       ]
     },
     "Shimron Hetmyer": {
-      "runs": 18,
+      "runs": 21,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -1059,13 +1096,22 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 3,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Tilak Varma": {
       "runs": 20,
       "wickets": 0,
-      "catches": 3,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1084,6 +1130,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1137,6 +1192,15 @@
           "date": "30 Mar",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1728,6 +1792,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1813,7 +1886,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 22,
+      "runs": 42,
       "wickets": 1,
       "catches": 0,
       "stumpings": 0,
@@ -1836,12 +1909,21 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 20,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Shardul Thakur": {
       "runs": 0,
-      "wickets": 3,
+      "wickets": 4,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -1860,6 +1942,15 @@
           "date": "4 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "7 Apr",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
