@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T14:53:30Z",
+  "lastUpdated": "2026-04-08T16:15:41Z",
   "matchesLoaded": 14,
   "scrapedMatchIds": [
     "1527674",
@@ -497,19 +497,19 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs LSG",
-          "date": "1 Apr",
+          "name": "DC vs GT",
+          "date": "8 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "DC vs GT",
-          "date": "8 Apr",
+          "name": "DC vs LSG",
+          "date": "1 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1814,20 +1814,20 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs LSG",
-          "date": "1 Apr",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs GT",
           "date": "8 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "1 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
