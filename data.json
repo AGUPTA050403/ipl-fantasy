@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-08T13:21:42Z",
-  "matchesLoaded": 13,
+  "lastUpdated": "2026-04-08T14:53:30Z",
+  "matchesLoaded": 14,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -14,7 +14,8 @@
     "1527683",
     "1527684",
     "1527685",
-    "1527686"
+    "1527686",
+    "1527687"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -327,7 +328,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 86,
+      "runs": 98,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -346,6 +347,15 @@
           "name": "GT vs RR",
           "date": "4 Apr",
           "runs": 73,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -491,6 +501,15 @@
           "date": "1 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -759,7 +778,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 64,
+      "runs": 116,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -780,6 +799,15 @@
           "runs": 26,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 52,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -870,6 +898,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1055,7 +1092,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 39,
+      "runs": 66,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1067,6 +1104,15 @@
           "runs": 39,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 27,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1482,6 +1528,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1744,7 +1799,7 @@
     },
     "Kuldeep Yadav": {
       "runs": 0,
-      "wickets": 2,
+      "wickets": 3,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1764,6 +1819,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1825,6 +1889,15 @@
           "date": "4 Apr",
           "runs": 23,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs GT",
+          "date": "8 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
