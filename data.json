@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T15:22:58Z",
+  "lastUpdated": "2026-04-09T16:48:28Z",
   "matchesLoaded": 15,
   "scrapedMatchIds": [
     "1527674",
@@ -1298,18 +1298,18 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 6,
+          "name": "LSG vs KKR",
+          "date": "9 Apr",
+          "runs": 9,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 9,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1495,18 +1495,18 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
+          "name": "LSG vs KKR",
+          "date": "9 Apr",
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 4,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
