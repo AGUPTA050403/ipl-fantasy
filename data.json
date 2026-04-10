@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T15:54:40Z",
+  "lastUpdated": "2026-04-10T16:52:58Z",
   "matchesLoaded": 16,
   "scrapedMatchIds": [
     "1527674",
@@ -1164,15 +1164,6 @@
           "run_outs": 0
         },
         {
-          "name": "RR vs CSK",
-          "date": "30 Mar",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
-        },
-        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 0,
@@ -1180,6 +1171,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs CSK",
+          "date": "30 Mar",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -1281,19 +1281,19 @@
           "run_outs": 1
         },
         {
-          "name": "RR vs CSK",
-          "date": "30 Mar",
+          "name": "RR vs RCB",
+          "date": "10 Apr",
           "runs": 0,
-          "wickets": 2,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "RR vs RCB",
-          "date": "10 Apr",
+          "name": "RR vs CSK",
+          "date": "30 Mar",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1362,20 +1362,20 @@
           "run_outs": 0
         },
         {
-          "name": "RR vs CSK",
-          "date": "30 Mar",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 0,
           "wickets": 2,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs CSK",
+          "date": "30 Mar",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
