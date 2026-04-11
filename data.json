@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-10T20:38:22Z",
-  "matchesLoaded": 16,
+  "lastUpdated": "2026-04-11T12:59:33Z",
+  "matchesLoaded": 17,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -17,7 +17,8 @@
     "1527686",
     "1527687",
     "1527688",
-    "1527689"
+    "1527689",
+    "1527690"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -366,7 +367,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 95,
+      "runs": 122,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -398,11 +399,20 @@
           "catches": 0,
           "stumpings": 1,
           "run_outs": 1
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 27,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Shreyas Iyer": {
-      "runs": 68,
+      "runs": 73,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -425,13 +435,22 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 5,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Marco Jansen": {
       "runs": 9,
       "wickets": 2,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -450,6 +469,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -690,7 +718,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 64,
+      "runs": 102,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -718,6 +746,15 @@
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 38,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -838,7 +875,7 @@
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "PBKS vs GT",
@@ -857,13 +894,22 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
     "Nitish Kumar Reddy": {
       "runs": 96,
       "wickets": 2,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -889,6 +935,15 @@
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 56,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -981,6 +1036,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1077,8 +1141,8 @@
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 0,
-      "catches": 2,
+      "wickets": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1106,6 +1170,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1720,11 +1793,11 @@
       "matches": []
     },
     "Prabhsimran Singh": {
-      "runs": 80,
+      "runs": 131,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "PBKS vs GT",
@@ -1752,6 +1825,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 51,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -1764,7 +1846,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 55,
+      "runs": 129,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1792,6 +1874,15 @@
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 74,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1863,9 +1954,9 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 145,
+      "runs": 184,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1893,6 +1984,15 @@
           "runs": 62,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 39,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2034,7 +2134,7 @@
     },
     "Shashank Singh": {
       "runs": 18,
-      "wickets": 0,
+      "wickets": 2,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -2053,6 +2153,15 @@
           "date": "3 Apr",
           "runs": 14,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "11 Apr",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
