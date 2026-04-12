@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-11T20:35:22Z",
-  "matchesLoaded": 18,
+  "lastUpdated": "2026-04-12T13:03:34Z",
+  "matchesLoaded": 19,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -19,7 +19,8 @@
     "1527688",
     "1527689",
     "1527690",
-    "1527691"
+    "1527691",
+    "1527692"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -332,7 +333,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 98,
+      "runs": 113,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -360,6 +361,15 @@
           "name": "DC vs GT",
           "date": "8 Apr",
           "runs": 12,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -611,7 +621,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 75,
+      "runs": 93,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -632,6 +642,15 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -683,7 +702,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 56,
+      "runs": 86,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -713,6 +732,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 30,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -872,9 +900,9 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 116,
+      "runs": 165,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -902,6 +930,15 @@
           "runs": 52,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 49,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -990,7 +1027,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 1,
+      "wickets": 2,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -1018,6 +1055,15 @@
           "date": "8 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1222,9 +1268,9 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 66,
+      "runs": 117,
       "wickets": 0,
-      "catches": 2,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1243,6 +1289,15 @@
           "runs": 27,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 51,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1699,7 +1754,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 9,
+      "runs": 28,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1718,6 +1773,15 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 19,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1758,11 +1822,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Mohammed Shami": {
-      "runs": 1,
+      "runs": 13,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -1792,6 +1865,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 12,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1992,7 +2074,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 49,
+      "runs": 60,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2011,6 +2093,15 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 35,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2145,7 +2236,7 @@
     },
     "Kagiso Rabada": {
       "runs": 23,
-      "wickets": 3,
+      "wickets": 4,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -2176,12 +2267,21 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Prasidh Krishna": {
       "runs": 0,
-      "wickets": 4,
+      "wickets": 8,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -2200,6 +2300,15 @@
           "date": "4 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 4,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
