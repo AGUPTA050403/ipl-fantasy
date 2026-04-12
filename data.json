@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-12T13:03:34Z",
-  "matchesLoaded": 19,
+  "lastUpdated": "2026-04-12T14:09:42Z",
+  "matchesLoaded": 20,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -20,7 +20,8 @@
     "1527689",
     "1527690",
     "1527691",
-    "1527692"
+    "1527692",
+    "1527693"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -527,6 +528,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RCB",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -628,6 +638,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 68,
@@ -642,15 +661,6 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs LSG",
-          "date": "12 Apr",
-          "runs": 18,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -709,6 +719,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 30,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 45,
@@ -732,15 +751,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs LSG",
-          "date": "12 Apr",
-          "runs": 30,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1219,6 +1229,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RCB",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1579,6 +1598,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RCB",
+          "date": "12 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1673,7 +1701,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 129,
+      "runs": 136,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1701,6 +1729,15 @@
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 32,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RCB",
+          "date": "12 Apr",
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1761,6 +1798,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 19,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 1,
@@ -1773,15 +1819,6 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 8,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs LSG",
-          "date": "12 Apr",
-          "runs": 19,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1842,6 +1879,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 12,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 0,
@@ -1865,15 +1911,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs LSG",
-          "date": "12 Apr",
-          "runs": 12,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2081,6 +2118,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs LSG",
+          "date": "12 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs SRH",
           "date": "5 Apr",
           "runs": 14,
@@ -2093,15 +2139,6 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 35,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs LSG",
-          "date": "12 Apr",
-          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2226,6 +2263,15 @@
         {
           "name": "MI vs RR",
           "date": "7 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RCB",
+          "date": "12 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
