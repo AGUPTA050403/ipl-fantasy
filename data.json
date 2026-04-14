@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T16:12:46Z",
+  "lastUpdated": "2026-04-14T18:43:53Z",
   "matchesLoaded": 22,
   "scrapedMatchIds": [
     "1527674",
@@ -608,7 +608,7 @@
     },
     "Noor Ahmad": {
       "runs": 9,
-      "wickets": 1,
+      "wickets": 4,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -653,7 +653,7 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -707,7 +707,7 @@
     },
     "Khaleel Ahmed": {
       "runs": 0,
-      "wickets": 1,
+      "wickets": 2,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -752,7 +752,7 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -960,7 +960,7 @@
     "Shivam Dube": {
       "runs": 102,
       "wickets": 1,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1005,7 +1005,7 @@
           "date": "14 Apr",
           "runs": 13,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1560,7 +1560,7 @@
       ]
     },
     "Sunil Narine": {
-      "runs": 22,
+      "runs": 36,
       "wickets": 3,
       "catches": 0,
       "stumpings": 0,
@@ -1596,7 +1596,7 @@
         {
           "name": "KKR vs CSK",
           "date": "14 Apr",
-          "runs": 10,
+          "runs": 24,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -1814,7 +1814,7 @@
     "Dewald Brevis": {
       "runs": 41,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1832,7 +1832,7 @@
           "date": "14 Apr",
           "runs": 41,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1841,7 +1841,7 @@
     "Ruturaj Gaikwad": {
       "runs": 63,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -1886,7 +1886,7 @@
           "date": "14 Apr",
           "runs": 7,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1983,7 +1983,7 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 72,
+      "runs": 78,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -2028,7 +2028,7 @@
         {
           "name": "KKR vs CSK",
           "date": "14 Apr",
-          "runs": 0,
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
