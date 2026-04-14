@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-13T20:57:08Z",
-  "matchesLoaded": 20,
+  "lastUpdated": "2026-04-14T13:28:03Z",
+  "matchesLoaded": 21,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -21,7 +21,8 @@
     "1527690",
     "1527691",
     "1527692",
-    "1527693"
+    "1527693",
+    "1529264"
   ],
   "liveMatchIds": [],
   "teams": {
@@ -379,9 +380,9 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 122,
+      "runs": 213,
       "wickets": 0,
-      "catches": 2,
+      "catches": 4,
       "stumpings": 1,
       "run_outs": 1,
       "matches": [
@@ -418,6 +419,15 @@
           "runs": 27,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 91,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -802,7 +812,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 102,
+      "runs": 120,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -843,11 +853,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 183,
+      "runs": 184,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -886,6 +905,15 @@
           "runs": 38,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1018,9 +1046,9 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 96,
+      "runs": 124,
       "wickets": 2,
-      "catches": 2,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1057,6 +1085,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 28,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1252,6 +1289,15 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 52,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1494,7 +1540,7 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 31,
+      "runs": 76,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -1532,6 +1578,15 @@
           "date": "30 Mar",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 45,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1586,7 +1641,7 @@
     "Ravi Bishnoi": {
       "runs": 0,
       "wickets": 9,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1623,6 +1678,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2104,7 +2168,7 @@
     "Abhishek Sharma": {
       "runs": 129,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2141,6 +2205,15 @@
           "runs": 74,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2237,7 +2310,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 184,
+      "runs": 224,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2276,6 +2349,15 @@
           "runs": 39,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 40,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2497,9 +2579,9 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 45,
-      "wickets": 1,
-      "catches": 0,
+      "runs": 49,
+      "wickets": 2,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2536,6 +2618,15 @@
           "runs": 14,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs SRH",
+          "date": "13 Apr",
+          "runs": 4,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
