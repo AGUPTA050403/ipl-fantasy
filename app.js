@@ -72,6 +72,7 @@ function buildTeamStats() {
 function renderAll() {
   const ts = buildTeamStats();
   renderLeaderboard(ts);
+  renderChart(ts);
   renderCaps();
   renderTeams(ts);
 }
@@ -117,6 +118,86 @@ function renderCaps() {
       <div class="cap-section-label">🟣 Purple Cap</div>
       <div class="cap-cards">${purpleOrder.map(k => capCard(k, 'purple')).join('')}</div>
     </div>`;
+}
+
+// ── Points race chart ─────────────────────────────────────────
+function renderChart(ts) {
+  // Collect all unique matches across all players and sort by date
+  const MONTHS = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+  const matchMap = {};
+  for (const pdata of Object.values(DATA.players)) {
+    for (const m of (pdata.matches || [])) {
+      const key = m.name + '|' + m.date;
+      if (!matchMap[key]) matchMap[key] = {name: m.name, date: m.date};
+    }
+  }
+  const matches = Object.values(matchMap).sort((a, b) => {
+    const parse = d => { const [day, mon] = d.split(' '); return MONTHS[mon] * 100 + parseInt(day); };
+    return parse(a.date) - parse(b.date);
+  });
+
+  const datasets = Object.entries(ts).map(([key, team]) => {
+    // Sum points per match across all players in this team
+    const matchPts = {};
+    for (const player of team.players) {
+      const pdata = DATA.players[player.full];
+      if (!pdata) continue;
+      for (const m of (pdata.matches || [])) {
+        const mk = m.name + '|' + m.date;
+        matchPts[mk] = (matchPts[mk] || 0) + calcPts(m);
+      }
+    }
+    // Accumulate
+    let cum = 0;
+    return {
+      label: team.displayName,
+      data: matches.map(m => { cum += matchPts[m.name + '|' + m.date] || 0; return cum; }),
+      borderColor: team.color,
+      backgroundColor: team.color + '22',
+      borderWidth: 2.5,
+      pointRadius: 4,
+      pointHoverRadius: 6,
+      tension: 0.3,
+      fill: false,
+    };
+  });
+
+  const labels = matches.map((m, i) => `G${i + 1}: ${m.name}`);
+  const ctx = document.getElementById('points-chart').getContext('2d');
+  if (window._pointsChart) window._pointsChart.destroy();
+  window._pointsChart = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { labels: { color: '#e6e6f0', font: { size: 12 }, boxWidth: 12 } },
+        tooltip: {
+          backgroundColor: '#14142a',
+          borderColor: '#28284a',
+          borderWidth: 1,
+          titleColor: '#e6e6f0',
+          bodyColor: '#aaaacc',
+          callbacks: {
+            label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y} pts`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          ticks: { color: '#7878aa', font: { size: 11 }, maxRotation: 45 },
+          grid: { color: '#28284a' },
+        },
+        y: {
+          ticks: { color: '#7878aa' },
+          grid: { color: '#28284a' },
+          title: { display: true, text: 'Cumulative Points', color: '#7878aa', font: { size: 12 } },
+        },
+      },
+    },
+  });
 }
 
 function renderLeaderboard(ts) {
