@@ -593,7 +593,7 @@ def scrape_scorecard(match, lookup):
     return result, 'HTML tables'
 
 # ── Build data.json ───────────────────────────────────────────
-def build_output(matches_data, existing_ids=None, live_ids=None):
+def build_output(matches_data, existing_ids=None, live_ids=None, live_match_names=None):
     players = {}
     for team in TEAMS.values():
         for p in team['players']:
@@ -632,6 +632,7 @@ def build_output(matches_data, existing_ids=None, live_ids=None):
         'matchesLoaded':   len(matches_data),
         'scrapedMatchIds': sorted(existing_ids or set()),
         'liveMatchIds':    sorted(live_ids or set()),
+        'liveMatchNames':  sorted(live_match_names or set()),
         'teams':           teams_out,
         'players':         players,
     }
@@ -650,18 +651,22 @@ def load_existing():
     except (FileNotFoundError, json.JSONDecodeError):
         return set(), set(), []
 
-    completed_ids = {i for i in existing.get('scrapedMatchIds', []) if i}
-    live_ids      = {i for i in existing.get('liveMatchIds', []) if i}
+    completed_ids   = {i for i in existing.get('scrapedMatchIds', []) if i}
+    live_ids        = {i for i in existing.get('liveMatchIds', []) if i}
+    live_match_names = set(existing.get('liveMatchNames', []))
 
     # If IDs were corrupted/lost, start fresh to avoid double-counting
     if not completed_ids and not live_ids:
         return set(), set(), []
 
-    # Reconstruct per-match stats from each player's match history
-    # Only for completed matches (live ones will be re-scraped fresh)
+    # Reconstruct per-match stats from each player's match history.
+    # Exclude live match entries — they will be re-scraped fresh this run
+    # to avoid double-counting partial stats from a previous mid-game scrape.
     match_stats = {}  # (name, date) → {full_name: stats_dict}
     for full_name, pdata in existing.get('players', {}).items():
         for m in pdata.get('matches', []):
+            if m['name'] in live_match_names:
+                continue  # skip — will be re-scraped
             key = (m['name'], m['date'])
             if key not in match_stats:
                 match_stats[key] = {}
@@ -750,10 +755,11 @@ def main():
             traceback.print_exc()
         time.sleep(2)
 
-    all_matches_data  = existing_matches_data + newly_completed_data + live_matches_data
-    updated_completed = completed_ids | newly_completed_ids
+    all_matches_data   = existing_matches_data + newly_completed_data + live_matches_data
+    updated_completed  = completed_ids | newly_completed_ids
+    current_live_names = {m['name'] for m, _ in live_matches_data}
 
-    output = build_output(all_matches_data, updated_completed, current_live_ids)
+    output = build_output(all_matches_data, updated_completed, current_live_ids, current_live_names)
 
     with open('data.json', 'w') as f:
         json.dump(output, f, indent=2)
