@@ -162,7 +162,7 @@ function renderChart(ts) {
     };
   });
 
-  const labels = matches.map((m, i) => `G${i + 1}: ${m.name}`);
+  const labels = matches.map(m => m.date);
   const ctx = document.getElementById('points-chart').getContext('2d');
   if (window._pointsChart) window._pointsChart.destroy();
   window._pointsChart = new Chart(ctx, {
@@ -181,13 +181,14 @@ function renderChart(ts) {
           titleColor: '#e6e6f0',
           bodyColor: '#aaaacc',
           callbacks: {
+            title: ctx => `${matches[ctx[0].dataIndex].date} · ${matches[ctx[0].dataIndex].name}`,
             label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y} pts`,
           },
         },
       },
       scales: {
         x: {
-          ticks: { color: '#7878aa', font: { size: 11 }, maxRotation: 45 },
+          ticks: { color: '#7878aa', font: { size: 11 }, maxRotation: 0 },
           grid: { color: '#28284a' },
         },
         y: {
