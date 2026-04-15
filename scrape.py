@@ -173,15 +173,58 @@ def extract_next_data(html):
             pass
     return None
 
-def is_match_complete(nd):
-    """Return True if the match is finished.
-    Uses status=RESULT which is specific to this match's scorecard page.
-    Avoids checking 'state' which also appears for unrelated matches embedded in the page.
+def count_complete_innings(nd):
+    """Count innings objects that have BOTH non-empty inningBatsmen and inningBowlers.
+    A completed T20 must have at least 2 such innings.
+    """
+    count = [0]
+    def walk(obj):
+        if isinstance(obj, dict):
+            if obj.get('inningBatsmen') and obj.get('inningBowlers'):
+                count[0] += 1
+            for v in obj.values():
+                walk(v)
+        elif isinstance(obj, list):
+            for item in obj:
+                walk(item)
+    walk(nd)
+    return count[0]
+
+def is_match_complete(nd, match_id=None):
+    """Return True only if:
+    1. The scorecard has >= 2 innings each with batting AND bowling data, AND
+    2. status=RESULT is found anchored near this match's innings data.
+
+    Searching the entire __NEXT_DATA__ dump for status=RESULT is unreliable —
+    the blob contains global match listings where other completed matches also
+    appear with status=RESULT. We anchor the search near the innings data to
+    avoid false positives.
     """
     if not nd:
         return False
+
+    # Gate 1: must have at least 2 innings with complete batting+bowling data
+    complete_innings = count_complete_innings(nd)
+    if complete_innings < 2:
+        return False
+
     raw = json.dumps(nd)
-    return bool(re.search(r'"status"\s*:\s*"RESULT"', raw))
+
+    # Gate 2: status=RESULT anchored to this match's own data
+    # Try objectId anchor first (most specific)
+    if match_id:
+        idx = raw.find(f'"objectId": {match_id}')
+        if idx > 0:
+            window = raw[max(0, idx - 100):idx + 5000]
+            if re.search(r'"status"\s*:\s*"RESULT"', window):
+                return True
+
+    # Fallback: check near the innings data (still avoids searching unrelated matches)
+    idx = raw.find('"inningBatsmen"')
+    if idx < 0:
+        return False
+    window = raw[max(0, idx - 30000):idx + 30000]
+    return bool(re.search(r'"status"\s*:\s*"RESULT"', window))
 
 # ── Match list ────────────────────────────────────────────────
 def get_completed_matches():
@@ -715,7 +758,7 @@ def main():
                 f'https://www.espncricinfo.com/series/{SERIES_SLUG}/{match["slug"]}/full-scorecard'
             ).text
             nd       = extract_next_data(html)
-            complete = is_match_complete(nd)
+            complete = is_match_complete(nd, match_id=mid)
 
             if nd:
                 date = extract_match_date(nd, match_id=mid)
@@ -733,6 +776,19 @@ def main():
 
             hits = {n: s for n, s in stats.items()
                     if any(s[k] for k in ('runs','wickets','catches','stumpings','run_outs'))}
+
+            # Safeguard: even if status=RESULT, don't permanently cache if the
+            # scorecard looks suspiciously empty (ESPN sometimes returns incomplete
+            # data during/just after match completion). Keep as LIVE to re-scrape.
+            if complete:
+                total_wickets = sum(s.get('wickets', 0) for s in stats.values())
+                if not hits:
+                    print(f"  ⚠ COMPLETE status but 0 fantasy players found — staying LIVE to re-check")
+                    complete = False
+                elif total_wickets == 0:
+                    print(f"  ⚠ COMPLETE status but 0 wickets found across all players — staying LIVE to re-check")
+                    complete = False
+
             status_label = 'COMPLETE' if complete else 'LIVE'
             print(f"  → {status_label} | {len(hits)} fantasy players with stats:")
             for pname, s in sorted(hits.items(), key=lambda x: -(x[1]['runs']+x[1]['wickets']*25+x[1]['catches']*10)):
