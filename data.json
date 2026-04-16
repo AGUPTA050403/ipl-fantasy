@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-16T13:46:12Z",
-  "matchesLoaded": 23,
+  "lastUpdated": "2026-04-16T15:26:49Z",
+  "matchesLoaded": 24,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -26,8 +26,12 @@
     "1529265",
     "1529266"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529267"
+  ],
+  "liveMatchNames": [
+    "PBKS vs MI"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -343,6 +347,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -511,6 +524,15 @@
           "date": "3 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1267,7 +1289,7 @@
     "Yuzvendra Chahal": {
       "runs": 0,
       "wickets": 3,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1294,6 +1316,15 @@
           "date": "3 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
@@ -1381,7 +1412,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 67,
+      "runs": 73,
       "wickets": 2,
       "catches": 2,
       "stumpings": 0,
@@ -1413,12 +1444,21 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 2,
+      "wickets": 4,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1455,6 +1495,15 @@
           "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1582,6 +1631,15 @@
           "runs": 1,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1969,6 +2027,15 @@
           "runs": 33,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2745,8 +2812,8 @@
     },
     "Shashank Singh": {
       "runs": 34,
-      "wickets": 2,
-      "catches": 0,
+      "wickets": 3,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2774,6 +2841,15 @@
           "runs": 14,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2872,6 +2948,15 @@
           "date": "12 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
