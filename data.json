@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T15:26:49Z",
+  "lastUpdated": "2026-04-16T16:54:46Z",
   "matchesLoaded": 24,
   "scrapedMatchIds": [
     "1527674",
@@ -459,7 +459,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 137,
+      "runs": 158,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -491,12 +491,21 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 21,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Marco Jansen": {
       "runs": 9,
-      "wickets": 2,
+      "wickets": 3,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -532,7 +541,7 @@
           "name": "PBKS vs MI",
           "date": "16 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1139,6 +1148,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1412,7 +1430,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 73,
+      "runs": 81,
       "wickets": 2,
       "catches": 2,
       "stumpings": 0,
@@ -1448,7 +1466,7 @@
         {
           "name": "PBKS vs MI",
           "date": "16 Apr",
-          "runs": 6,
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1458,7 +1476,7 @@
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 4,
+      "wickets": 5,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1503,7 +1521,7 @@
           "name": "PBKS vs MI",
           "date": "16 Apr",
           "runs": 0,
-          "wickets": 2,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1592,7 +1610,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 35,
+      "runs": 43,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -1637,7 +1655,7 @@
         {
           "name": "PBKS vs MI",
           "date": "16 Apr",
-          "runs": 0,
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2363,7 +2381,7 @@
       "matches": []
     },
     "Prabhsimran Singh": {
-      "runs": 131,
+      "runs": 184,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2402,6 +2420,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs MI",
+          "date": "16 Apr",
+          "runs": 53,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
