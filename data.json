@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T18:12:02Z",
+  "lastUpdated": "2026-04-17T19:37:40Z",
   "matchesLoaded": 25,
   "scrapedMatchIds": [
     "1527674",
@@ -1714,6 +1714,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 12,
@@ -1734,15 +1743,6 @@
         {
           "name": "LSG vs KKR",
           "date": "9 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -2173,6 +2173,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 35,
@@ -2205,15 +2214,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 1,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2398,6 +2398,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs SRH",
           "date": "2 Apr",
           "runs": 0,
@@ -2411,15 +2420,6 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
