@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T17:14:16Z",
+  "lastUpdated": "2026-04-17T18:12:02Z",
   "matchesLoaded": 25,
   "scrapedMatchIds": [
     "1527674",
@@ -25,14 +25,11 @@
     "1529264",
     "1529265",
     "1529266",
-    "1529267"
-  ],
-  "liveMatchIds": [
+    "1529267",
     "1529268"
   ],
-  "liveMatchNames": [
-    "GT vs KKR"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -1557,7 +1554,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 243,
+      "runs": 251,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -1593,7 +1590,7 @@
         {
           "name": "GT vs KKR",
           "date": "17 Apr",
-          "runs": 78,
+          "runs": 86,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2162,7 +2159,7 @@
     "Rinku Singh": {
       "runs": 79,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2216,7 +2213,7 @@
           "date": "17 Apr",
           "runs": 1,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
