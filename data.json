@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-17T13:21:46Z",
-  "matchesLoaded": 24,
+  "lastUpdated": "2026-04-17T14:40:58Z",
+  "matchesLoaded": 25,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -27,8 +27,12 @@
     "1529266",
     "1529267"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529268"
+  ],
+  "liveMatchNames": [
+    "GT vs KKR"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -1070,7 +1074,7 @@
     "Jos Buttler": {
       "runs": 176,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -1105,6 +1109,15 @@
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 60,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1213,7 +1226,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 3,
+      "wickets": 4,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -1248,6 +1261,15 @@
         {
           "name": "GT vs LSG",
           "date": "12 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -1699,6 +1721,15 @@
           "date": "9 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2156,6 +2187,15 @@
         {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -2746,8 +2786,8 @@
     },
     "Kagiso Rabada": {
       "runs": 23,
-      "wickets": 4,
-      "catches": 0,
+      "wickets": 6,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2784,6 +2824,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2828,6 +2877,15 @@
           "date": "12 Apr",
           "runs": 0,
           "wickets": 4,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "17 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
