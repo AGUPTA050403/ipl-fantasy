@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T13:04:01Z",
-  "matchesLoaded": 26,
+  "lastUpdated": "2026-04-18T14:10:08Z",
+  "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -26,13 +26,14 @@
     "1529265",
     "1529266",
     "1529267",
-    "1529268"
-  ],
-  "liveMatchIds": [
+    "1529268",
     "1529269"
   ],
+  "liveMatchIds": [
+    "1529270"
+  ],
   "liveMatchNames": [
-    "DC vs RCB"
+    "CSK vs SRH"
   ],
   "teams": {
     "Adi": {
@@ -466,6 +467,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -612,7 +622,7 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 12,
           "wickets": 1,
@@ -623,7 +633,7 @@
       ]
     },
     "Axar Patel": {
-      "runs": 9,
+      "runs": 29,
       "wickets": 5,
       "catches": 1,
       "stumpings": 0,
@@ -666,9 +676,9 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
-          "runs": 6,
+          "runs": 26,
           "wickets": 2,
           "catches": 0,
           "stumpings": 0,
@@ -938,7 +948,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 120,
+      "runs": 122,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -984,6 +994,15 @@
           "name": "RR vs SRH",
           "date": "13 Apr",
           "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1249,6 +1268,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1350,7 +1378,7 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 57,
           "wickets": 0,
@@ -1997,7 +2025,7 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 3,
           "wickets": 3,
@@ -2195,7 +2223,7 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 19,
           "wickets": 0,
@@ -2562,7 +2590,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 129,
+      "runs": 147,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2610,6 +2638,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2774,6 +2811,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2821,7 +2867,7 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RCB",
+          "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 0,
           "wickets": 2,
