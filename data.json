@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T18:02:11Z",
+  "lastUpdated": "2026-04-18T19:22:37Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -27,14 +27,11 @@
     "1529266",
     "1529267",
     "1529268",
-    "1529269"
-  ],
-  "liveMatchIds": [
+    "1529269",
     "1529270"
   ],
-  "liveMatchNames": [
-    "CSK vs SRH"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
