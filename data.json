@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T19:22:37Z",
+  "lastUpdated": "2026-04-18T19:58:56Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -691,6 +691,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
           "runs": 0,
@@ -732,15 +741,6 @@
           "runs": 0,
           "wickets": 3,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs SRH",
-          "date": "18 Apr",
-          "runs": 1,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1078,6 +1078,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 21,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
           "runs": 45,
@@ -1119,15 +1128,6 @@
           "runs": 13,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs SRH",
-          "date": "18 Apr",
-          "runs": 21,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2058,6 +2058,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 0,
@@ -2074,15 +2083,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "CSK vs SRH",
-          "date": "18 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -2093,6 +2093,15 @@
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 19,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
         {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
@@ -2135,15 +2144,6 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs SRH",
-          "date": "18 Apr",
-          "runs": 19,
-          "wickets": 0,
-          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2693,6 +2693,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs CSK",
           "date": "3 Apr",
           "runs": 7,
@@ -2734,15 +2743,6 @@
           "runs": 48,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs SRH",
-          "date": "18 Apr",
-          "runs": 7,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
