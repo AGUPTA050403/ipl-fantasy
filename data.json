@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T15:37:45Z",
+  "lastUpdated": "2026-04-18T16:01:17Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -1124,6 +1124,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2047,7 +2056,7 @@
     "Dewald Brevis": {
       "runs": 41,
       "wickets": 0,
-      "catches": 5,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2074,14 +2083,14 @@
           "date": "18 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 63,
+      "runs": 71,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2135,7 +2144,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 0,
+          "runs": 8,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -2680,7 +2689,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 185,
+      "runs": 192,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2734,7 +2743,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 0,
+          "runs": 7,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
