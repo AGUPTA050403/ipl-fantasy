@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T15:06:32Z",
+  "lastUpdated": "2026-04-18T15:37:45Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -2047,7 +2047,7 @@
     "Dewald Brevis": {
       "runs": 41,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2064,6 +2064,15 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 41,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2788,7 +2797,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 266,
+      "runs": 283,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2842,7 +2851,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 42,
+          "runs": 59,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
