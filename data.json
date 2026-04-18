@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T14:10:08Z",
+  "lastUpdated": "2026-04-18T15:06:32Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -658,6 +658,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "18 Apr",
+          "runs": 26,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -674,22 +683,13 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 26,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
     "Noor Ahmad": {
       "runs": 9,
       "wickets": 4,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -735,6 +735,15 @@
           "runs": 0,
           "wickets": 3,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -948,7 +957,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 122,
+      "runs": 143,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1002,7 +1011,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 2,
+          "runs": 23,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1218,7 +1227,7 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 124,
+      "runs": 136,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -1272,7 +1281,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 0,
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1360,6 +1369,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "18 Apr",
+          "runs": 57,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -1376,15 +1394,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 57,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -2065,7 +2074,7 @@
     "Ruturaj Gaikwad": {
       "runs": 63,
       "wickets": 0,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -2111,6 +2120,15 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2590,7 +2608,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 147,
+      "runs": 188,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2644,7 +2662,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 18,
+          "runs": 59,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2655,7 +2673,7 @@
     "Sanju Samson": {
       "runs": 185,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2701,6 +2719,15 @@
           "runs": 48,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs SRH",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2761,7 +2788,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 224,
+      "runs": 266,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2815,7 +2842,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 0,
+          "runs": 42,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2849,6 +2876,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "18 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -2862,15 +2898,6 @@
           "date": "11 Apr",
           "runs": 4,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
