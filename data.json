@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T16:01:17Z",
+  "lastUpdated": "2026-04-18T17:06:03Z",
   "matchesLoaded": 27,
   "scrapedMatchIds": [
     "1527674",
@@ -1237,8 +1237,8 @@
     },
     "Nitish Kumar Reddy": {
       "runs": 136,
-      "wickets": 2,
-      "catches": 4,
+      "wickets": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1291,8 +1291,8 @@
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 12,
-          "wickets": 0,
-          "catches": 0,
+          "wickets": 2,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2090,7 +2090,7 @@
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 71,
+      "runs": 82,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2144,7 +2144,7 @@
         {
           "name": "CSK vs SRH",
           "date": "18 Apr",
-          "runs": 8,
+          "runs": 19,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -2808,7 +2808,7 @@
     "Heinrich Klaasen": {
       "runs": 283,
       "wickets": 0,
-      "catches": 3,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2862,7 +2862,7 @@
           "date": "18 Apr",
           "runs": 59,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
