@@ -270,8 +270,10 @@ function openPlayerModal(fullName, teamKey) {
   const stP    = (s.stumpings || 0) * PTS.stumping;
   const roP    = (s.run_outs  || 0) * PTS.run_out;
 
+  const MONTHS = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+  const parseDate = d => { if (!d) return 0; const [day, mon] = d.split(' '); return (MONTHS[mon]||0)*100 + parseInt(day||0); };
   const matchRows = [...(s.matches || [])]
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .sort((a, b) => parseDate(a.date) - parseDate(b.date))
     .map(m => {
       const pts = calcPts(m);
       return `<tr>
