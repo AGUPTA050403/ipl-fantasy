@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T18:02:39Z",
+  "lastUpdated": "2026-04-19T19:22:37Z",
   "matchesLoaded": 29,
   "scrapedMatchIds": [
     "1527674",
@@ -792,6 +792,15 @@
           "run_outs": 1
         },
         {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 43,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 1,
@@ -817,15 +826,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
-          "runs": 43,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -909,6 +909,15 @@
           "run_outs": 0
         },
         {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 42,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 12,
@@ -930,15 +939,6 @@
           "name": "LSG vs KKR",
           "date": "9 Apr",
           "runs": 22,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
-          "runs": 42,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1529,20 +1529,20 @@
       "run_outs": 0,
       "matches": [
         {
-          "name": "DC vs LSG",
-          "date": "1 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs LSG",
+          "date": "1 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1700,19 +1700,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2492,6 +2492,15 @@
           "run_outs": 0
         },
         {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 1,
@@ -2517,15 +2526,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
-          "runs": 9,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -2609,6 +2609,15 @@
           "run_outs": 0
         },
         {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 0,
@@ -2631,15 +2640,6 @@
           "date": "9 Apr",
           "runs": 1,
           "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
-          "runs": 0,
-          "wickets": 1,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
@@ -2768,20 +2768,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2947,6 +2947,15 @@
           "run_outs": 0
         },
         {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 40,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 40,
@@ -2970,15 +2979,6 @@
           "runs": 15,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs PBKS",
-          "date": "19 Apr",
-          "runs": 40,
-          "wickets": 0,
-          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
