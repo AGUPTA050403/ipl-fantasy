@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T16:01:53Z",
+  "lastUpdated": "2026-04-19T17:06:03Z",
   "matchesLoaded": 29,
   "scrapedMatchIds": [
     "1527674",
@@ -770,7 +770,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 104,
+      "runs": 133,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -824,7 +824,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1464,7 +1464,7 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 3,
+      "wickets": 4,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1509,7 +1509,7 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2925,7 +2925,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 115,
+      "runs": 155,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -2979,7 +2979,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 40,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
