@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T17:06:03Z",
+  "lastUpdated": "2026-04-19T18:02:39Z",
   "matchesLoaded": 29,
   "scrapedMatchIds": [
     "1527674",
@@ -29,14 +29,11 @@
     "1529268",
     "1529269",
     "1529270",
-    "1529271"
-  ],
-  "liveMatchIds": [
+    "1529271",
     "1529272"
   ],
-  "liveMatchNames": [
-    "LSG vs PBKS"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -484,7 +481,7 @@
     "Shreyas Iyer": {
       "runs": 208,
       "wickets": 0,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -529,7 +526,7 @@
           "date": "19 Apr",
           "runs": 5,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -537,7 +534,7 @@
     },
     "Marco Jansen": {
       "runs": 10,
-      "wickets": 3,
+      "wickets": 5,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -582,7 +579,7 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 1,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -770,7 +767,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 133,
+      "runs": 147,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -824,7 +821,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 29,
+          "runs": 43,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -887,7 +884,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 120,
+      "runs": 162,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -941,7 +938,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 42,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1240,7 +1237,7 @@
     "Marcus Stoinis": {
       "runs": 48,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -1285,7 +1282,7 @@
           "date": "19 Apr",
           "runs": 29,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1661,7 +1658,7 @@
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 5,
+      "wickets": 6,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1715,7 +1712,7 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2470,7 +2467,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 42,
+      "runs": 51,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -2524,7 +2521,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 9,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2730,7 +2727,7 @@
     "Prabhsimran Singh": {
       "runs": 211,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -2784,7 +2781,7 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
