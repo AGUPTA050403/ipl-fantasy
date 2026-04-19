@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18T20:49:03Z",
-  "matchesLoaded": 27,
+  "lastUpdated": "2026-04-19T13:03:05Z",
+  "matchesLoaded": 28,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -30,8 +30,12 @@
     "1529269",
     "1529270"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529271"
+  ],
+  "liveMatchNames": [
+    "KKR vs RR"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -1017,7 +1021,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 184,
+      "runs": 223,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1065,6 +1069,15 @@
           "runs": 38,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 39,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1475,7 +1488,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 200,
+      "runs": 246,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1521,6 +1534,15 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 52,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1673,7 +1695,7 @@
       ]
     },
     "Shimron Hetmyer": {
-      "runs": 24,
+      "runs": 39,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -1714,6 +1736,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1773,8 +1804,8 @@
     },
     "Sunil Narine": {
       "runs": 36,
-      "wickets": 4,
-      "catches": 0,
+      "wickets": 6,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1822,12 +1853,21 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 76,
-      "wickets": 3,
+      "runs": 85,
+      "wickets": 5,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -1872,6 +1912,15 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 9,
           "wickets": 2,
           "catches": 0,
           "stumpings": 0,
@@ -1935,7 +1984,7 @@
     },
     "Ravi Bishnoi": {
       "runs": 0,
-      "wickets": 9,
+      "wickets": 10,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1982,6 +2031,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2267,7 +2325,7 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 79,
+      "runs": 87,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -2322,6 +2380,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2493,7 +2560,7 @@
     },
     "Varun Chakravarthy": {
       "runs": 0,
-      "wickets": 2,
+      "wickets": 5,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -2530,6 +2597,15 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3117,7 +3193,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 49,
+      "runs": 61,
       "wickets": 2,
       "catches": 1,
       "stumpings": 0,
@@ -3163,6 +3239,15 @@
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
