@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T15:06:21Z",
+  "lastUpdated": "2026-04-19T16:01:53Z",
   "matchesLoaded": 29,
   "scrapedMatchIds": [
     "1527674",
@@ -482,7 +482,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 203,
+      "runs": 208,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -527,7 +527,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 5,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -536,7 +536,7 @@
       ]
     },
     "Marco Jansen": {
-      "runs": 9,
+      "runs": 10,
       "wickets": 3,
       "catches": 2,
       "stumpings": 0,
@@ -581,7 +581,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -774,7 +774,7 @@
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
-      "run_outs": 1,
+      "run_outs": 2,
       "matches": [
         {
           "name": "GT vs LSG",
@@ -820,6 +820,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -880,7 +889,7 @@
     "Aiden Markram": {
       "runs": 120,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -934,7 +943,7 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1229,7 +1238,7 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 19,
+      "runs": 48,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1274,7 +1283,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1517,7 +1526,7 @@
     },
     "Mohsin Khan": {
       "runs": 0,
-      "wickets": 1,
+      "wickets": 2,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -1535,7 +1544,7 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2463,9 +2472,9 @@
     "Nicholas Pooran": {
       "runs": 42,
       "wickets": 0,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "GT vs LSG",
@@ -2511,6 +2520,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs PBKS",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -2571,7 +2589,7 @@
     "Mohammed Shami": {
       "runs": 14,
       "wickets": 5,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2625,7 +2643,7 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2909,7 +2927,7 @@
     "Mitchell Marsh": {
       "runs": 115,
       "wickets": 0,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2963,7 +2981,7 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3239,7 +3257,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 34,
+      "runs": 51,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -3284,7 +3302,7 @@
         {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
-          "runs": 0,
+          "runs": 17,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
