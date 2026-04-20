@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T15:16:40Z",
+  "lastUpdated": "2026-04-20T16:40:34Z",
   "matchesLoaded": 30,
   "scrapedMatchIds": [
     "1527674",
@@ -313,7 +313,7 @@
   "players": {
     "Jasprit Bumrah": {
       "runs": 5,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 1,
@@ -367,7 +367,7 @@
           "name": "GT vs MI",
           "date": "20 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -421,6 +421,15 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1194,7 +1203,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 201,
+      "runs": 206,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -1244,6 +1253,15 @@
           "catches": 4,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 5,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1366,7 +1384,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 5,
+      "wickets": 6,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1420,7 +1438,7 @@
           "name": "GT vs MI",
           "date": "20 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1634,8 +1652,8 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 85,
-      "wickets": 2,
+      "runs": 96,
+      "wickets": 3,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1679,8 +1697,8 @@
         {
           "name": "GT vs MI",
           "date": "20 Apr",
-          "runs": 4,
-          "wickets": 0,
+          "runs": 15,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1751,7 +1769,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 251,
+      "runs": 265,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -1788,6 +1806,15 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 86,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1850,7 +1877,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 79,
+      "runs": 144,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -1904,7 +1931,7 @@
         {
           "name": "GT vs MI",
           "date": "20 Apr",
-          "runs": 36,
+          "runs": 101,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
