@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T13:44:09Z",
-  "matchesLoaded": 29,
+  "lastUpdated": "2026-04-20T15:16:40Z",
+  "matchesLoaded": 30,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -32,8 +32,12 @@
     "1529271",
     "1529272"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529273"
+  ],
+  "liveMatchNames": [
+    "GT vs MI"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -353,6 +357,15 @@
         {
           "name": "PBKS vs MI",
           "date": "16 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -1402,6 +1415,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1612,7 +1634,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 81,
+      "runs": 85,
       "wickets": 2,
       "catches": 2,
       "stumpings": 0,
@@ -1649,6 +1671,15 @@
           "name": "PBKS vs MI",
           "date": "16 Apr",
           "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1819,7 +1850,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 43,
+      "runs": 79,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -1865,6 +1896,15 @@
           "name": "PBKS vs MI",
           "date": "16 Apr",
           "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 36,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2278,7 +2318,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 106,
+      "runs": 121,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2324,6 +2364,15 @@
           "name": "PBKS vs MI",
           "date": "16 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2577,6 +2626,15 @@
           "date": "17 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3147,8 +3205,8 @@
     },
     "Kagiso Rabada": {
       "runs": 23,
-      "wickets": 7,
-      "catches": 1,
+      "wickets": 10,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3196,12 +3254,21 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Prasidh Krishna": {
       "runs": 0,
-      "wickets": 11,
+      "wickets": 12,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -3250,6 +3317,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
