@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T17:58:22Z",
+  "lastUpdated": "2026-04-20T19:19:25Z",
   "matchesLoaded": 30,
   "scrapedMatchIds": [
     "1527674",
@@ -379,6 +379,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 13,
@@ -418,15 +427,6 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 22,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1207,6 +1207,15 @@
       "run_outs": 2,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 5,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 38,
@@ -1250,15 +1259,6 @@
           "catches": 4,
           "stumpings": 0,
           "run_outs": 1
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 5,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -1387,6 +1387,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 0,
@@ -1428,15 +1437,6 @@
           "runs": 0,
           "wickets": 2,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1773,6 +1773,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 39,
@@ -1803,15 +1812,6 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 86,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2610,6 +2610,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 4,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 0,
@@ -2650,15 +2659,6 @@
           "date": "17 Apr",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 4,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3235,6 +3235,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 12,
+          "wickets": 3,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs GT",
           "date": "31 Mar",
           "runs": 0,
@@ -3278,15 +3287,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 12,
-          "wickets": 3,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -3297,6 +3297,15 @@
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
+        {
+          "name": "GT vs MI",
+          "date": "20 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
         {
           "name": "PBKS vs GT",
           "date": "31 Mar",
@@ -3341,15 +3350,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
-        },
-        {
-          "name": "GT vs MI",
-          "date": "20 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
