@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T16:40:34Z",
+  "lastUpdated": "2026-04-20T17:58:22Z",
   "matchesLoaded": 30,
   "scrapedMatchIds": [
     "1527674",
@@ -30,14 +30,11 @@
     "1529269",
     "1529270",
     "1529271",
-    "1529272"
-  ],
-  "liveMatchIds": [
+    "1529272",
     "1529273"
   ],
-  "liveMatchNames": [
-    "GT vs MI"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -2606,7 +2603,7 @@
       ]
     },
     "Rashid Khan": {
-      "runs": 24,
+      "runs": 28,
       "wickets": 6,
       "catches": 1,
       "stumpings": 0,
@@ -2660,7 +2657,7 @@
         {
           "name": "GT vs MI",
           "date": "20 Apr",
-          "runs": 0,
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3231,7 +3228,7 @@
       ]
     },
     "Kagiso Rabada": {
-      "runs": 23,
+      "runs": 35,
       "wickets": 10,
       "catches": 3,
       "stumpings": 0,
@@ -3285,7 +3282,7 @@
         {
           "name": "GT vs MI",
           "date": "20 Apr",
-          "runs": 0,
+          "runs": 12,
           "wickets": 3,
           "catches": 2,
           "stumpings": 0,
