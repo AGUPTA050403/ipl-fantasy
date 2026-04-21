@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T16:18:35Z",
+  "lastUpdated": "2026-04-21T17:34:09Z",
   "matchesLoaded": 31,
   "scrapedMatchIds": [
     "1527674",
@@ -1483,7 +1483,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 180,
+      "runs": 205,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1537,7 +1537,7 @@
         {
           "name": "DC vs SRH",
           "date": "21 Apr",
-          "runs": 12,
+          "runs": 37,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2929,7 +2929,7 @@
     "Abhishek Sharma": {
       "runs": 323,
       "wickets": 0,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2992,7 +2992,7 @@
           "date": "21 Apr",
           "runs": 135,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
