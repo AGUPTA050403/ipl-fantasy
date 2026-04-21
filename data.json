@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T14:59:14Z",
+  "lastUpdated": "2026-04-21T16:18:35Z",
   "matchesLoaded": 31,
   "scrapedMatchIds": [
     "1527674",
@@ -439,7 +439,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 235,
+      "runs": 238,
       "wickets": 0,
       "catches": 4,
       "stumpings": 1,
@@ -502,7 +502,7 @@
         {
           "name": "DC vs SRH",
           "date": "21 Apr",
-          "runs": 22,
+          "runs": 25,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1483,7 +1483,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 168,
+      "runs": 180,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1529,6 +1529,15 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs SRH",
+          "date": "21 Apr",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2918,7 +2927,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 263,
+      "runs": 323,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2981,7 +2990,7 @@
         {
           "name": "DC vs SRH",
           "date": "21 Apr",
-          "runs": 75,
+          "runs": 135,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3116,7 +3125,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 283,
+      "runs": 320,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3179,7 +3188,7 @@
         {
           "name": "DC vs SRH",
           "date": "21 Apr",
-          "runs": 0,
+          "runs": 37,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
