@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T16:38:18Z",
+  "lastUpdated": "2026-04-22T18:00:26Z",
   "matchesLoaded": 32,
   "scrapedMatchIds": [
     "1527674",
@@ -32,14 +32,11 @@
     "1529271",
     "1529272",
     "1529273",
-    "1529274"
-  ],
-  "liveMatchIds": [
+    "1529274",
     "1529275"
   ],
-  "liveMatchNames": [
-    "LSG vs RR"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -2105,7 +2102,7 @@
     },
     "Ravindra Jadeja": {
       "runs": 128,
-      "wickets": 5,
+      "wickets": 6,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -2168,7 +2165,7 @@
           "name": "LSG vs RR",
           "date": "22 Apr",
           "runs": 43,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2231,7 +2228,7 @@
     },
     "Ravi Bishnoi": {
       "runs": 0,
-      "wickets": 10,
+      "wickets": 11,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -2294,7 +2291,7 @@
           "name": "LSG vs RR",
           "date": "22 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2662,7 +2659,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 57,
+      "runs": 73,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2725,7 +2722,7 @@
         {
           "name": "LSG vs RR",
           "date": "22 Apr",
-          "runs": 6,
+          "runs": 22,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2797,7 +2794,7 @@
       ]
     },
     "Mohammed Shami": {
-      "runs": 14,
+      "runs": 20,
       "wickets": 7,
       "catches": 2,
       "stumpings": 0,
@@ -2860,7 +2857,7 @@
         {
           "name": "LSG vs RR",
           "date": "22 Apr",
-          "runs": 0,
+          "runs": 6,
           "wickets": 2,
           "catches": 0,
           "stumpings": 0,
@@ -3153,7 +3150,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 171,
+      "runs": 210,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -3216,7 +3213,7 @@
         {
           "name": "LSG vs RR",
           "date": "22 Apr",
-          "runs": 16,
+          "runs": 55,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3586,7 +3583,7 @@
     "Riyan Parag": {
       "runs": 81,
       "wickets": 2,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3649,7 +3646,7 @@
           "date": "22 Apr",
           "runs": 20,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
