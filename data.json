@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T15:54:08Z",
+  "lastUpdated": "2026-04-23T17:21:31Z",
   "matchesLoaded": 33,
   "scrapedMatchIds": [
     "1527674",
@@ -757,7 +757,7 @@
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 4,
+      "wickets": 6,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -820,7 +820,7 @@
           "name": "MI vs CSK",
           "date": "23 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1772,7 +1772,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 96,
+      "runs": 97,
       "wickets": 3,
       "catches": 2,
       "stumpings": 0,
@@ -1826,7 +1826,7 @@
         {
           "name": "MI vs CSK",
           "date": "23 Apr",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2015,7 +2015,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 144,
+      "runs": 181,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2078,7 +2078,7 @@
         {
           "name": "MI vs CSK",
           "date": "23 Apr",
-          "runs": 0,
+          "runs": 37,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2528,7 +2528,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 121,
+      "runs": 156,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2583,6 +2583,15 @@
           "name": "GT vs MI",
           "date": "20 Apr",
           "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 35,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3156,7 +3165,7 @@
     "Sanju Samson": {
       "runs": 293,
       "wickets": 0,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3219,7 +3228,7 @@
           "date": "23 Apr",
           "runs": 101,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3776,6 +3785,15 @@
           "date": "16 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
