@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T17:21:31Z",
+  "lastUpdated": "2026-04-23T18:41:42Z",
   "matchesLoaded": 33,
   "scrapedMatchIds": [
     "1527674",
@@ -33,14 +33,11 @@
     "1529272",
     "1529273",
     "1529274",
-    "1529275"
-  ],
-  "liveMatchIds": [
+    "1529275",
     "1529276"
   ],
-  "liveMatchNames": [
-    "MI vs CSK"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -315,7 +312,7 @@
   },
   "players": {
     "Jasprit Bumrah": {
-      "runs": 5,
+      "runs": 7,
       "wickets": 2,
       "catches": 1,
       "stumpings": 0,
@@ -378,7 +375,7 @@
         {
           "name": "MI vs CSK",
           "date": "23 Apr",
-          "runs": 0,
+          "runs": 2,
           "wickets": 1,
           "catches": 1,
           "stumpings": 0,
@@ -2413,7 +2410,7 @@
     "Dewald Brevis": {
       "runs": 62,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2449,7 +2446,7 @@
           "date": "23 Apr",
           "runs": 21,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3165,7 +3162,7 @@
     "Sanju Samson": {
       "runs": 293,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3228,7 +3225,7 @@
           "date": "23 Apr",
           "runs": 101,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3738,7 +3735,7 @@
       ]
     },
     "Shardul Thakur": {
-      "runs": 8,
+      "runs": 14,
       "wickets": 6,
       "catches": 0,
       "stumpings": 0,
@@ -3792,7 +3789,7 @@
         {
           "name": "MI vs CSK",
           "date": "23 Apr",
-          "runs": 0,
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
