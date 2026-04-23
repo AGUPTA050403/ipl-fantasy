@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T13:44:29Z",
-  "matchesLoaded": 32,
+  "lastUpdated": "2026-04-23T15:54:08Z",
+  "matchesLoaded": 33,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -35,8 +35,12 @@
     "1529274",
     "1529275"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529276"
+  ],
+  "liveMatchNames": [
+    "MI vs CSK"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -312,8 +316,8 @@
   "players": {
     "Jasprit Bumrah": {
       "runs": 5,
-      "wickets": 1,
-      "catches": 0,
+      "wickets": 2,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -368,6 +372,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -802,6 +815,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1193,7 +1215,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 123,
+      "runs": 128,
       "wickets": 1,
       "catches": 3,
       "stumpings": 0,
@@ -1250,6 +1272,15 @@
           "runs": 13,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 5,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1791,6 +1822,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1977,7 +2017,7 @@
     "Tilak Varma": {
       "runs": 144,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2032,6 +2072,15 @@
           "runs": 101,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2362,7 +2411,7 @@
       ]
     },
     "Dewald Brevis": {
-      "runs": 41,
+      "runs": 62,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -2394,11 +2443,20 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 21,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 82,
+      "runs": 104,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2455,6 +2513,15 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 22,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3087,7 +3154,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 192,
+      "runs": 293,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -3142,6 +3209,15 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 48,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs CSK",
+          "date": "23 Apr",
+          "runs": 101,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
