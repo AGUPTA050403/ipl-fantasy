@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T16:04:58Z",
+  "lastUpdated": "2026-04-24T17:30:02Z",
   "matchesLoaded": 34,
   "scrapedMatchIds": [
     "1527674",
@@ -640,7 +640,7 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 13,
+      "runs": 36,
       "wickets": 8,
       "catches": 1,
       "stumpings": 0,
@@ -703,7 +703,7 @@
         {
           "name": "RCB vs GT",
           "date": "24 Apr",
-          "runs": 0,
+          "runs": 23,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1505,7 +1505,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 6,
+      "wickets": 7,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1568,7 +1568,7 @@
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2655,7 +2655,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 250,
+      "runs": 328,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -2718,7 +2718,7 @@
         {
           "name": "RCB vs GT",
           "date": "24 Apr",
-          "runs": 3,
+          "runs": 81,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2872,7 +2872,7 @@
     },
     "Rashid Khan": {
       "runs": 28,
-      "wickets": 6,
+      "wickets": 8,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -2935,7 +2935,7 @@
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3086,7 +3086,7 @@
     },
     "Jason Holder": {
       "runs": 23,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -3095,7 +3095,7 @@
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 23,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
