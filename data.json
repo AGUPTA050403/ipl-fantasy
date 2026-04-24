@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T17:30:02Z",
+  "lastUpdated": "2026-04-24T18:08:39Z",
   "matchesLoaded": 34,
   "scrapedMatchIds": [
     "1527674",
@@ -34,14 +34,11 @@
     "1529273",
     "1529274",
     "1529275",
-    "1529276"
-  ],
-  "liveMatchIds": [
+    "1529276",
     "1529277"
   ],
-  "liveMatchNames": [
-    "RCB vs GT"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
