@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-24T13:25:46Z",
-  "matchesLoaded": 33,
+  "lastUpdated": "2026-04-24T14:53:43Z",
+  "matchesLoaded": 34,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -36,8 +36,12 @@
     "1529275",
     "1529276"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529277"
+  ],
+  "liveMatchNames": [
+    "RCB vs GT"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -384,7 +388,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 135,
+      "runs": 220,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -439,6 +443,15 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 85,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -683,6 +696,15 @@
           "date": "18 Apr",
           "runs": 12,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1343,6 +1365,15 @@
           "catches": 4,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1530,6 +1561,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1895,7 +1935,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 265,
+      "runs": 297,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -1941,6 +1981,15 @@
           "name": "GT vs KKR",
           "date": "17 Apr",
           "runs": 86,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 32,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2404,6 +2453,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2863,6 +2921,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3014,7 +3081,17 @@
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Prabhsimran Singh": {
       "runs": 211,
@@ -3540,6 +3617,15 @@
           "runs": 0,
           "wickets": 3,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
