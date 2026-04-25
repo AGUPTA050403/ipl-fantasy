@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T15:08:49Z",
+  "lastUpdated": "2026-04-25T16:05:52Z",
   "matchesLoaded": 36,
   "scrapedMatchIds": [
     "1527674",
@@ -766,6 +766,15 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 26,
@@ -787,15 +796,6 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 1,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "25 Apr",
-          "runs": 0,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -1480,8 +1480,8 @@
     },
     "Nitish Kumar Reddy": {
       "runs": 136,
-      "wickets": 4,
-      "catches": 6,
+      "wickets": 5,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1552,8 +1552,8 @@
           "name": "SRH vs RR",
           "date": "25 Apr",
           "runs": 0,
-          "wickets": 0,
-          "catches": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1666,6 +1666,15 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "25 Apr",
+          "runs": 152,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 57,
@@ -1687,15 +1696,6 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 18,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "25 Apr",
-          "runs": 152,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1811,7 +1811,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 341,
+      "runs": 357,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1883,7 +1883,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 87,
+          "runs": 103,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2007,19 +2007,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "DC vs PBKS",
+          "date": "25 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "DC vs PBKS",
-          "date": "25 Apr",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2090,7 +2090,7 @@
       ]
     },
     "Shimron Hetmyer": {
-      "runs": 61,
+      "runs": 72,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -2153,7 +2153,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 0,
+          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2297,7 +2297,7 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 128,
+      "runs": 132,
       "wickets": 6,
       "catches": 1,
       "stumpings": 0,
@@ -2369,7 +2369,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 0,
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3265,20 +3265,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 76,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3511,7 +3511,7 @@
     "Heinrich Klaasen": {
       "runs": 320,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3583,7 +3583,7 @@
           "date": "25 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3624,6 +3624,15 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs DC",
           "date": "18 Apr",
           "runs": 0,
@@ -3646,15 +3655,6 @@
           "date": "11 Apr",
           "runs": 4,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "25 Apr",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3913,7 +3913,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 81,
+      "runs": 88,
       "wickets": 2,
       "catches": 3,
       "stumpings": 0,
@@ -3985,7 +3985,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 0,
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
