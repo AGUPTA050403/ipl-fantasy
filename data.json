@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-24T21:13:33Z",
-  "matchesLoaded": 34,
+  "lastUpdated": "2026-04-25T13:06:16Z",
+  "matchesLoaded": 35,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -37,8 +37,12 @@
     "1529276",
     "1529277"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529278"
+  ],
+  "liveMatchNames": [
+    "PBKS vs DC"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -531,7 +535,7 @@
     "Shreyas Iyer": {
       "runs": 208,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -575,6 +579,15 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 5,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -630,6 +643,15 @@
           "date": "19 Apr",
           "runs": 1,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -710,7 +732,7 @@
     },
     "Axar Patel": {
       "runs": 31,
-      "wickets": 6,
+      "wickets": 7,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -764,6 +786,15 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 1,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -1425,6 +1456,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1573,7 +1613,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 205,
+      "runs": 357,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1632,6 +1672,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 152,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1683,6 +1732,15 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1870,7 +1928,7 @@
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 6,
+      "wickets": 7,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1925,6 +1983,15 @@
           "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3100,9 +3167,9 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 211,
+      "runs": 287,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -3157,6 +3224,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 76,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3518,6 +3594,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3756,6 +3841,15 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 17,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs DC",
+          "date": "25 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
