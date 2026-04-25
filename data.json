@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T18:04:56Z",
+  "lastUpdated": "2026-04-25T19:26:02Z",
   "matchesLoaded": 36,
   "scrapedMatchIds": [
     "1527674",
@@ -1240,6 +1240,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 13,
@@ -1270,15 +1279,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 39,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 10,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1860,6 +1860,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 103,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 78,
@@ -1890,15 +1899,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 46,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 103,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2130,6 +2130,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 0,
@@ -2160,15 +2169,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 15,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2346,6 +2346,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 4,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 24,
@@ -2377,15 +2386,6 @@
           "date": "19 Apr",
           "runs": 9,
           "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 4,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2481,6 +2481,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 0,
@@ -2513,15 +2522,6 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3980,6 +3980,15 @@
           "run_outs": 0
         },
         {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 3,
@@ -4010,15 +4019,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 12,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "SRH vs RR",
-          "date": "25 Apr",
-          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
