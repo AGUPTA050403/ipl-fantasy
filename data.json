@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T14:13:30Z",
+  "lastUpdated": "2026-04-25T15:08:49Z",
   "matchesLoaded": 36,
   "scrapedMatchIds": [
     "1527674",
@@ -35,14 +35,13 @@
     "1529274",
     "1529275",
     "1529276",
-    "1529277"
+    "1529277",
+    "1529278"
   ],
   "liveMatchIds": [
-    "1529278",
     "1529279"
   ],
   "liveMatchNames": [
-    "PBKS vs DC",
     "SRH vs RR"
   ],
   "teams": {
@@ -535,7 +534,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 272,
+      "runs": 279,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -587,9 +586,9 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
-          "runs": 64,
+          "runs": 71,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -650,7 +649,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 0,
@@ -794,7 +793,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 1,
@@ -1469,7 +1468,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 0,
@@ -1546,6 +1545,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1685,7 +1693,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 152,
           "wickets": 0,
@@ -1748,7 +1756,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 0,
@@ -1803,7 +1811,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 284,
+      "runs": 341,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1875,7 +1883,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 30,
+          "runs": 87,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2008,7 +2016,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 1,
@@ -3266,7 +3274,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 76,
           "wickets": 0,
@@ -3643,7 +3651,7 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
           "wickets": 2,
@@ -3842,7 +3850,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 69,
+      "runs": 70,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -3894,9 +3902,9 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs DC",
+          "name": "DC vs PBKS",
           "date": "25 Apr",
-          "runs": 18,
+          "runs": 19,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
