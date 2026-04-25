@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T16:05:52Z",
+  "lastUpdated": "2026-04-25T17:09:42Z",
   "matchesLoaded": 36,
   "scrapedMatchIds": [
     "1527674",
@@ -462,7 +462,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 238,
+      "runs": 298,
       "wickets": 0,
       "catches": 4,
       "stumpings": 1,
@@ -526,6 +526,15 @@
           "name": "DC vs SRH",
           "date": "21 Apr",
           "runs": 25,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 60,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1119,7 +1128,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 180,
+      "runs": 186,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1183,6 +1192,15 @@
           "name": "DC vs SRH",
           "date": "21 Apr",
           "runs": 37,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2500,6 +2518,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3293,7 +3320,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 323,
+      "runs": 380,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -3359,6 +3386,15 @@
           "runs": 135,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs RR",
+          "date": "25 Apr",
+          "runs": 57,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
