@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T17:09:42Z",
+  "lastUpdated": "2026-04-25T18:04:56Z",
   "matchesLoaded": 36,
   "scrapedMatchIds": [
     "1527674",
@@ -36,14 +36,11 @@
     "1529275",
     "1529276",
     "1529277",
-    "1529278"
-  ],
-  "liveMatchIds": [
+    "1529278",
     "1529279"
   ],
-  "liveMatchNames": [
-    "SRH vs RR"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -462,7 +459,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 298,
+      "runs": 312,
       "wickets": 0,
       "catches": 4,
       "stumpings": 1,
@@ -534,7 +531,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 60,
+          "runs": 74,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1497,7 +1494,7 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 136,
+      "runs": 172,
       "wickets": 5,
       "catches": 7,
       "stumpings": 0,
@@ -1569,7 +1566,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 0,
+          "runs": 36,
           "wickets": 1,
           "catches": 1,
           "stumpings": 0,
@@ -2452,7 +2449,7 @@
     "Ravi Bishnoi": {
       "runs": 0,
       "wickets": 11,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2524,7 +2521,7 @@
           "date": "25 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3545,7 +3542,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 320,
+      "runs": 349,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -3617,7 +3614,7 @@
         {
           "name": "SRH vs RR",
           "date": "25 Apr",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
