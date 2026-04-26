@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T15:08:34Z",
+  "lastUpdated": "2026-04-26T16:06:24Z",
   "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
@@ -1031,7 +1031,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 140,
+      "runs": 141,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -1094,7 +1094,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2317,7 +2317,7 @@
       ]
     },
     "Sunil Narine": {
-      "runs": 36,
+      "runs": 40,
       "wickets": 5,
       "catches": 1,
       "stumpings": 0,
@@ -2371,7 +2371,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 0,
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2938,7 +2938,7 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 144,
+      "runs": 211,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -3001,7 +3001,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 16,
+          "runs": 83,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3067,6 +3067,15 @@
           "runs": 22,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3567,7 +3576,7 @@
     "Mitchell Marsh": {
       "runs": 195,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3622,6 +3631,15 @@
           "runs": 55,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
