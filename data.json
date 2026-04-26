@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-26T14:13:13Z",
-  "matchesLoaded": 38,
+  "lastUpdated": "2026-04-26T15:08:34Z",
+  "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -840,6 +840,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 1,
@@ -892,22 +901,13 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs CSK",
-          "date": "26 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
     "Rishabh Pant": {
-      "runs": 147,
+      "runs": 137,
       "wickets": 0,
-      "catches": 6,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 2,
       "matches": [
@@ -957,17 +957,17 @@
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 10,
+          "name": "LSG vs RR",
+          "date": "22 Apr",
+          "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs RR",
-          "date": "22 Apr",
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 2,
@@ -1031,7 +1031,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 162,
+      "runs": 140,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -1083,20 +1083,20 @@
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 22,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "LSG vs RR",
           "date": "22 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1326,6 +1326,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 21,
@@ -1376,15 +1385,6 @@
           "runs": 13,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs CSK",
-          "date": "26 Apr",
-          "runs": 22,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1841,7 +1841,7 @@
     },
     "Mohsin Khan": {
       "runs": 0,
-      "wickets": 5,
+      "wickets": 9,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1877,7 +1877,7 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 5,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2318,7 +2318,7 @@
     },
     "Sunil Narine": {
       "runs": 36,
-      "wickets": 6,
+      "wickets": 5,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -2354,15 +2354,6 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 24,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 0,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -2470,7 +2461,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 81,
+      "runs": 72,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2498,15 +2489,6 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 1,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 9,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2693,6 +2675,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 2,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 0,
@@ -2718,15 +2709,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs CSK",
-          "date": "26 Apr",
-          "runs": 2,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -2741,6 +2723,15 @@
           "name": "MI vs CSK",
           "date": "23 Apr",
           "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 74,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2797,15 +2788,6 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs CSK",
-          "date": "26 Apr",
-          "runs": 74,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2956,9 +2938,9 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 132,
+      "runs": 144,
       "wickets": 0,
-      "catches": 5,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2999,15 +2981,6 @@
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 4,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 53,
@@ -3028,7 +3001,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 0,
+          "runs": 16,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3037,7 +3010,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 73,
+      "runs": 60,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -3083,15 +3056,6 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 8,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 13,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3190,9 +3154,9 @@
       ]
     },
     "Mohammed Shami": {
-      "runs": 20,
+      "runs": 19,
       "wickets": 7,
-      "catches": 2,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3238,15 +3202,6 @@
           "runs": 1,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 1,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3545,6 +3500,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 1,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 7,
@@ -3597,20 +3561,11 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs CSK",
-          "date": "26 Apr",
-          "runs": 11,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 1,
-          "run_outs": 0
         }
       ]
     },
     "Mitchell Marsh": {
-      "runs": 210,
+      "runs": 195,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -3656,15 +3611,6 @@
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 35,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "9 Apr",
-          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
