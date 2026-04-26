@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T18:05:44Z",
+  "lastUpdated": "2026-04-26T19:28:02Z",
   "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
@@ -38,14 +38,11 @@
     "1529277",
     "1529278",
     "1529279",
-    "1529280"
-  ],
-  "liveMatchIds": [
+    "1529280",
     "1529281"
   ],
-  "liveMatchNames": [
-    "LSG vs KKR"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -905,7 +902,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 179,
+      "runs": 180,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -968,7 +965,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 42,
+          "runs": 43,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -2318,7 +2315,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 6,
+      "wickets": 8,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -2372,7 +2369,7 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 4,
-          "wickets": 1,
+          "wickets": 3,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
@@ -2938,7 +2935,7 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 211,
+      "runs": 215,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -3001,7 +2998,7 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 83,
+          "runs": 87,
           "wickets": 0,
           "catches": 4,
           "stumpings": 0,
