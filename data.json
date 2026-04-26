@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-25T21:04:44Z",
-  "matchesLoaded": 36,
+  "lastUpdated": "2026-04-26T13:07:45Z",
+  "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -39,8 +39,12 @@
     "1529278",
     "1529279"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529280"
+  ],
+  "liveMatchNames": [
+    "GT vs CSK"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -387,7 +391,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 235,
+      "runs": 281,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -451,6 +455,15 @@
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 100,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -811,7 +824,7 @@
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 6,
+      "wickets": 7,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -875,6 +888,15 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1287,7 +1309,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 128,
+      "runs": 150,
       "wickets": 1,
       "catches": 3,
       "stumpings": 0,
@@ -1355,13 +1377,22 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Jos Buttler": {
-      "runs": 231,
+      "runs": 241,
       "wickets": 0,
-      "catches": 8,
+      "catches": 10,
       "stumpings": 0,
       "run_outs": 2,
       "matches": [
@@ -1425,6 +1456,15 @@
           "runs": 25,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1576,7 +1616,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 7,
+      "wickets": 8,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -1638,6 +1678,15 @@
         {
           "name": "RCB vs GT",
           "date": "24 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -2042,9 +2091,9 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 297,
+      "runs": 330,
       "wickets": 0,
-      "catches": 5,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2099,6 +2148,15 @@
           "runs": 32,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 33,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2600,7 +2658,7 @@
       ]
     },
     "Dewald Brevis": {
-      "runs": 62,
+      "runs": 64,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2641,11 +2699,20 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 2,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 104,
+      "runs": 178,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -2711,6 +2778,15 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 74,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3073,6 +3149,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3221,7 +3306,7 @@
     "Jason Holder": {
       "runs": 23,
       "wickets": 1,
-      "catches": 0,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3231,6 +3316,15 @@
           "runs": 23,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3398,10 +3492,10 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 293,
+      "runs": 304,
       "wickets": 0,
       "catches": 3,
-      "stumpings": 0,
+      "stumpings": 1,
       "run_outs": 0,
       "matches": [
         {
@@ -3465,6 +3559,15 @@
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 1,
           "run_outs": 0
         }
       ]
@@ -3740,7 +3843,7 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 10,
+      "wickets": 13,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3804,6 +3907,15 @@
           "date": "24 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs CSK",
+          "date": "26 Apr",
+          "runs": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
