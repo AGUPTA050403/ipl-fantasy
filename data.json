@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T19:28:02Z",
+  "lastUpdated": "2026-04-26T20:04:00Z",
   "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
@@ -2357,19 +2357,19 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
-          "runs": 0,
-          "wickets": 2,
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
+          "runs": 4,
+          "wickets": 3,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "26 Apr",
-          "runs": 4,
-          "wickets": 3,
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 0,
+          "wickets": 2,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
@@ -2978,6 +2978,15 @@
           "run_outs": 0
         },
         {
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
+          "runs": 87,
+          "wickets": 0,
+          "catches": 4,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 53,
@@ -2992,15 +3001,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "LSG vs KKR",
-          "date": "26 Apr",
-          "runs": 87,
-          "wickets": 0,
-          "catches": 4,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3275,19 +3275,19 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
+          "name": "LSG vs KKR",
+          "date": "26 Apr",
           "runs": 0,
-          "wickets": 3,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "LSG vs KKR",
-          "date": "26 Apr",
+          "name": "KKR vs RR",
+          "date": "19 Apr",
           "runs": 0,
-          "wickets": 2,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
