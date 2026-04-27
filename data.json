@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T17:23:06Z",
+  "lastUpdated": "2026-04-27T18:49:22Z",
   "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
@@ -793,6 +793,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "27 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -806,15 +815,6 @@
           "date": "11 Apr",
           "runs": 1,
           "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "27 Apr",
-          "runs": 0,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1738,6 +1738,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "27 Apr",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -1750,15 +1759,6 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 18,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "27 Apr",
-          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3777,6 +3777,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs DC",
+          "date": "27 Apr",
+          "runs": 3,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 0,
@@ -3789,15 +3798,6 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 4,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "27 Apr",
-          "runs": 3,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
