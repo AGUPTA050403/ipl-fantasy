@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-27T15:49:34Z",
-  "matchesLoaded": 38,
+  "lastUpdated": "2026-04-27T17:23:06Z",
+  "matchesLoaded": 37,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -39,14 +39,11 @@
     "1529278",
     "1529279",
     "1529280",
-    "1529281"
-  ],
-  "liveMatchIds": [
+    "1529281",
     "1529282"
   ],
-  "liveMatchNames": [
-    "RCB vs DC"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -681,8 +678,8 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 36,
-      "wickets": 9,
+      "runs": 24,
+      "wickets": 8,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -743,15 +740,6 @@
         },
         {
           "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 12,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
           "date": "27 Apr",
           "runs": 0,
           "wickets": 1,
@@ -762,8 +750,8 @@
       ]
     },
     "Axar Patel": {
-      "runs": 31,
-      "wickets": 7,
+      "runs": 5,
+      "wickets": 5,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -800,15 +788,6 @@
           "date": "25 Apr",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 26,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1716,11 +1695,11 @@
       ]
     },
     "KL Rahul": {
-      "runs": 358,
+      "runs": 301,
       "wickets": 0,
-      "catches": 2,
+      "catches": 1,
       "stumpings": 0,
-      "run_outs": 1,
+      "run_outs": 0,
       "matches": [
         {
           "name": "DC vs MI",
@@ -1757,15 +1736,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 57,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 1
         },
         {
           "name": "DC vs LSG",
@@ -2615,8 +2585,8 @@
       ]
     },
     "Bhuvneshwar Kumar": {
-      "runs": 12,
-      "wickets": 14,
+      "runs": 9,
+      "wickets": 11,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -2670,15 +2640,6 @@
           "name": "RCB vs LSG",
           "date": "15 Apr",
           "runs": 0,
-          "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 3,
           "wickets": 3,
           "catches": 0,
           "stumpings": 0,
@@ -2903,9 +2864,9 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 328,
+      "runs": 332,
       "wickets": 0,
-      "catches": 4,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2965,10 +2926,10 @@
         },
         {
           "name": "RCB vs DC",
-          "date": "18 Apr",
-          "runs": 19,
+          "date": "27 Apr",
+          "runs": 23,
           "wickets": 0,
-          "catches": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3774,7 +3735,7 @@
     },
     "Kuldeep Yadav": {
       "runs": 9,
-      "wickets": 7,
+      "wickets": 5,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -3809,15 +3770,6 @@
         {
           "name": "DC vs PBKS",
           "date": "25 Apr",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs DC",
-          "date": "18 Apr",
           "runs": 0,
           "wickets": 2,
           "catches": 0,
