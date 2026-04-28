@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-27T21:33:43Z",
-  "matchesLoaded": 37,
+  "lastUpdated": "2026-04-28T16:22:58Z",
+  "matchesLoaded": 38,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -42,8 +42,12 @@
     "1529281",
     "1529282"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529283"
+  ],
+  "liveMatchNames": [
+    "RR vs PBKS"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -552,9 +556,9 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 279,
+      "runs": 309,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -607,6 +611,15 @@
           "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 71,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 30,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -669,6 +682,15 @@
         {
           "name": "DC vs PBKS",
           "date": "25 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -1227,7 +1249,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 255,
+      "runs": 286,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1300,6 +1322,15 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 39,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 31,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1470,7 +1501,7 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 48,
+      "runs": 110,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -1525,6 +1556,15 @@
           "name": "DC vs PBKS",
           "date": "25 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 62,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1826,6 +1866,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1835,7 +1884,17 @@
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Mohsin Khan": {
       "runs": 0,
@@ -1883,7 +1942,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 357,
+      "runs": 400,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1960,6 +2019,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 43,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2028,7 +2096,7 @@
     },
     "Arshdeep Singh": {
       "runs": 0,
-      "wickets": 7,
+      "wickets": 8,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2092,6 +2160,15 @@
           "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2452,6 +2529,15 @@
           "date": "19 Apr",
           "runs": 9,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3339,7 +3425,7 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 287,
+      "runs": 346,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3405,6 +3491,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 59,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4068,7 +4163,7 @@
     "Riyan Parag": {
       "runs": 88,
       "wickets": 2,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4141,6 +4236,15 @@
           "runs": 12,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs PBKS",
+          "date": "28 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
