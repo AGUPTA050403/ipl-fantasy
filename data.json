@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T16:22:58Z",
+  "lastUpdated": "2026-04-28T18:05:09Z",
   "matchesLoaded": 38,
   "scrapedMatchIds": [
     "1527674",
@@ -40,14 +40,11 @@
     "1529279",
     "1529280",
     "1529281",
-    "1529282"
-  ],
-  "liveMatchIds": [
+    "1529282",
     "1529283"
   ],
-  "liveMatchNames": [
-    "RR vs PBKS"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -630,7 +627,7 @@
     "Marco Jansen": {
       "runs": 10,
       "wickets": 5,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -693,7 +690,7 @@
           "date": "28 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1249,7 +1246,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 286,
+      "runs": 306,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -1330,7 +1327,7 @@
         {
           "name": "RR vs PBKS",
           "date": "28 Apr",
-          "runs": 31,
+          "runs": 51,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1808,7 +1805,7 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 4,
+      "wickets": 7,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1871,7 +1868,7 @@
           "name": "RR vs PBKS",
           "date": "28 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4161,7 +4158,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 88,
+      "runs": 117,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -4242,7 +4239,7 @@
         {
           "name": "RR vs PBKS",
           "date": "28 Apr",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
