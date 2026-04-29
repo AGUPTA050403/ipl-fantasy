@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T17:46:11Z",
+  "lastUpdated": "2026-04-29T19:26:56Z",
   "matchesLoaded": 39,
   "scrapedMatchIds": [
     "1527674",
@@ -41,14 +41,11 @@
     "1529280",
     "1529281",
     "1529282",
-    "1529283"
-  ],
-  "liveMatchIds": [
+    "1529283",
     "1529284"
   ],
-  "liveMatchNames": [
-    "SRH vs MI"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -1601,7 +1598,7 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 188,
+      "runs": 193,
       "wickets": 6,
       "catches": 7,
       "stumpings": 0,
@@ -1682,7 +1679,7 @@
         {
           "name": "SRH vs MI",
           "date": "29 Apr",
-          "runs": 16,
+          "runs": 21,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -2935,7 +2932,7 @@
     "Suryakumar Yadav": {
       "runs": 161,
       "wickets": 0,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3007,7 +3004,7 @@
           "date": "29 Apr",
           "runs": 5,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3821,7 +3818,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 393,
+      "runs": 414,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -3902,7 +3899,7 @@
         {
           "name": "SRH vs MI",
           "date": "29 Apr",
-          "runs": 44,
+          "runs": 65,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -3992,7 +3989,7 @@
     },
     "Trent Boult": {
       "runs": 1,
-      "wickets": 1,
+      "wickets": 2,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -4028,7 +4025,7 @@
           "name": "SRH vs MI",
           "date": "29 Apr",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
