@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T13:58:30Z",
-  "matchesLoaded": 38,
+  "lastUpdated": "2026-04-29T15:59:46Z",
+  "matchesLoaded": 39,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -43,8 +43,12 @@
     "1529282",
     "1529283"
   ],
-  "liveMatchIds": [],
-  "liveMatchNames": [],
+  "liveMatchIds": [
+    "1529284"
+  ],
+  "liveMatchNames": [
+    "SRH vs MI"
+  ],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -387,6 +391,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -474,7 +487,7 @@
     "Ishan Kishan": {
       "runs": 312,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 1,
       "run_outs": 1,
       "matches": [
@@ -547,6 +560,15 @@
           "runs": 74,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1571,7 +1593,7 @@
     },
     "Nitish Kumar Reddy": {
       "runs": 172,
-      "wickets": 5,
+      "wickets": 6,
       "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
@@ -1645,6 +1667,15 @@
           "runs": 36,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2029,7 +2060,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 97,
+      "runs": 128,
       "wickets": 3,
       "catches": 2,
       "stumpings": 0,
@@ -2084,6 +2115,15 @@
           "name": "MI vs CSK",
           "date": "23 Apr",
           "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 31,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2317,7 +2357,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 181,
+      "runs": 188,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2383,6 +2423,15 @@
           "runs": 37,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2875,7 +2924,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 156,
+      "runs": 161,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -2939,6 +2988,15 @@
           "name": "MI vs CSK",
           "date": "23 Apr",
           "runs": 35,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 5,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3513,7 +3571,7 @@
     "Abhishek Sharma": {
       "runs": 380,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3586,6 +3644,15 @@
           "runs": 57,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3747,7 +3814,7 @@
     "Heinrich Klaasen": {
       "runs": 349,
       "wickets": 0,
-      "catches": 7,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3818,6 +3885,15 @@
           "name": "SRH vs RR",
           "date": "25 Apr",
           "runs": 29,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -3935,6 +4011,15 @@
           "date": "12 Apr",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs MI",
+          "date": "29 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
