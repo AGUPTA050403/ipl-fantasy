@@ -672,7 +672,7 @@ def build_output(matches_data, existing_ids=None, live_ids=None, live_match_name
 
     return {
         'lastUpdated':     datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-        'matchesLoaded':   len(matches_data),
+        'matchesLoaded':   len(existing_ids or set()) + len(live_ids or set()),
         'scrapedMatchIds': sorted(existing_ids or set()),
         'liveMatchIds':    sorted(live_ids or set()),
         'liveMatchNames':  sorted(live_match_names or set()),
