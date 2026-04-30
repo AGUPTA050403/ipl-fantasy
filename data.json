@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T17:22:13Z",
+  "lastUpdated": "2026-04-30T18:52:29Z",
   "matchesLoaded": 40,
   "scrapedMatchIds": [
     "1527674",
@@ -42,14 +42,11 @@
     "1529281",
     "1529282",
     "1529283",
-    "1529284"
-  ],
-  "liveMatchIds": [
+    "1529284",
     "1529285"
   ],
-  "liveMatchNames": [
-    "GT vs RCB"
-  ],
+  "liveMatchIds": [],
+  "liveMatchNames": [],
   "teams": {
     "Adi": {
       "displayName": "Adi's Team",
@@ -3294,7 +3291,7 @@
       ]
     },
     "Rashid Khan": {
-      "runs": 28,
+      "runs": 35,
       "wickets": 10,
       "catches": 3,
       "stumpings": 0,
@@ -3375,7 +3372,7 @@
         {
           "name": "GT vs RCB",
           "date": "30 Apr",
-          "runs": 0,
+          "runs": 7,
           "wickets": 2,
           "catches": 2,
           "stumpings": 0,
