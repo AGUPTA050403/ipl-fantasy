@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T18:52:29Z",
+  "lastUpdated": "2026-04-30T20:08:33Z",
   "matchesLoaded": 40,
   "scrapedMatchIds": [
     "1527674",
@@ -751,6 +751,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RCB",
+          "date": "30 Apr",
+          "runs": 4,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "28 Mar",
           "runs": 0,
@@ -791,15 +800,6 @@
           "date": "27 Apr",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RCB",
-          "date": "30 Apr",
-          "runs": 4,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2794,6 +2794,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RCB",
+          "date": "30 Apr",
+          "runs": 15,
+          "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "28 Mar",
           "runs": 0,
@@ -2833,15 +2842,6 @@
           "name": "RCB vs DC",
           "date": "27 Apr",
           "runs": 0,
-          "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RCB",
-          "date": "30 Apr",
-          "runs": 15,
           "wickets": 3,
           "catches": 0,
           "stumpings": 0,
@@ -3091,6 +3091,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RCB",
+          "date": "30 Apr",
+          "runs": 28,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "28 Mar",
           "runs": 69,
@@ -3132,15 +3141,6 @@
           "runs": 23,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RCB",
-          "date": "30 Apr",
-          "runs": 28,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
