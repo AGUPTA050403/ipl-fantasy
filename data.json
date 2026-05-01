@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T14:36:56Z",
+  "lastUpdated": "2026-05-01T15:58:17Z",
   "matchesLoaded": 43,
   "scrapedMatchIds": [
     "1527674",
@@ -822,8 +822,8 @@
     },
     "Axar Patel": {
       "runs": 31,
-      "wickets": 7,
-      "catches": 1,
+      "wickets": 8,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -903,8 +903,8 @@
           "name": "DC vs RR",
           "date": "1 May",
           "runs": 0,
-          "wickets": 0,
-          "catches": 0,
+          "wickets": 1,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2639,7 +2639,7 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 132,
+      "runs": 152,
       "wickets": 6,
       "catches": 1,
       "stumpings": 0,
@@ -2729,7 +2729,7 @@
         {
           "name": "DC vs RR",
           "date": "1 May",
-          "runs": 0,
+          "runs": 20,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4525,7 +4525,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 145,
+      "runs": 207,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -4615,7 +4615,7 @@
         {
           "name": "DC vs RR",
           "date": "1 May",
-          "runs": 28,
+          "runs": 90,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
