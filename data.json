@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T18:09:56Z",
+  "lastUpdated": "2026-05-02T19:34:27Z",
   "matchesLoaded": 44,
   "scrapedMatchIds": [
     "1527674",
@@ -936,6 +936,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs CSK",
           "date": "26 Apr",
           "runs": 0,
@@ -994,15 +1003,6 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs MI",
-          "date": "2 May",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1476,6 +1476,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs CSK",
           "date": "26 Apr",
           "runs": 22,
@@ -1535,15 +1544,6 @@
           "runs": 13,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs MI",
-          "date": "2 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3042,6 +3042,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs CSK",
           "date": "26 Apr",
           "runs": 2,
@@ -3076,15 +3085,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "CSK vs MI",
-          "date": "2 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -3101,6 +3101,15 @@
           "runs": 22,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 67,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3162,15 +3171,6 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 7,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs MI",
-          "date": "2 May",
-          "runs": 67,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -4002,6 +4002,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs CSK",
           "date": "26 Apr",
           "runs": 11,
@@ -4059,15 +4068,6 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 48,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs MI",
-          "date": "2 May",
-          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
