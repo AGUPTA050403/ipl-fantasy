@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T14:30:11Z",
+  "lastUpdated": "2026-05-02T15:25:52Z",
   "matchesLoaded": 44,
   "scrapedMatchIds": [
     "1527674",
@@ -922,7 +922,7 @@
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 7,
+      "wickets": 9,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -995,6 +995,15 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2199,7 +2208,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 128,
+      "runs": 136,
       "wickets": 4,
       "catches": 2,
       "stumpings": 0,
@@ -2271,7 +2280,7 @@
         {
           "name": "CSK vs MI",
           "date": "2 May",
-          "runs": 0,
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2514,7 +2523,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 188,
+      "runs": 193,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2595,7 +2604,7 @@
         {
           "name": "CSK vs MI",
           "date": "2 May",
-          "runs": 0,
+          "runs": 5,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3011,7 +3020,7 @@
     "Dewald Brevis": {
       "runs": 64,
       "wickets": 0,
-      "catches": 8,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3059,13 +3068,22 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
       "runs": 178,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -3140,11 +3158,20 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 162,
+      "runs": 183,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -3225,7 +3252,7 @@
         {
           "name": "CSK vs MI",
           "date": "2 May",
-          "runs": 0,
+          "runs": 21,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
