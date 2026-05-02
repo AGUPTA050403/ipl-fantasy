@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T15:25:52Z",
+  "lastUpdated": "2026-05-02T16:10:43Z",
   "matchesLoaded": 44,
   "scrapedMatchIds": [
     "1527674",
@@ -1538,6 +1538,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2208,7 +2217,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 136,
+      "runs": 146,
       "wickets": 4,
       "catches": 2,
       "stumpings": 0,
@@ -2280,7 +2289,7 @@
         {
           "name": "CSK vs MI",
           "date": "2 May",
-          "runs": 8,
+          "runs": 18,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3020,7 +3029,7 @@
     "Dewald Brevis": {
       "runs": 64,
       "wickets": 0,
-      "catches": 9,
+      "catches": 10,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3074,7 +3083,7 @@
           "date": "2 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3978,7 +3987,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 304,
+      "runs": 305,
       "wickets": 0,
       "catches": 3,
       "stumpings": 1,
@@ -4051,6 +4060,15 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 48,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4328,7 +4346,7 @@
       "matches": []
     },
     "Trent Boult": {
-      "runs": 1,
+      "runs": 8,
       "wickets": 2,
       "catches": 1,
       "stumpings": 0,
@@ -4373,7 +4391,7 @@
         {
           "name": "CSK vs MI",
           "date": "2 May",
-          "runs": 0,
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
