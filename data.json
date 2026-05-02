@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-02T13:13:17Z",
-  "matchesLoaded": 43,
+  "lastUpdated": "2026-05-02T14:30:11Z",
+  "matchesLoaded": 44,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -46,9 +46,11 @@
     "1529286"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529287"
   ],
   "liveMatchNames": [
+    "CSK vs MI",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -397,6 +399,15 @@
         {
           "name": "SRH vs MI",
           "date": "29 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -2256,6 +2267,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2567,6 +2587,15 @@
           "name": "SRH vs MI",
           "date": "29 Apr",
           "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3190,6 +3219,15 @@
           "runs": 5,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4302,6 +4340,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs MI",
+          "date": "2 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
