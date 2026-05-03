@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T14:28:45Z",
+  "lastUpdated": "2026-05-03T15:23:06Z",
   "matchesLoaded": 46,
   "scrapedMatchIds": [
     "1527674",
@@ -599,7 +599,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 324,
+      "runs": 328,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -671,7 +671,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 15,
+          "runs": 19,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1573,7 +1573,7 @@
     "Jos Buttler": {
       "runs": 309,
       "wickets": 0,
-      "catches": 12,
+      "catches": 14,
       "stumpings": 0,
       "run_outs": 3,
       "matches": [
@@ -1663,14 +1663,14 @@
           "date": "3 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 1,
+          "catches": 3,
           "stumpings": 0,
           "run_outs": 0
         }
       ]
     },
     "Marcus Stoinis": {
-      "runs": 110,
+      "runs": 139,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -1742,7 +1742,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2703,6 +2703,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 24,
@@ -2735,15 +2744,6 @@
           "runs": 0,
           "wickets": 2,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs SRH",
-          "date": "3 May",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2865,6 +2865,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 29,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 1,
@@ -2877,15 +2886,6 @@
           "name": "LSG vs KKR",
           "date": "9 Apr",
           "runs": 9,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs SRH",
-          "date": "3 May",
-          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3441,6 +3441,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 6,
@@ -3471,15 +3480,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 53,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs SRH",
-          "date": "3 May",
-          "runs": 22,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3664,6 +3664,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3774,6 +3783,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 0,
@@ -3794,15 +3812,6 @@
         {
           "name": "KKR vs RR",
           "date": "19 Apr",
-          "runs": 0,
-          "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs SRH",
-          "date": "3 May",
           "runs": 0,
           "wickets": 3,
           "catches": 0,
@@ -3829,7 +3838,7 @@
     },
     "Jason Holder": {
       "runs": 35,
-      "wickets": 3,
+      "wickets": 5,
       "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
@@ -3858,6 +3867,15 @@
           "runs": 12,
           "wickets": 2,
           "catches": 3,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4466,7 +4484,7 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 14,
+      "wickets": 16,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -4556,7 +4574,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
