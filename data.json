@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T17:24:49Z",
+  "lastUpdated": "2026-05-03T18:11:10Z",
   "matchesLoaded": 46,
   "scrapedMatchIds": [
     "1527674",
@@ -45,14 +45,13 @@
     "1529285",
     "1529286",
     "1529287",
-    "1529288"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529288",
     "1529289"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "GT vs PBKS",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -690,7 +689,7 @@
     },
     "Marco Jansen": {
       "runs": 30,
-      "wickets": 5,
+      "wickets": 6,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -762,7 +761,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 20,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1580,7 +1579,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 334,
+      "runs": 335,
       "wickets": 0,
       "catches": 14,
       "stumpings": 0,
@@ -1670,7 +1669,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 25,
+          "runs": 26,
           "wickets": 0,
           "catches": 3,
           "stumpings": 0,
@@ -2355,7 +2354,7 @@
     },
     "Arshdeep Singh": {
       "runs": 1,
-      "wickets": 9,
+      "wickets": 10,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2424,19 +2423,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 1,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 1,
-          "wickets": 1,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3855,7 +3854,7 @@
       "matches": []
     },
     "Jason Holder": {
-      "runs": 35,
+      "runs": 40,
       "wickets": 7,
       "catches": 5,
       "stumpings": 0,
@@ -3891,7 +3890,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 0,
+          "runs": 5,
           "wickets": 4,
           "catches": 0,
           "stumpings": 0,
@@ -3970,20 +3969,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 15,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
