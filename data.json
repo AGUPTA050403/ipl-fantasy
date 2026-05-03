@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T15:23:06Z",
+  "lastUpdated": "2026-05-03T16:08:46Z",
   "matchesLoaded": 46,
   "scrapedMatchIds": [
     "1527674",
@@ -419,7 +419,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 328,
+      "runs": 339,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -503,6 +503,15 @@
           "runs": 6,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -680,7 +689,7 @@
       ]
     },
     "Marco Jansen": {
-      "runs": 10,
+      "runs": 30,
       "wickets": 5,
       "catches": 3,
       "stumpings": 0,
@@ -752,7 +761,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 0,
+          "runs": 20,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1670,7 +1679,7 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 139,
+      "runs": 150,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -1742,7 +1751,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 29,
+          "runs": 40,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2345,7 +2354,7 @@
       ]
     },
     "Arshdeep Singh": {
-      "runs": 0,
+      "runs": 1,
       "wickets": 8,
       "catches": 3,
       "stumpings": 0,
@@ -2426,7 +2435,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2435,9 +2444,9 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 373,
+      "runs": 374,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -2512,6 +2521,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3579,7 +3597,7 @@
     },
     "Rashid Khan": {
       "runs": 35,
-      "wickets": 10,
+      "wickets": 11,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3669,7 +3687,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3838,7 +3856,7 @@
     },
     "Jason Holder": {
       "runs": 35,
-      "wickets": 5,
+      "wickets": 7,
       "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
@@ -3874,7 +3892,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 0,
-          "wickets": 2,
+          "wickets": 4,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
