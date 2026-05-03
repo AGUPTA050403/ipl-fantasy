@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T18:11:10Z",
+  "lastUpdated": "2026-05-03T19:33:40Z",
   "matchesLoaded": 46,
   "scrapedMatchIds": [
     "1527674",
@@ -632,6 +632,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 19,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs SRH",
           "date": "11 Apr",
           "runs": 69,
@@ -675,15 +684,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 19,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -709,6 +709,15 @@
           "runs": 9,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 20,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -754,15 +763,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 20,
-          "wickets": 1,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1703,6 +1703,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 40,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs SRH",
           "date": "11 Apr",
           "runs": 0,
@@ -1743,15 +1752,6 @@
           "date": "28 Apr",
           "runs": 62,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 40,
-          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2054,6 +2054,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs SRH",
           "date": "11 Apr",
           "runs": 0,
@@ -2094,15 +2103,6 @@
           "date": "28 Apr",
           "runs": 0,
           "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 0,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2378,6 +2378,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 1,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs SRH",
           "date": "11 Apr",
           "runs": 0,
@@ -2418,15 +2427,6 @@
           "date": "28 Apr",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 1,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3924,6 +3924,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs PBKS",
+          "date": "3 May",
+          "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs SRH",
           "date": "11 Apr",
           "runs": 51,
@@ -3963,15 +3972,6 @@
           "name": "RR vs PBKS",
           "date": "28 Apr",
           "runs": 59,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs PBKS",
-          "date": "3 May",
-          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
