@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T16:08:46Z",
+  "lastUpdated": "2026-05-03T17:24:49Z",
   "matchesLoaded": 46,
   "scrapedMatchIds": [
     "1527674",
@@ -419,7 +419,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 339,
+      "runs": 385,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -509,7 +509,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 11,
+          "runs": 57,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -610,7 +610,7 @@
     "Shreyas Iyer": {
       "runs": 328,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -682,7 +682,7 @@
           "date": "3 May",
           "runs": 19,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1580,7 +1580,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 309,
+      "runs": 334,
       "wickets": 0,
       "catches": 14,
       "stumpings": 0,
@@ -1670,7 +1670,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 0,
+          "runs": 25,
           "wickets": 0,
           "catches": 3,
           "stumpings": 0,
@@ -1680,7 +1680,7 @@
     },
     "Marcus Stoinis": {
       "runs": 150,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -1752,7 +1752,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 40,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2355,7 +2355,7 @@
     },
     "Arshdeep Singh": {
       "runs": 1,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2436,7 +2436,7 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 1,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2444,7 +2444,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 374,
+      "runs": 378,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2525,7 +2525,7 @@
         {
           "name": "GT vs PBKS",
           "date": "3 May",
-          "runs": 1,
+          "runs": 5,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
