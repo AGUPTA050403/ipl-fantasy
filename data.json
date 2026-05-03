@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-02T20:41:50Z",
-  "matchesLoaded": 44,
+  "lastUpdated": "2026-05-03T13:12:15Z",
+  "matchesLoaded": 45,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -47,9 +47,11 @@
     "1529287"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529288"
   ],
   "liveMatchNames": [
+    "KKR vs SRH",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -506,7 +508,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 312,
+      "runs": 354,
       "wickets": 0,
       "catches": 5,
       "stumpings": 1,
@@ -588,6 +590,15 @@
           "name": "SRH vs RR",
           "date": "25 Apr",
           "runs": 74,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 42,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1271,7 +1282,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 262,
+      "runs": 323,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1353,6 +1364,15 @@
           "name": "SRH vs RR",
           "date": "25 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 61,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2622,7 +2642,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 9,
+      "wickets": 11,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -2687,6 +2707,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2792,7 +2821,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 81,
+      "runs": 110,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2838,6 +2867,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3436,6 +3474,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3693,7 +3740,7 @@
     },
     "Varun Chakravarthy": {
       "runs": 0,
-      "wickets": 7,
+      "wickets": 10,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -3746,6 +3793,15 @@
         {
           "name": "KKR vs RR",
           "date": "19 Apr",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
           "runs": 0,
           "wickets": 3,
           "catches": 0,
@@ -3896,7 +3952,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 425,
+      "runs": 440,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -3978,6 +4034,15 @@
           "name": "SRH vs RR",
           "date": "25 Apr",
           "runs": 57,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4157,9 +4222,9 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 414,
+      "runs": 425,
       "wickets": 0,
-      "catches": 9,
+      "catches": 10,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4241,6 +4306,15 @@
           "runs": 29,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs SRH",
+          "date": "3 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
