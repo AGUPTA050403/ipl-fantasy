@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-03T20:42:42Z",
-  "matchesLoaded": 46,
+  "lastUpdated": "2026-05-04T14:02:44Z",
+  "matchesLoaded": 47,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -49,9 +49,11 @@
     "1529289"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529290"
   ],
   "liveMatchNames": [
+    "MI vs LSG",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -1116,6 +1118,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1249,6 +1260,15 @@
           "runs": 31,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2166,6 +2186,15 @@
           "date": "26 Apr",
           "runs": 0,
           "wickets": 5,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3591,6 +3620,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3767,6 +3805,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4177,7 +4224,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 212,
+      "runs": 222,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4252,6 +4299,15 @@
           "runs": 2,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
