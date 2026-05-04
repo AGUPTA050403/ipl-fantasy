@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T14:02:44Z",
+  "lastUpdated": "2026-05-04T16:17:50Z",
   "matchesLoaded": 47,
   "scrapedMatchIds": [
     "1527674",
@@ -413,6 +413,15 @@
           "date": "2 May",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1041,7 +1050,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 190,
+      "runs": 205,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -1122,7 +1131,7 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
-          "runs": 0,
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1185,7 +1194,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 193,
+      "runs": 224,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -1266,7 +1275,7 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
-          "runs": 0,
+          "runs": 31,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1275,7 +1284,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 137,
+      "runs": 149,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1312,6 +1321,15 @@
           "name": "MI vs RCB",
           "date": "12 Apr",
           "runs": 19,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2720,6 +2738,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3284,7 +3311,7 @@
     "Suryakumar Yadav": {
       "runs": 183,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3366,6 +3393,15 @@
           "runs": 21,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3543,7 +3579,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 82,
+      "runs": 145,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -3624,7 +3660,7 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
-          "runs": 0,
+          "runs": 63,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4224,7 +4260,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 222,
+      "runs": 256,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4305,7 +4341,7 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
-          "runs": 10,
+          "runs": 44,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
