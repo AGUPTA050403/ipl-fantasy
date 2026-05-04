@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T18:01:11Z",
+  "lastUpdated": "2026-05-04T20:02:22Z",
   "matchesLoaded": 47,
   "scrapedMatchIds": [
     "1527674",
@@ -1056,6 +1056,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 18,
@@ -1126,15 +1135,6 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
-          "runs": 15,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -1199,6 +1199,15 @@
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
+        {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 31,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
         {
           "name": "GT vs LSG",
           "date": "12 Apr",
@@ -1265,15 +1274,6 @@
         {
           "name": "LSG vs KKR",
           "date": "26 Apr",
-          "runs": 31,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
           "runs": 31,
           "wickets": 0,
           "catches": 1,
@@ -2172,6 +2172,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 0,
@@ -2203,15 +2212,6 @@
           "date": "26 Apr",
           "runs": 0,
           "wickets": 5,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
-          "runs": 0,
-          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3585,6 +3585,15 @@
       "run_outs": 1,
       "matches": [
         {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 63,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 19,
@@ -3653,15 +3662,6 @@
           "runs": 9,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
-          "runs": 63,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3774,6 +3774,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 12,
@@ -3842,15 +3851,6 @@
           "runs": 11,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4266,6 +4266,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "MI vs LSG",
+          "date": "4 May",
+          "runs": 44,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 11,
@@ -4334,15 +4343,6 @@
           "runs": 2,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "MI vs LSG",
-          "date": "4 May",
-          "runs": 44,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
