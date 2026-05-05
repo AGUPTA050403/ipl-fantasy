@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T15:57:00Z",
+  "lastUpdated": "2026-05-05T17:28:13Z",
   "matchesLoaded": 48,
   "scrapedMatchIds": [
     "1527674",
@@ -872,7 +872,7 @@
     },
     "Axar Patel": {
       "runs": 33,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -962,7 +962,7 @@
           "name": "CSK vs DC",
           "date": "5 May",
           "runs": 2,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1999,7 +1999,7 @@
       "runs": 445,
       "wickets": 0,
       "catches": 2,
-      "stumpings": 0,
+      "stumpings": 1,
       "run_outs": 1,
       "matches": [
         {
@@ -2089,7 +2089,7 @@
           "runs": 12,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
+          "stumpings": 1,
           "run_outs": 0
         }
       ]
@@ -3256,7 +3256,7 @@
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 245,
+      "runs": 251,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3346,7 +3346,7 @@
         {
           "name": "CSK vs DC",
           "date": "5 May",
-          "runs": 0,
+          "runs": 6,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -4216,7 +4216,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 315,
+      "runs": 402,
       "wickets": 0,
       "catches": 3,
       "stumpings": 1,
@@ -4298,6 +4298,15 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 48,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 87,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
