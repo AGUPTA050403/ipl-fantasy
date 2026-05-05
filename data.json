@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T18:54:59Z",
+  "lastUpdated": "2026-05-05T20:07:57Z",
   "matchesLoaded": 48,
   "scrapedMatchIds": [
     "1527674",
@@ -1039,6 +1039,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 1,
@@ -1052,15 +1061,6 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs DC",
-          "date": "5 May",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3235,18 +3235,18 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs CSK",
-          "date": "14 Apr",
-          "runs": 41,
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "CSK vs DC",
-          "date": "5 May",
-          "runs": 0,
+          "name": "KKR vs CSK",
+          "date": "14 Apr",
+          "runs": 41,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -3325,6 +3325,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 6,
@@ -3341,15 +3350,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "CSK vs DC",
-          "date": "5 May",
-          "runs": 6,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -4285,6 +4285,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 87,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 6,
@@ -4297,15 +4306,6 @@
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 48,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs DC",
-          "date": "5 May",
-          "runs": 87,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
