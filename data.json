@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-04T21:37:26Z",
-  "matchesLoaded": 47,
+  "lastUpdated": "2026-05-05T15:57:00Z",
+  "matchesLoaded": 48,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -50,9 +50,11 @@
     "1529290"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529291"
   ],
   "liveMatchNames": [
+    "CSK vs DC",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -869,7 +871,7 @@
       ]
     },
     "Axar Patel": {
-      "runs": 31,
+      "runs": 33,
       "wickets": 8,
       "catches": 2,
       "stumpings": 0,
@@ -955,12 +957,21 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 2,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 9,
+      "wickets": 11,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1042,6 +1053,15 @@
           "date": "14 Apr",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1976,7 +1996,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 433,
+      "runs": 445,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -2058,6 +2078,15 @@
           "name": "DC vs RR",
           "date": "1 May",
           "runs": 75,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3157,7 +3186,7 @@
     "Dewald Brevis": {
       "runs": 64,
       "wickets": 0,
-      "catches": 10,
+      "catches": 11,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3214,15 +3243,24 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
       "runs": 245,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
-      "run_outs": 1,
+      "run_outs": 2,
       "matches": [
         {
           "name": "MI vs CSK",
@@ -3304,6 +3342,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -4520,6 +4567,15 @@
         {
           "name": "DC vs RR",
           "date": "1 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs DC",
+          "date": "5 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
