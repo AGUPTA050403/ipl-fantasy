@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T16:14:10Z",
+  "lastUpdated": "2026-05-06T17:59:32Z",
   "matchesLoaded": 49,
   "scrapedMatchIds": [
     "1527674",
@@ -48,15 +48,14 @@
     "1529288",
     "1529289",
     "1529290",
-    "1529291"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529291",
     "1529292"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "PBKS vs KKR",
-    "PBKS vs SRH"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -532,7 +531,7 @@
     "Ishan Kishan": {
       "runs": 368,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 1,
       "run_outs": 1,
       "matches": [
@@ -613,7 +612,7 @@
           "date": "6 May",
           "runs": 55,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -701,7 +700,7 @@
       ]
     },
     "Marco Jansen": {
-      "runs": 30,
+      "runs": 49,
       "wickets": 6,
       "catches": 4,
       "stumpings": 0,
@@ -773,7 +772,7 @@
         {
           "name": "PBKS vs SRH",
           "date": "6 May",
-          "runs": 0,
+          "runs": 19,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -1736,7 +1735,7 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 156,
+      "runs": 178,
       "wickets": 1,
       "catches": 1,
       "stumpings": 0,
@@ -1808,7 +1807,7 @@
         {
           "name": "PBKS vs SRH",
           "date": "6 May",
-          "runs": 6,
+          "runs": 28,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1819,7 +1818,7 @@
     "Nitish Kumar Reddy": {
       "runs": 183,
       "wickets": 5,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1891,7 +1890,7 @@
           "date": "6 May",
           "runs": 29,
           "wickets": 1,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2508,19 +2507,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "PBKS vs SRH",
+          "date": "6 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "PBKS vs SRH",
-          "date": "6 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4108,20 +4107,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "PBKS vs SRH",
           "date": "6 May",
           "runs": 3,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4138,7 +4137,7 @@
     "Abhishek Sharma": {
       "runs": 353,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4219,7 +4218,7 @@
           "date": "6 May",
           "runs": 35,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4837,7 +4836,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 54,
+      "runs": 58,
       "wickets": 1,
       "catches": 1,
       "stumpings": 0,
@@ -4891,7 +4890,7 @@
         {
           "name": "PBKS vs SRH",
           "date": "6 May",
-          "runs": 0,
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
