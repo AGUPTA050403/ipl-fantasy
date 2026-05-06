@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T21:35:26Z",
-  "matchesLoaded": 48,
+  "lastUpdated": "2026-05-06T14:13:21Z",
+  "matchesLoaded": 49,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -51,10 +51,12 @@
     "1529291"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529292"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "PBKS vs SRH"
   ],
   "teams": {
     "Adi": {
@@ -614,6 +616,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -774,6 +785,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1356,7 +1376,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 277,
+      "runs": 291,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1438,6 +1458,15 @@
           "name": "KKR vs SRH",
           "date": "3 May",
           "runs": 61,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1890,6 +1919,15 @@
           "runs": 36,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2508,6 +2546,15 @@
         {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -4125,7 +4172,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 392,
+      "runs": 421,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -4207,6 +4254,15 @@
           "name": "KKR vs SRH",
           "date": "3 May",
           "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4488,6 +4544,15 @@
           "runs": 11,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs SRH",
+          "date": "6 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
