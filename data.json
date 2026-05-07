@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T18:07:10Z",
+  "lastUpdated": "2026-05-07T19:59:50Z",
   "matchesLoaded": 50,
   "scrapedMatchIds": [
     "1527674",
@@ -49,15 +49,14 @@
     "1529289",
     "1529290",
     "1529291",
-    "1529292"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529292",
     "1529293"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "PBKS vs KKR",
-    "RCB vs LSG"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -783,7 +782,7 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 40,
+      "runs": 68,
       "wickets": 8,
       "catches": 2,
       "stumpings": 0,
@@ -864,7 +863,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 0,
+          "runs": 28,
           "wickets": 1,
           "catches": 1,
           "stumpings": 0,
@@ -1073,7 +1072,7 @@
     "Rishabh Pant": {
       "runs": 236,
       "wickets": 0,
-      "catches": 8,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -1154,7 +1153,7 @@
           "date": "7 May",
           "runs": 32,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1217,7 +1216,7 @@
     "Aiden Markram": {
       "runs": 213,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1298,7 +1297,7 @@
           "date": "7 May",
           "runs": 1,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
