@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T16:22:42Z",
+  "lastUpdated": "2026-05-07T18:07:10Z",
   "matchesLoaded": 50,
   "scrapedMatchIds": [
     "1527674",
@@ -785,7 +785,7 @@
     "Krunal Pandya": {
       "runs": 40,
       "wickets": 8,
-      "catches": 1,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -866,7 +866,7 @@
           "date": "7 May",
           "runs": 0,
           "wickets": 1,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1071,7 +1071,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 204,
+      "runs": 236,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -1152,7 +1152,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 0,
+          "runs": 32,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1215,7 +1215,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 212,
+      "runs": 213,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -1296,7 +1296,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3542,6 +3542,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3627,7 +3636,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 158,
+      "runs": 182,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -3708,7 +3717,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 14,
+          "runs": 38,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3817,7 +3826,7 @@
     },
     "Mohammed Shami": {
       "runs": 31,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3898,7 +3907,7 @@
           "name": "RCB vs LSG",
           "date": "7 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4317,7 +4326,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 323,
+      "runs": 327,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4398,7 +4407,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 107,
+          "runs": 111,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
