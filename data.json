@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T14:10:22Z",
+  "lastUpdated": "2026-05-07T16:22:42Z",
   "matchesLoaded": 50,
   "scrapedMatchIds": [
     "1527674",
@@ -784,7 +784,7 @@
     },
     "Krunal Pandya": {
       "runs": 40,
-      "wickets": 9,
+      "wickets": 8,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -844,15 +844,6 @@
           "run_outs": 0
         },
         {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs RCB",
           "date": "18 Apr",
           "runs": 12,
@@ -864,6 +855,15 @@
         {
           "name": "RCB vs DC",
           "date": "27 Apr",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -1071,7 +1071,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 205,
+      "runs": 204,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -1108,15 +1108,6 @@
           "name": "LSG vs PBKS",
           "date": "19 Apr",
           "runs": 43,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1224,7 +1215,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 224,
+      "runs": 212,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -1263,15 +1254,6 @@
           "runs": 42,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 12,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3124,7 +3106,7 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 27,
-      "wickets": 17,
+      "wickets": 14,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -3179,15 +3161,6 @@
           "date": "10 Apr",
           "runs": 9,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 0,
-          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3492,7 +3465,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 379,
+      "runs": 330,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3549,15 +3522,6 @@
           "runs": 32,
           "wickets": 0,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 49,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3663,9 +3627,9 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 145,
+      "runs": 158,
       "wickets": 0,
-      "catches": 4,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -3706,15 +3670,6 @@
           "run_outs": 1
         },
         {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 1,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 8,
@@ -3753,7 +3708,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 0,
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3900,15 +3855,6 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -4371,7 +4317,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 263,
+      "runs": 323,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4414,15 +4360,6 @@
           "run_outs": 0
         },
         {
-          "name": "RCB vs LSG",
-          "date": "15 Apr",
-          "runs": 40,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs LSG",
           "date": "1 Apr",
           "runs": 35,
@@ -4461,7 +4398,7 @@
         {
           "name": "RCB vs LSG",
           "date": "7 May",
-          "runs": 7,
+          "runs": 107,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
