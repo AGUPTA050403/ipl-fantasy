@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T21:18:12Z",
-  "matchesLoaded": 49,
+  "lastUpdated": "2026-05-07T14:10:22Z",
+  "matchesLoaded": 50,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -52,10 +52,12 @@
     "1529292"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529293"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RCB vs LSG"
   ],
   "teams": {
     "Adi": {
@@ -1155,6 +1157,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1297,6 +1308,15 @@
           "runs": 31,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3189,6 +3209,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3720,6 +3749,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3905,6 +3943,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4324,7 +4371,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 256,
+      "runs": 263,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4408,6 +4455,15 @@
           "runs": 2,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs LSG",
+          "date": "7 May",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
