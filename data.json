@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T15:23:11Z",
+  "lastUpdated": "2026-05-08T16:51:08Z",
   "matchesLoaded": 51,
   "scrapedMatchIds": [
     "1527674",
@@ -874,8 +874,8 @@
       ]
     },
     "Axar Patel": {
-      "runs": 41,
-      "wickets": 9,
+      "runs": 44,
+      "wickets": 10,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -973,8 +973,8 @@
         {
           "name": "KKR vs DC",
           "date": "8 May",
-          "runs": 8,
-          "wickets": 0,
+          "runs": 11,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2989,7 +2989,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 82,
+      "runs": 143,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3035,6 +3035,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 61,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3655,6 +3664,15 @@
         {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -4633,6 +4651,15 @@
         {
           "name": "CSK vs DC",
           "date": "5 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
