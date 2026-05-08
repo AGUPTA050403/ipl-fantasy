@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T16:51:08Z",
+  "lastUpdated": "2026-05-08T18:10:35Z",
   "matchesLoaded": 51,
   "scrapedMatchIds": [
     "1527674",
@@ -50,14 +50,13 @@
     "1529290",
     "1529291",
     "1529292",
-    "1529293"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529293",
     "1529294"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "KKR vs DC",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -2989,7 +2988,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 143,
+      "runs": 182,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3032,18 +3031,18 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 6,
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 100,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 61,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3662,8 +3661,8 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "KKR vs DC",
+          "date": "8 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -3671,8 +3670,8 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
