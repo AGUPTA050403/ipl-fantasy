@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-08T13:49:36Z",
-  "matchesLoaded": 50,
+  "lastUpdated": "2026-05-08T15:23:11Z",
+  "matchesLoaded": 51,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -53,9 +53,11 @@
     "1529293"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529294"
   ],
   "liveMatchNames": [
+    "KKR vs DC",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -872,7 +874,7 @@
       ]
     },
     "Axar Patel": {
-      "runs": 33,
+      "runs": 41,
       "wickets": 9,
       "catches": 2,
       "stumpings": 0,
@@ -964,6 +966,15 @@
           "date": "5 May",
           "runs": 2,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 8,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1997,7 +2008,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 445,
+      "runs": 468,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2091,6 +2102,15 @@
           "wickets": 0,
           "catches": 0,
           "stumpings": 1,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 23,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
           "run_outs": 0
         }
       ]
@@ -2790,8 +2810,8 @@
     },
     "Sunil Narine": {
       "runs": 28,
-      "wickets": 11,
-      "catches": 2,
+      "wickets": 12,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2854,6 +2874,15 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 2,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 0,
+          "wickets": 1,
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
@@ -3970,6 +3999,15 @@
           "date": "19 Apr",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "8 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
