@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T15:53:31Z",
+  "lastUpdated": "2026-05-09T16:56:04Z",
   "matchesLoaded": 52,
   "scrapedMatchIds": [
     "1527674",
@@ -1469,7 +1469,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 312,
+      "runs": 315,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -1568,7 +1568,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 0,
+          "runs": 3,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1938,7 +1938,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 11,
+      "wickets": 12,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2037,7 +2037,7 @@
           "name": "RR vs GT",
           "date": "9 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2315,7 +2315,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 404,
+      "runs": 440,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2406,6 +2406,15 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 46,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 36,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2684,7 +2693,7 @@
       ]
     },
     "Shimron Hetmyer": {
-      "runs": 72,
+      "runs": 78,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -2748,6 +2757,15 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2936,7 +2954,7 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 152,
+      "runs": 170,
       "wickets": 8,
       "catches": 1,
       "stumpings": 0,
@@ -3035,7 +3053,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 0,
+          "runs": 18,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -3828,7 +3846,7 @@
     },
     "Rashid Khan": {
       "runs": 35,
-      "wickets": 11,
+      "wickets": 13,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3927,7 +3945,7 @@
           "name": "RR vs GT",
           "date": "9 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4115,7 +4133,7 @@
     "Jason Holder": {
       "runs": 47,
       "wickets": 7,
-      "catches": 5,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4160,7 +4178,7 @@
           "date": "9 May",
           "runs": 7,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4747,7 +4765,17 @@
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Trent Boult": {
       "runs": 8,
@@ -4805,7 +4833,7 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 16,
+      "wickets": 18,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -4904,7 +4932,7 @@
           "name": "RR vs GT",
           "date": "9 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
