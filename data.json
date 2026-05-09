@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T14:34:08Z",
+  "lastUpdated": "2026-05-09T15:53:31Z",
   "matchesLoaded": 52,
   "scrapedMatchIds": [
     "1527674",
@@ -434,7 +434,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 424,
+      "runs": 440,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -533,7 +533,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 39,
+          "runs": 55,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1471,7 +1471,7 @@
     "Yashasvi Jaiswal": {
       "runs": 312,
       "wickets": 0,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1562,6 +1562,15 @@
           "runs": 39,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1658,7 +1667,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 335,
+      "runs": 348,
       "wickets": 0,
       "catches": 14,
       "stumpings": 0,
@@ -1757,7 +1766,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 0,
+          "runs": 13,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2576,7 +2585,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 409,
+      "runs": 462,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2666,7 +2675,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 31,
+          "runs": 84,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2928,7 +2937,7 @@
     },
     "Ravindra Jadeja": {
       "runs": 152,
-      "wickets": 7,
+      "wickets": 8,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -3019,6 +3028,15 @@
           "date": "19 Apr",
           "runs": 9,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4095,7 +4113,7 @@
       "matches": []
     },
     "Jason Holder": {
-      "runs": 40,
+      "runs": 47,
       "wickets": 7,
       "catches": 5,
       "stumpings": 0,
@@ -4140,7 +4158,7 @@
         {
           "name": "RR vs GT",
           "date": "9 May",
-          "runs": 0,
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
