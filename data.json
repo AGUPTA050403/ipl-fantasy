@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-09T13:18:40Z",
-  "matchesLoaded": 51,
+  "lastUpdated": "2026-05-09T14:34:08Z",
+  "matchesLoaded": 52,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -54,10 +54,12 @@
     "1529294"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529295"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RR vs GT"
   ],
   "teams": {
     "Adi": {
@@ -432,7 +434,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 385,
+      "runs": 424,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -523,6 +525,15 @@
           "name": "GT vs PBKS",
           "date": "3 May",
           "runs": 57,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 39,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1742,6 +1753,15 @@
           "catches": 3,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2000,6 +2020,15 @@
           "date": "3 May",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2547,7 +2576,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 378,
+      "runs": 409,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2631,6 +2660,15 @@
           "runs": 5,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 31,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3866,6 +3904,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4086,6 +4133,15 @@
           "date": "3 May",
           "runs": 5,
           "wickets": 4,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4822,6 +4878,15 @@
           "date": "3 May",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs GT",
+          "date": "9 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
