@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T13:19:38Z",
-  "matchesLoaded": 53,
+  "lastUpdated": "2026-05-10T14:35:52Z",
+  "matchesLoaded": 54,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -52,15 +52,16 @@
     "1529292",
     "1529293",
     "1529294",
-    "1529295"
+    "1529295",
+    "1529296"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529296"
+    "1529297"
   ],
   "liveMatchNames": [
-    "CSK vs LSG",
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RCB vs MI"
   ],
   "teams": {
     "Adi": {
@@ -426,6 +427,15 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -1353,7 +1363,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 221,
+      "runs": 243,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1399,6 +1409,15 @@
           "name": "MI vs LSG",
           "date": "4 May",
           "runs": 84,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 22,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1605,7 +1624,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 150,
+      "runs": 165,
       "wickets": 1,
       "catches": 3,
       "stumpings": 0,
@@ -1695,7 +1714,7 @@
         {
           "name": "CSK vs LSG",
           "date": "10 May",
-          "runs": 0,
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2811,7 +2830,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 204,
+      "runs": 215,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -2901,6 +2920,15 @@
         {
           "name": "MI vs LSG",
           "date": "4 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
           "runs": 11,
           "wickets": 0,
           "catches": 0,
@@ -3253,7 +3281,7 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 27,
-      "wickets": 14,
+      "wickets": 17,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -3338,11 +3366,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Dewald Brevis": {
-      "runs": 64,
+      "runs": 74,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -3414,7 +3451,7 @@
         {
           "name": "CSK vs LSG",
           "date": "10 May",
-          "runs": 0,
+          "runs": 10,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -3423,7 +3460,7 @@
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 287,
+      "runs": 293,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3522,7 +3559,7 @@
         {
           "name": "CSK vs LSG",
           "date": "10 May",
-          "runs": 36,
+          "runs": 42,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3626,13 +3663,22 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Virat Kohli": {
       "runs": 330,
       "wickets": 0,
-      "catches": 5,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3714,6 +3760,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
