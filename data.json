@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-09T21:09:37Z",
-  "matchesLoaded": 52,
+  "lastUpdated": "2026-05-10T13:19:38Z",
+  "matchesLoaded": 53,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -55,9 +55,11 @@
     "1529295"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529296"
   ],
   "liveMatchNames": [
+    "CSK vs LSG",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -992,7 +994,7 @@
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 11,
+      "wickets": 12,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1086,11 +1088,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Rishabh Pant": {
-      "runs": 236,
+      "runs": 251,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -1176,6 +1187,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1234,7 +1254,7 @@
       ]
     },
     "Aiden Markram": {
-      "runs": 213,
+      "runs": 219,
       "wickets": 0,
       "catches": 7,
       "stumpings": 0,
@@ -1318,6 +1338,15 @@
           "runs": 31,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1660,6 +1689,15 @@
           "runs": 13,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3306,9 +3344,9 @@
     "Dewald Brevis": {
       "runs": 64,
       "wickets": 0,
-      "catches": 11,
+      "catches": 12,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs CSK",
@@ -3372,11 +3410,20 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 251,
+      "runs": 287,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3469,6 +3516,15 @@
           "runs": 7,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 36,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3754,7 +3810,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 182,
+      "runs": 183,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -3836,6 +3892,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4034,6 +4099,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4372,11 +4446,11 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 402,
+      "runs": 430,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 1,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs CSK",
@@ -4467,11 +4541,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 28,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
     "Mitchell Marsh": {
-      "runs": 327,
+      "runs": 337,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4555,6 +4638,15 @@
           "runs": 2,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs LSG",
+          "date": "10 May",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
