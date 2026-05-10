@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T19:05:34Z",
+  "lastUpdated": "2026-05-10T20:10:00Z",
   "matchesLoaded": 54,
   "scrapedMatchIds": [
     "1527674",
@@ -820,6 +820,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 73,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 23,
@@ -888,15 +897,6 @@
           "runs": 28,
           "wickets": 1,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs MI",
-          "date": "10 May",
-          "runs": 73,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3304,6 +3304,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 7,
+          "wickets": 4,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 0,
@@ -3371,15 +3380,6 @@
           "date": "7 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs MI",
-          "date": "10 May",
-          "runs": 7,
-          "wickets": 4,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3700,6 +3700,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs MI",
+          "date": "10 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs GT",
           "date": "24 Apr",
           "runs": 81,
@@ -3768,15 +3777,6 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs MI",
-          "date": "10 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
