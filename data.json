@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T16:57:05Z",
+  "lastUpdated": "2026-05-10T17:54:37Z",
   "matchesLoaded": 54,
   "scrapedMatchIds": [
     "1527674",
@@ -805,7 +805,7 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 88,
+      "runs": 141,
       "wickets": 8,
       "catches": 2,
       "stumpings": 0,
@@ -895,7 +895,7 @@
         {
           "name": "RCB vs MI",
           "date": "10 May",
-          "runs": 20,
+          "runs": 73,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2841,7 +2841,7 @@
     "Tilak Varma": {
       "runs": 261,
       "wickets": 0,
-      "catches": 7,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2940,7 +2940,7 @@
           "date": "10 May",
           "runs": 57,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
