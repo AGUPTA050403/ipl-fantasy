@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T21:12:50Z",
-  "matchesLoaded": 54,
+  "lastUpdated": "2026-05-11T14:53:19Z",
+  "matchesLoaded": 55,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -57,9 +57,11 @@
     "1529297"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529298"
   ],
   "liveMatchNames": [
+    "DC vs PBKS",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -642,7 +644,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 264,
+      "runs": 274,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -717,6 +719,15 @@
           "runs": 30,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -798,6 +809,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1916,6 +1936,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2294,6 +2323,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2649,6 +2687,15 @@
         {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -4321,7 +4368,7 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 313,
+      "runs": 331,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -4405,6 +4452,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5221,6 +5277,15 @@
           "name": "PBKS vs DC",
           "date": "25 Apr",
           "runs": 19,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
