@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T14:53:19Z",
+  "lastUpdated": "2026-05-11T17:25:29Z",
   "matchesLoaded": 55,
   "scrapedMatchIds": [
     "1527674",
@@ -644,7 +644,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 274,
+      "runs": 323,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -725,7 +725,7 @@
         {
           "name": "DC vs PBKS",
           "date": "11 May",
-          "runs": 10,
+          "runs": 59,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -736,7 +736,7 @@
     "Marco Jansen": {
       "runs": 49,
       "wickets": 6,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -817,7 +817,7 @@
           "date": "11 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -923,9 +923,9 @@
       ]
     },
     "Axar Patel": {
-      "runs": 44,
+      "runs": 100,
       "wickets": 10,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1025,6 +1025,15 @@
           "runs": 11,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 56,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1859,8 +1868,8 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 178,
-      "wickets": 1,
+      "runs": 179,
+      "wickets": 2,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
@@ -1940,8 +1949,8 @@
         {
           "name": "DC vs PBKS",
           "date": "11 May",
-          "runs": 0,
-          "wickets": 0,
+          "runs": 1,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2138,7 +2147,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 468,
+      "runs": 477,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2242,13 +2251,22 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Yuzvendra Chahal": {
       "runs": 0,
       "wickets": 8,
-      "catches": 2,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2329,7 +2347,7 @@
           "date": "11 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2607,7 +2625,7 @@
     },
     "Arshdeep Singh": {
       "runs": 1,
-      "wickets": 9,
+      "wickets": 11,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -2697,7 +2715,7 @@
           "name": "DC vs PBKS",
           "date": "11 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
