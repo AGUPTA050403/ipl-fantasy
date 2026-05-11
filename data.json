@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T17:25:29Z",
+  "lastUpdated": "2026-05-11T19:16:36Z",
   "matchesLoaded": 55,
   "scrapedMatchIds": [
     "1527674",
@@ -54,14 +54,13 @@
     "1529294",
     "1529295",
     "1529296",
-    "1529297"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529297",
     "1529298"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "DC vs PBKS",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -2703,19 +2702,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "DC vs PBKS",
+          "date": "11 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "DC vs PBKS",
-          "date": "11 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
-          "wickets": 2,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4388,7 +4387,7 @@
     "Prabhsimran Singh": {
       "runs": 331,
       "wickets": 0,
-      "catches": 5,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4465,20 +4464,20 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "11 May",
-          "runs": 18,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
