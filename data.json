@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T19:16:36Z",
+  "lastUpdated": "2026-05-11T21:00:54Z",
   "matchesLoaded": 55,
   "scrapedMatchIds": [
     "1527674",
@@ -965,6 +965,15 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 56,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs RCB",
           "date": "18 Apr",
           "runs": 26,
@@ -1024,15 +1033,6 @@
           "runs": 11,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "11 May",
-          "runs": 56,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2189,6 +2189,15 @@
           "run_outs": 0
         },
         {
+          "name": "DC vs PBKS",
+          "date": "11 May",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "DC vs RCB",
           "date": "18 Apr",
           "runs": 57,
@@ -2246,15 +2255,6 @@
           "name": "KKR vs DC",
           "date": "8 May",
           "runs": 23,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs PBKS",
-          "date": "11 May",
-          "runs": 9,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
