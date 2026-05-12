@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T14:26:47Z",
+  "lastUpdated": "2026-05-12T16:37:46Z",
   "matchesLoaded": 56,
   "scrapedMatchIds": [
     "1527674",
@@ -447,7 +447,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 452,
+      "runs": 501,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -555,7 +555,7 @@
         {
           "name": "SRH vs GT",
           "date": "12 May",
-          "runs": 12,
+          "runs": 61,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -564,9 +564,9 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 368,
+      "runs": 379,
       "wickets": 0,
-      "catches": 4,
+      "catches": 6,
       "stumpings": 1,
       "run_outs": 1,
       "matches": [
@@ -648,6 +648,15 @@
           "runs": 55,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs GT",
+          "date": "12 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1559,6 +1568,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "SRH vs GT",
+          "date": "12 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1772,7 +1790,7 @@
     "Jos Buttler": {
       "runs": 355,
       "wickets": 0,
-      "catches": 15,
+      "catches": 16,
       "stumpings": 0,
       "run_outs": 3,
       "matches": [
@@ -1880,7 +1898,7 @@
           "date": "12 May",
           "runs": 7,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2068,7 +2086,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 12,
+      "wickets": 13,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2176,7 +2194,7 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2762,7 +2780,7 @@
     "Shubman Gill": {
       "runs": 467,
       "wickets": 0,
-      "catches": 8,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -2861,7 +2879,7 @@
           "date": "12 May",
           "runs": 5,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4387,7 +4405,7 @@
       "matches": []
     },
     "Jason Holder": {
-      "runs": 47,
+      "runs": 58,
       "wickets": 10,
       "catches": 6,
       "stumpings": 0,
@@ -4441,7 +4459,7 @@
         {
           "name": "SRH vs GT",
           "date": "12 May",
-          "runs": 0,
+          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4557,7 +4575,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 353,
+      "runs": 359,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -4641,6 +4659,15 @@
           "runs": 35,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs GT",
+          "date": "12 May",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4854,9 +4881,9 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 403,
+      "runs": 410,
       "wickets": 0,
-      "catches": 10,
+      "catches": 11,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4944,9 +4971,9 @@
         {
           "name": "SRH vs GT",
           "date": "12 May",
-          "runs": 0,
+          "runs": 7,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5134,7 +5161,7 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 18,
+      "wickets": 21,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -5242,7 +5269,7 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5313,6 +5340,15 @@
         {
           "name": "RCB vs GT",
           "date": "24 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs GT",
+          "date": "12 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
