@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T14:35:18Z",
-  "matchesLoaded": 56,
+  "lastUpdated": "2026-05-13T17:16:31Z",
+  "matchesLoaded": 57,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -59,10 +59,12 @@
     "1529299"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529300"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RCB vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -980,6 +982,15 @@
           "runs": 28,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3286,6 +3297,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3398,7 +3418,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 210,
+      "runs": 228,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3462,6 +3482,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 18,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3561,10 +3590,10 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 34,
-      "wickets": 21,
+      "wickets": 22,
       "catches": 1,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs RCB",
@@ -3664,6 +3693,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -3965,7 +4003,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 379,
+      "runs": 397,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -4069,11 +4107,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Rinku Singh": {
-      "runs": 241,
+      "runs": 290,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -4164,6 +4211,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs KKR",
+          "date": "13 May",
+          "runs": 49,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
