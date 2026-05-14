@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T16:27:59Z",
+  "lastUpdated": "2026-05-14T18:18:04Z",
   "matchesLoaded": 58,
   "scrapedMatchIds": [
     "1527674",
@@ -57,14 +57,13 @@
     "1529297",
     "1529298",
     "1529299",
-    "1529300"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529300",
     "1529301"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "MI vs PBKS",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -801,7 +800,7 @@
     },
     "Marco Jansen": {
       "runs": 51,
-      "wickets": 6,
+      "wickets": 7,
       "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
@@ -900,7 +899,7 @@
           "name": "MI vs PBKS",
           "date": "14 May",
           "runs": 2,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1520,7 +1519,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 255,
+      "runs": 268,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1583,7 +1582,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 12,
+          "runs": 25,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2475,7 +2474,7 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2574,7 +2573,7 @@
           "name": "MI vs PBKS",
           "date": "14 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2854,7 +2853,7 @@
     "Arshdeep Singh": {
       "runs": 1,
       "wickets": 13,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2949,17 +2948,17 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "MI vs PBKS",
+          "date": "14 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "MI vs PBKS",
-          "date": "14 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -3158,7 +3157,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 261,
+      "runs": 336,
       "wickets": 0,
       "catches": 10,
       "stumpings": 0,
@@ -3266,7 +3265,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 0,
+          "runs": 75,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4882,20 +4881,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "MI vs PBKS",
           "date": "14 May",
           "runs": 57,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
