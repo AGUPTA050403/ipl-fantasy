@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T14:12:57Z",
+  "lastUpdated": "2026-05-14T16:27:59Z",
   "matchesLoaded": 58,
   "scrapedMatchIds": [
     "1527674",
@@ -692,7 +692,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 392,
+      "runs": 396,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -791,7 +791,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 0,
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -800,7 +800,7 @@
       ]
     },
     "Marco Jansen": {
-      "runs": 49,
+      "runs": 51,
       "wickets": 6,
       "catches": 6,
       "stumpings": 0,
@@ -899,7 +899,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 0,
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1520,7 +1520,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 243,
+      "runs": 255,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1575,6 +1575,15 @@
           "name": "RCB vs MI",
           "date": "10 May",
           "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs PBKS",
+          "date": "14 May",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3253,6 +3262,15 @@
           "catches": 3,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs PBKS",
+          "date": "14 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4767,7 +4785,7 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 391,
+      "runs": 439,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -4875,7 +4893,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 9,
+          "runs": 57,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5720,7 +5738,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 74,
+      "runs": 76,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -5801,7 +5819,7 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
-          "runs": 0,
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5910,7 +5928,7 @@
     },
     "Shardul Thakur": {
       "runs": 14,
-      "wickets": 6,
+      "wickets": 10,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -5974,6 +5992,15 @@
           "date": "29 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs PBKS",
+          "date": "14 May",
+          "runs": 0,
+          "wickets": 4,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
