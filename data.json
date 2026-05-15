@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T14:07:58Z",
+  "lastUpdated": "2026-05-15T16:19:34Z",
   "matchesLoaded": 59,
   "scrapedMatchIds": [
     "1527674",
@@ -1364,6 +1364,15 @@
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1424,7 +1433,7 @@
     "Aiden Markram": {
       "runs": 231,
       "wickets": 0,
-      "catches": 7,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1522,6 +1531,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 31,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1827,7 +1845,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 165,
+      "runs": 197,
       "wickets": 1,
       "catches": 3,
       "stumpings": 0,
@@ -1926,7 +1944,7 @@
         {
           "name": "LSG vs CSK",
           "date": "15 May",
-          "runs": 0,
+          "runs": 32,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3789,7 +3807,7 @@
       ]
     },
     "Dewald Brevis": {
-      "runs": 74,
+      "runs": 99,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -3870,7 +3888,7 @@
         {
           "name": "LSG vs CSK",
           "date": "15 May",
-          "runs": 0,
+          "runs": 25,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3879,7 +3897,7 @@
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 297,
+      "runs": 306,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3987,7 +4005,7 @@
         {
           "name": "LSG vs CSK",
           "date": "15 May",
-          "runs": 4,
+          "runs": 13,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4331,7 +4349,7 @@
     "Nicholas Pooran": {
       "runs": 184,
       "wickets": 0,
-      "catches": 4,
+      "catches": 5,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -4431,6 +4449,15 @@
           "runs": 9,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4555,7 +4582,7 @@
     },
     "Mohammed Shami": {
       "runs": 31,
-      "wickets": 9,
+      "wickets": 10,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -4663,7 +4690,7 @@
           "name": "LSG vs CSK",
           "date": "15 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5073,7 +5100,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 442,
+      "runs": 450,
       "wickets": 0,
       "catches": 4,
       "stumpings": 1,
@@ -5181,7 +5208,7 @@
         {
           "name": "LSG vs CSK",
           "date": "15 May",
-          "runs": 12,
+          "runs": 20,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5190,9 +5217,9 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 377,
+      "runs": 386,
       "wickets": 0,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -5290,6 +5317,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 2,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 9,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
