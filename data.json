@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-14T21:44:16Z",
-  "matchesLoaded": 58,
+  "lastUpdated": "2026-05-15T14:07:58Z",
+  "matchesLoaded": 59,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -61,9 +61,11 @@
     "1529301"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529302"
   ],
   "liveMatchNames": [
+    "LSG vs CSK",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -1245,6 +1247,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1907,6 +1918,15 @@
           "name": "CSK vs LSG",
           "date": "10 May",
           "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3846,11 +3866,20 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 293,
+      "runs": 297,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -3950,6 +3979,15 @@
           "name": "CSK vs LSG",
           "date": "10 May",
           "runs": 42,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4620,6 +4658,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5026,7 +5073,7 @@
       ]
     },
     "Sanju Samson": {
-      "runs": 430,
+      "runs": 442,
       "wickets": 0,
       "catches": 4,
       "stumpings": 1,
@@ -5130,6 +5177,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "LSG vs CSK",
+          "date": "15 May",
+          "runs": 12,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
