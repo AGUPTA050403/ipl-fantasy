@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:58:28Z",
+  "lastUpdated": "2026-05-16T17:08:40Z",
   "matchesLoaded": 60,
   "scrapedMatchIds": [
     "1527674",
@@ -460,7 +460,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 479,
+      "runs": 502,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -560,6 +560,15 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 61,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 23,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1945,7 +1954,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 330,
+      "runs": 352,
       "wickets": 0,
       "catches": 15,
       "stumpings": 1,
@@ -2048,6 +2057,15 @@
           "wickets": 0,
           "catches": 4,
           "stumpings": 1,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 22,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
           "run_outs": 0
         }
       ]
@@ -2989,7 +3007,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 381,
+      "runs": 433,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -3082,6 +3100,15 @@
           "runs": 5,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 52,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3287,7 +3314,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 12,
+      "wickets": 13,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3377,7 +3404,7 @@
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4767,7 +4794,17 @@
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
-      "matches": []
+      "matches": [
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        }
+      ]
     },
     "Umran Malik": {
       "runs": 0,
