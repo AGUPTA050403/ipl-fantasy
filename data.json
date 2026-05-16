@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T13:23:09Z",
-  "matchesLoaded": 59,
+  "lastUpdated": "2026-05-16T14:39:48Z",
+  "matchesLoaded": 60,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -62,9 +62,11 @@
     "1529302"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529303"
   ],
   "liveMatchNames": [
+    "GT vs KKR",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -2277,7 +2279,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 13,
+      "wickets": 14,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -2387,6 +2389,15 @@
           "runs": 0,
           "wickets": 1,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3406,6 +3417,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3518,7 +3538,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 228,
+      "runs": 278,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3591,6 +3611,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 50,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4342,6 +4371,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4576,6 +4614,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4774,6 +4821,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4850,6 +4906,15 @@
           "date": "12 May",
           "runs": 11,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5740,6 +5805,15 @@
           "date": "12 May",
           "runs": 0,
           "wickets": 3,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
