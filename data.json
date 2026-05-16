@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T14:39:48Z",
+  "lastUpdated": "2026-05-16T15:58:28Z",
   "matchesLoaded": 60,
   "scrapedMatchIds": [
     "1527674",
@@ -460,7 +460,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 501,
+      "runs": 479,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -506,15 +506,6 @@
           "name": "GT vs LSG",
           "date": "12 Apr",
           "runs": 15,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 22,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1954,11 +1945,11 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 355,
+      "runs": 330,
       "wickets": 0,
-      "catches": 19,
+      "catches": 15,
       "stumpings": 1,
-      "run_outs": 3,
+      "run_outs": 2,
       "matches": [
         {
           "name": "GT vs MI",
@@ -2004,15 +1995,6 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 25,
-          "wickets": 0,
-          "catches": 4,
-          "stumpings": 0,
-          "run_outs": 1
         },
         {
           "name": "RCB vs GT",
@@ -2279,8 +2261,8 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 14,
-      "catches": 4,
+      "wickets": 12,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2326,15 +2308,6 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3016,7 +2989,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 467,
+      "runs": 381,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -3055,15 +3028,6 @@
           "runs": 56,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 86,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3323,7 +3287,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 13,
+      "wickets": 12,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3331,15 +3295,6 @@
         {
           "name": "MI vs KKR",
           "date": "29 Mar",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
           "runs": 0,
           "wickets": 1,
           "catches": 0,
@@ -3538,7 +3493,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 278,
+      "runs": 321,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3619,7 +3574,7 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
-          "runs": 50,
+          "runs": 93,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4267,9 +4222,9 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 290,
+      "runs": 289,
       "wickets": 0,
-      "catches": 9,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4277,15 +4232,6 @@
           "name": "MI vs KKR",
           "date": "29 Mar",
           "runs": 33,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 1,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -4502,8 +4448,8 @@
     },
     "Rashid Khan": {
       "runs": 35,
-      "wickets": 16,
-      "catches": 3,
+      "wickets": 15,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4548,15 +4494,6 @@
           "date": "12 Apr",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4620,7 +4557,7 @@
           "date": "16 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4745,7 +4682,7 @@
     },
     "Varun Chakravarthy": {
       "runs": 0,
-      "wickets": 10,
+      "wickets": 8,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -4755,15 +4692,6 @@
           "date": "29 Mar",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5624,7 +5552,7 @@
     },
     "R Sai Kishore": {
       "runs": 0,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -5634,6 +5562,15 @@
           "date": "9 May",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5696,8 +5633,8 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 21,
-      "catches": 3,
+      "wickets": 18,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -5743,15 +5680,6 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 3,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -5822,10 +5750,10 @@
     },
     "Prasidh Krishna": {
       "runs": 0,
-      "wickets": 14,
+      "wickets": 13,
       "catches": 1,
       "stumpings": 0,
-      "run_outs": 1,
+      "run_outs": 0,
       "matches": [
         {
           "name": "GT vs MI",
@@ -5871,15 +5799,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "GT vs KKR",
-          "date": "17 Apr",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         },
         {
           "name": "RCB vs GT",
