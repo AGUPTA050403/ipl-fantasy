@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T17:08:40Z",
+  "lastUpdated": "2026-05-16T18:12:59Z",
   "matchesLoaded": 60,
   "scrapedMatchIds": [
     "1527674",
@@ -59,14 +59,13 @@
     "1529299",
     "1529300",
     "1529301",
-    "1529302"
-  ],
-  "liveMatchIds": [
-    "1527685",
+    "1529302",
     "1529303"
   ],
+  "liveMatchIds": [
+    "1527685"
+  ],
   "liveMatchNames": [
-    "GT vs KKR",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -460,7 +459,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 502,
+      "runs": 532,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -568,7 +567,7 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
-          "runs": 23,
+          "runs": 53,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1954,7 +1953,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 352,
+      "runs": 387,
       "wickets": 0,
       "catches": 15,
       "stumpings": 1,
@@ -2062,7 +2061,7 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
-          "runs": 22,
+          "runs": 57,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3007,7 +3006,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 433,
+      "runs": 466,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -3106,7 +3105,7 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
-          "runs": 52,
+          "runs": 85,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3314,7 +3313,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 13,
+      "wickets": 14,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3404,7 +3403,7 @@
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3590,18 +3589,18 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 6,
+          "name": "GT vs KKR",
+          "date": "16 May",
+          "runs": 93,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "GT vs KKR",
-          "date": "16 May",
-          "runs": 93,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4337,8 +4336,8 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "GT vs KKR",
+          "date": "16 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -4346,8 +4345,8 @@
           "run_outs": 0
         },
         {
-          "name": "GT vs KKR",
-          "date": "16 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
