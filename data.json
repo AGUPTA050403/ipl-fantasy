@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-16T20:49:31Z",
-  "matchesLoaded": 60,
+  "lastUpdated": "2026-05-17T13:21:30Z",
+  "matchesLoaded": 61,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -63,10 +63,12 @@
     "1529303"
   ],
   "liveMatchIds": [
-    "1527685"
+    "1527685",
+    "1529304"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "PBKS vs RCB"
   ],
   "teams": {
     "Adi": {
@@ -693,9 +695,9 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 396,
+      "runs": 397,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -795,6 +797,15 @@
           "runs": 59,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1017,6 +1028,15 @@
         {
           "name": "RCB vs KKR",
           "date": "13 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -2070,7 +2090,7 @@
       ]
     },
     "Marcus Stoinis": {
-      "runs": 179,
+      "runs": 216,
       "wickets": 2,
       "catches": 1,
       "stumpings": 0,
@@ -2162,6 +2182,15 @@
           "date": "11 May",
           "runs": 1,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 37,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2512,7 +2541,7 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 9,
+      "wickets": 10,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2615,6 +2644,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2637,6 +2675,15 @@
         {
           "name": "RR vs PBKS",
           "date": "28 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -2890,7 +2937,7 @@
     },
     "Arshdeep Singh": {
       "runs": 1,
-      "wickets": 13,
+      "wickets": 14,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -2999,6 +3046,15 @@
           "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3700,7 +3756,7 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 34,
-      "wickets": 22,
+      "wickets": 24,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -3812,6 +3868,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4131,9 +4196,9 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 484,
+      "runs": 542,
       "wickets": 0,
-      "catches": 6,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4242,6 +4307,15 @@
           "runs": 105,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 58,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4886,7 +4960,7 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 439,
+      "runs": 441,
       "wickets": 0,
       "catches": 6,
       "stumpings": 0,
@@ -4997,6 +5071,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 2,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5857,7 +5940,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 76,
+      "runs": 118,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -5939,6 +6022,15 @@
           "name": "DC vs PBKS",
           "date": "11 May",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 42,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
