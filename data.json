@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T15:59:18Z",
+  "lastUpdated": "2026-05-17T17:08:58Z",
   "matchesLoaded": 62,
   "scrapedMatchIds": [
     "1527674",
@@ -2424,7 +2424,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 402,
+      "runs": 448,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2524,6 +2524,15 @@
           "name": "KKR vs DC",
           "date": "8 May",
           "runs": 23,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
