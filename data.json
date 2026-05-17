@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T14:43:24Z",
+  "lastUpdated": "2026-05-17T15:59:18Z",
   "matchesLoaded": 62,
   "scrapedMatchIds": [
     "1527674",
@@ -973,6 +973,15 @@
           "run_outs": 0
         },
         {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs RCB",
           "date": "5 Apr",
           "runs": 0,
@@ -1034,22 +1043,13 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "PBKS vs RCB",
-          "date": "17 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
     "Axar Patel": {
       "runs": 100,
-      "wickets": 10,
-      "catches": 3,
+      "wickets": 9,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1135,15 +1135,6 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "CSK vs DC",
           "date": "5 May",
           "runs": 2,
@@ -1158,6 +1149,15 @@
           "runs": 11,
           "wickets": 1,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1758,7 +1758,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 327,
+      "runs": 321,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -1822,15 +1822,6 @@
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 13,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2433,7 +2424,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 477,
+      "runs": 402,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2515,15 +2506,6 @@
           "name": "DC vs CSK",
           "date": "11 Apr",
           "runs": 18,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 75,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2757,7 +2739,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 486,
+      "runs": 482,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2821,15 +2803,6 @@
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 78,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 4,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3486,8 +3459,8 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 190,
-      "wickets": 8,
+      "runs": 170,
+      "wickets": 7,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -3550,15 +3523,6 @@
           "name": "RR vs RCB",
           "date": "10 Apr",
           "runs": 24,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 20,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -3736,15 +3700,6 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 0,
@@ -3826,6 +3781,15 @@
           "run_outs": 0
         },
         {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs RCB",
           "date": "5 Apr",
           "runs": 0,
@@ -3887,15 +3851,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
-        },
-        {
-          "name": "PBKS vs RCB",
-          "date": "17 May",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -4267,6 +4222,15 @@
           "run_outs": 0
         },
         {
+          "name": "PBKS vs RCB",
+          "date": "17 May",
+          "runs": 58,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs RCB",
           "date": "5 Apr",
           "runs": 28,
@@ -4326,15 +4290,6 @@
           "runs": 105,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "PBKS vs RCB",
-          "date": "17 May",
-          "runs": 58,
-          "wickets": 0,
-          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5660,15 +5615,6 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "CSK vs DC",
           "date": "5 May",
           "runs": 0,
@@ -6058,7 +6004,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 208,
+      "runs": 168,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -6119,15 +6065,6 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "1 May",
-          "runs": 90,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "RR vs CSK",
           "date": "30 Mar",
           "runs": 14,
@@ -6157,7 +6094,7 @@
         {
           "name": "DC vs RR",
           "date": "17 May",
-          "runs": 1,
+          "runs": 51,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
