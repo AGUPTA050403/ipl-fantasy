@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-17T13:21:30Z",
-  "matchesLoaded": 61,
+  "lastUpdated": "2026-05-17T14:43:24Z",
+  "matchesLoaded": 62,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -60,15 +60,16 @@
     "1529300",
     "1529301",
     "1529302",
-    "1529303"
+    "1529303",
+    "1529304"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529304"
+    "1529305"
   ],
   "liveMatchNames": [
-    "PBKS vs KKR",
-    "PBKS vs RCB"
+    "DC vs RR",
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -1757,7 +1758,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 315,
+      "runs": 327,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -1857,6 +1858,15 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 39,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2747,7 +2757,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 440,
+      "runs": 486,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -2846,6 +2856,15 @@
         {
           "name": "KKR vs RR",
           "date": "19 Apr",
+          "runs": 46,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
           "runs": 46,
           "wickets": 0,
           "catches": 0,
@@ -3042,19 +3061,19 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "PBKS vs RCB",
+          "date": "17 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "PBKS vs RCB",
-          "date": "17 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
-          "wickets": 1,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4198,7 +4217,7 @@
     "Virat Kohli": {
       "runs": 542,
       "wickets": 0,
-      "catches": 7,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4315,7 +4334,7 @@
           "date": "17 May",
           "runs": 58,
           "wickets": 0,
-          "catches": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5066,20 +5085,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "PBKS vs RCB",
           "date": "17 May",
           "runs": 2,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5940,7 +5959,7 @@
       ]
     },
     "Shashank Singh": {
-      "runs": 118,
+      "runs": 132,
       "wickets": 3,
       "catches": 1,
       "stumpings": 0,
@@ -6030,7 +6049,7 @@
         {
           "name": "PBKS vs RCB",
           "date": "17 May",
-          "runs": 42,
+          "runs": 56,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -6039,7 +6058,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 207,
+      "runs": 208,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -6130,6 +6149,15 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 12,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
