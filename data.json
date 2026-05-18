@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T18:01:08Z",
+  "lastUpdated": "2026-05-18T20:12:50Z",
   "matchesLoaded": 63,
   "scrapedMatchIds": [
     "1527674",
@@ -61,17 +61,16 @@
     "1529301",
     "1529302",
     "1529303",
-    "1529304"
+    "1529304",
+    "1529306"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529306"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR",
-    "SRH vs CSK"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
