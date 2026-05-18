@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T15:33:40Z",
+  "lastUpdated": "2026-05-18T18:01:08Z",
   "matchesLoaded": 63,
   "scrapedMatchIds": [
     "1527674",
@@ -581,7 +581,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 420,
+      "runs": 490,
       "wickets": 0,
       "catches": 9,
       "stumpings": 1,
@@ -698,7 +698,7 @@
         {
           "name": "SRH vs CSK",
           "date": "18 May",
-          "runs": 0,
+          "runs": 70,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -1176,7 +1176,7 @@
     },
     "Noor Ahmad": {
       "runs": 10,
-      "wickets": 12,
+      "wickets": 13,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1293,7 +1293,7 @@
           "name": "SRH vs CSK",
           "date": "18 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1661,7 +1661,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 361,
+      "runs": 367,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1770,6 +1770,15 @@
           "name": "PBKS vs SRH",
           "date": "6 May",
           "runs": 38,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs CSK",
+          "date": "18 May",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1886,7 +1895,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 213,
+      "runs": 223,
       "wickets": 1,
       "catches": 3,
       "stumpings": 0,
@@ -1994,7 +2003,7 @@
         {
           "name": "SRH vs CSK",
           "date": "18 May",
-          "runs": 16,
+          "runs": 26,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2228,7 +2237,7 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 224,
+      "runs": 235,
       "wickets": 7,
       "catches": 9,
       "stumpings": 0,
@@ -2336,7 +2345,7 @@
         {
           "name": "SRH vs CSK",
           "date": "18 May",
-          "runs": 0,
+          "runs": 11,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -3902,7 +3911,7 @@
       ]
     },
     "Dewald Brevis": {
-      "runs": 134,
+      "runs": 143,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -3992,7 +4001,7 @@
         {
           "name": "SRH vs CSK",
           "date": "18 May",
-          "runs": 35,
+          "runs": 44,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5133,7 +5142,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 481,
+      "runs": 507,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -5246,6 +5255,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "SRH vs CSK",
+          "date": "18 May",
+          "runs": 26,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5253,7 +5271,7 @@
       "runs": 477,
       "wickets": 0,
       "catches": 4,
-      "stumpings": 1,
+      "stumpings": 2,
       "run_outs": 1,
       "matches": [
         {
@@ -5370,7 +5388,7 @@
           "runs": 27,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
+          "stumpings": 1,
           "run_outs": 0
         }
       ]
@@ -5493,7 +5511,7 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 508,
+      "runs": 555,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -5602,6 +5620,15 @@
           "name": "PBKS vs SRH",
           "date": "6 May",
           "runs": 69,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "SRH vs CSK",
+          "date": "18 May",
+          "runs": 47,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
