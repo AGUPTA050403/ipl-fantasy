@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T17:43:38Z",
+  "lastUpdated": "2026-05-19T19:52:31Z",
   "matchesLoaded": 64,
   "scrapedMatchIds": [
     "1527674",
@@ -62,17 +62,16 @@
     "1529302",
     "1529303",
     "1529304",
-    "1529306"
+    "1529306",
+    "1529307"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529307"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR",
-    "RR vs LSG"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -1894,15 +1893,6 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 12,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "RR vs LSG",
           "date": "19 May",
           "runs": 43,
@@ -1910,6 +1900,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 12,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2920,18 +2919,18 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 46,
+          "name": "RR vs LSG",
+          "date": "19 May",
+          "runs": 93,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "RR vs LSG",
-          "date": "19 May",
-          "runs": 93,
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
