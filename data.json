@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-18T21:46:17Z",
-  "matchesLoaded": 63,
+  "lastUpdated": "2026-05-19T15:23:26Z",
+  "matchesLoaded": 64,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -66,11 +66,13 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529307"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RR vs LSG"
   ],
   "teams": {
     "Adi": {
@@ -1300,7 +1302,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 252,
+      "runs": 269,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -1411,6 +1413,15 @@
           "runs": 43,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs LSG",
+          "date": "19 May",
+          "runs": 17,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2787,6 +2798,15 @@
           "date": "26 Apr",
           "runs": 0,
           "wickets": 5,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs LSG",
+          "date": "19 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4477,7 +4497,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 216,
+      "runs": 232,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -4586,6 +4606,15 @@
           "name": "LSG vs KKR",
           "date": "26 Apr",
           "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs LSG",
+          "date": "19 May",
+          "runs": 16,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5393,7 +5422,7 @@
       ]
     },
     "Mitchell Marsh": {
-      "runs": 467,
+      "runs": 540,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -5504,6 +5533,15 @@
           "runs": 2,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RR vs LSG",
+          "date": "19 May",
+          "runs": 73,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
