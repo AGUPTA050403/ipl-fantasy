@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T18:03:23Z",
+  "lastUpdated": "2026-05-20T20:33:56Z",
   "matchesLoaded": 65,
   "scrapedMatchIds": [
     "1527674",
@@ -63,16 +63,15 @@
     "1529303",
     "1529304",
     "1529306",
-    "1529307"
+    "1529307",
+    "1529308"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529308"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "KKR vs MI",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -350,7 +349,7 @@
   "players": {
     "Jasprit Bumrah": {
       "runs": 7,
-      "wickets": 3,
+      "wickets": 4,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -467,7 +466,7 @@
           "name": "KKR vs MI",
           "date": "20 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3776,18 +3775,18 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 6,
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 8,
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4471,7 +4470,7 @@
       ]
     },
     "Rinku Singh": {
-      "runs": 289,
+      "runs": 298,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -4568,6 +4567,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 0,
@@ -4575,15 +4583,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
