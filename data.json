@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T15:21:09Z",
+  "lastUpdated": "2026-05-20T18:03:23Z",
   "matchesLoaded": 65,
   "scrapedMatchIds": [
     "1527674",
@@ -2959,7 +2959,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 153,
+      "runs": 172,
       "wickets": 4,
       "catches": 2,
       "stumpings": 0,
@@ -3040,7 +3040,7 @@
         {
           "name": "KKR vs MI",
           "date": "20 May",
-          "runs": 7,
+          "runs": 26,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3364,7 +3364,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 343,
+      "runs": 356,
       "wickets": 0,
       "catches": 10,
       "stumpings": 0,
@@ -3481,7 +3481,7 @@
         {
           "name": "KKR vs MI",
           "date": "20 May",
-          "runs": 7,
+          "runs": 20,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3491,7 +3491,7 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 14,
+      "wickets": 15,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -3590,7 +3590,7 @@
           "name": "KKR vs MI",
           "date": "20 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3697,7 +3697,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 321,
+      "runs": 329,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -3779,6 +3779,15 @@
           "name": "PBKS vs KKR",
           "date": "6 Apr",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4466,7 +4475,7 @@
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs KKR",
@@ -4566,6 +4575,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -4934,7 +4952,7 @@
       "wickets": 8,
       "catches": 2,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs KKR",
@@ -5007,6 +5025,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
