@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-19T21:19:42Z",
-  "matchesLoaded": 64,
+  "lastUpdated": "2026-05-20T15:21:09Z",
+  "matchesLoaded": 65,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -67,10 +67,12 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529308"
   ],
   "liveMatchNames": [
     "DC vs RR",
+    "KKR vs MI",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -455,6 +457,15 @@
         {
           "name": "MI vs PBKS",
           "date": "14 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -1598,7 +1609,7 @@
       ]
     },
     "Rohit Sharma": {
-      "runs": 268,
+      "runs": 283,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1662,6 +1673,15 @@
           "name": "MI vs PBKS",
           "date": "14 May",
           "runs": 25,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2939,7 +2959,7 @@
       ]
     },
     "Hardik Pandya": {
-      "runs": 146,
+      "runs": 153,
       "wickets": 4,
       "catches": 2,
       "stumpings": 0,
@@ -3012,6 +3032,15 @@
           "name": "CSK vs MI",
           "date": "2 May",
           "runs": 18,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3335,7 +3364,7 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 336,
+      "runs": 343,
       "wickets": 0,
       "catches": 10,
       "stumpings": 0,
@@ -3448,6 +3477,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 7,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3545,6 +3583,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4172,7 +4219,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 195,
+      "runs": 210,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4272,6 +4319,15 @@
           "name": "RCB vs MI",
           "date": "10 May",
           "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
