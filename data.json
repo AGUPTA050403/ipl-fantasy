@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-20T20:33:56Z",
-  "matchesLoaded": 65,
+  "lastUpdated": "2026-05-21T15:27:57Z",
+  "matchesLoaded": 66,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -68,9 +68,11 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529309"
   ],
   "liveMatchNames": [
+    "CSK vs GT",
     "DC vs RR",
     "PBKS vs KKR"
   ],
@@ -474,7 +476,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 532,
+      "runs": 593,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -583,6 +585,15 @@
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 53,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 61,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1307,6 +1318,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1934,7 +1954,7 @@
     "Shivam Dube": {
       "runs": 223,
       "wickets": 1,
-      "catches": 3,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -2045,11 +2065,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Jos Buttler": {
-      "runs": 387,
+      "runs": 414,
       "wickets": 0,
       "catches": 15,
       "stumpings": 1,
@@ -2158,6 +2187,15 @@
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 57,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 27,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2501,6 +2539,15 @@
           "date": "16 May",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3174,7 +3221,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 466,
+      "runs": 530,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -3274,6 +3321,15 @@
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 85,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 64,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3505,6 +3561,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 0,
@@ -3582,15 +3647,6 @@
           "runs": 0,
           "wickets": 2,
           "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -3712,6 +3768,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 93,
@@ -3769,15 +3834,6 @@
           "name": "LSG vs KKR",
           "date": "9 Apr",
           "runs": 9,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 8,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4486,6 +4542,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 0,
@@ -4565,15 +4630,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 9,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         },
         {
           "name": "PBKS vs KKR",
@@ -4826,6 +4882,15 @@
           "catches": 1,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -4963,6 +5028,15 @@
           "run_outs": 0
         },
         {
+          "name": "KKR vs MI",
+          "date": "20 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
+        },
+        {
           "name": "GT vs KKR",
           "date": "16 May",
           "runs": 0,
@@ -5024,15 +5098,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "KKR vs MI",
-          "date": "20 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -5126,6 +5191,15 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -6061,6 +6135,15 @@
         {
           "name": "GT vs KKR",
           "date": "16 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
