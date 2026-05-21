@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T17:37:45Z",
+  "lastUpdated": "2026-05-21T19:53:45Z",
   "matchesLoaded": 66,
   "scrapedMatchIds": [
     "1527674",
@@ -1229,6 +1229,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 1,
@@ -1313,15 +1322,6 @@
           "name": "LSG vs CSK",
           "date": "15 May",
           "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs GT",
-          "date": "21 May",
-          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1985,6 +1985,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 47,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 21,
@@ -2062,15 +2071,6 @@
           "runs": 32,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs GT",
-          "date": "21 May",
-          "runs": 47,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4091,6 +4091,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 0,
@@ -4152,15 +4161,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "CSK vs GT",
-          "date": "21 May",
-          "runs": 8,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -4197,6 +4197,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 16,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         },
         {
           "name": "CSK vs SRH",
@@ -4287,15 +4296,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "CSK vs GT",
-          "date": "21 May",
-          "runs": 16,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 1
         }
       ]
     },
@@ -5520,6 +5520,15 @@
           "run_outs": 0
         },
         {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "CSK vs SRH",
           "date": "18 Apr",
           "runs": 7,
@@ -5604,15 +5613,6 @@
           "name": "LSG vs CSK",
           "date": "15 May",
           "runs": 20,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "CSK vs GT",
-          "date": "21 May",
-          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
