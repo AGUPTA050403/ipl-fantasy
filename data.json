@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T15:27:57Z",
+  "lastUpdated": "2026-05-21T17:37:45Z",
   "matchesLoaded": 66,
   "scrapedMatchIds": [
     "1527674",
@@ -64,15 +64,14 @@
     "1529304",
     "1529306",
     "1529307",
-    "1529308"
+    "1529308",
+    "1529309"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529309"
+    "1529305"
   ],
   "liveMatchNames": [
-    "CSK vs GT",
     "DC vs RR",
     "PBKS vs KKR"
   ],
@@ -476,7 +475,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 593,
+      "runs": 616,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -593,7 +592,7 @@
         {
           "name": "CSK vs GT",
           "date": "21 May",
-          "runs": 61,
+          "runs": 84,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1196,7 +1195,7 @@
       ]
     },
     "Noor Ahmad": {
-      "runs": 10,
+      "runs": 11,
       "wickets": 13,
       "catches": 4,
       "stumpings": 0,
@@ -1322,7 +1321,7 @@
         {
           "name": "CSK vs GT",
           "date": "21 May",
-          "runs": 0,
+          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1952,7 +1951,7 @@
       ]
     },
     "Shivam Dube": {
-      "runs": 223,
+      "runs": 270,
       "wickets": 1,
       "catches": 4,
       "stumpings": 0,
@@ -2069,7 +2068,7 @@
         {
           "name": "CSK vs GT",
           "date": "21 May",
-          "runs": 0,
+          "runs": 47,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2078,9 +2077,9 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 414,
+      "runs": 444,
       "wickets": 0,
-      "catches": 15,
+      "catches": 17,
       "stumpings": 1,
       "run_outs": 2,
       "matches": [
@@ -2195,9 +2194,9 @@
         {
           "name": "CSK vs GT",
           "date": "21 May",
-          "runs": 27,
+          "runs": 57,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2430,7 +2429,7 @@
     },
     "Mohammed Siraj": {
       "runs": 0,
-      "wickets": 12,
+      "wickets": 15,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -2547,7 +2546,7 @@
           "name": "CSK vs GT",
           "date": "21 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3223,9 +3222,9 @@
     "Shubman Gill": {
       "runs": 530,
       "wickets": 0,
-      "catches": 9,
+      "catches": 10,
       "stumpings": 0,
-      "run_outs": 1,
+      "run_outs": 2,
       "matches": [
         {
           "name": "GT vs MI",
@@ -3331,9 +3330,9 @@
           "date": "21 May",
           "runs": 64,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
-          "run_outs": 0
+          "run_outs": 1
         }
       ]
     },
@@ -4058,7 +4057,7 @@
       ]
     },
     "Dewald Brevis": {
-      "runs": 143,
+      "runs": 151,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -4153,15 +4152,24 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 8,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Ruturaj Gaikwad": {
-      "runs": 321,
+      "runs": 337,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
-      "run_outs": 2,
+      "run_outs": 3,
       "matches": [
         {
           "name": "MI vs CSK",
@@ -4279,6 +4287,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 16,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     },
@@ -4770,7 +4787,7 @@
     },
     "Rashid Khan": {
       "runs": 35,
-      "wickets": 15,
+      "wickets": 18,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -4887,7 +4904,7 @@
           "name": "CSK vs GT",
           "date": "21 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5130,7 +5147,7 @@
     "Jason Holder": {
       "runs": 58,
       "wickets": 13,
-      "catches": 6,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -5202,7 +5219,7 @@
           "date": "21 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5587,6 +5604,15 @@
           "name": "LSG vs CSK",
           "date": "15 May",
           "runs": 20,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -6028,8 +6054,8 @@
     },
     "Kagiso Rabada": {
       "runs": 35,
-      "wickets": 18,
-      "catches": 2,
+      "wickets": 21,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -6145,8 +6171,8 @@
           "name": "CSK vs GT",
           "date": "21 May",
           "runs": 0,
-          "wickets": 0,
-          "catches": 0,
+          "wickets": 3,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -6155,7 +6181,7 @@
     "Prasidh Krishna": {
       "runs": 0,
       "wickets": 13,
-      "catches": 1,
+      "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -6219,6 +6245,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "CSK vs GT",
+          "date": "21 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
