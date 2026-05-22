@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-21T21:27:39Z",
-  "matchesLoaded": 66,
+  "lastUpdated": "2026-05-22T14:40:19Z",
+  "matchesLoaded": 67,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -69,11 +69,13 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529310"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RCB vs SRH"
   ],
   "teams": {
     "Adi": {
@@ -601,7 +603,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 490,
+      "runs": 499,
       "wickets": 0,
       "catches": 9,
       "stumpings": 1,
@@ -721,6 +723,15 @@
           "runs": 70,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 9,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1708,7 +1719,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 367,
+      "runs": 393,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1826,6 +1837,15 @@
           "name": "SRH vs CSK",
           "date": "18 May",
           "runs": 6,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 26,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2422,6 +2442,15 @@
           "runs": 11,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4053,6 +4082,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5360,7 +5398,7 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 507,
+      "runs": 553,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -5478,6 +5516,15 @@
           "name": "SRH vs CSK",
           "date": "18 May",
           "runs": 26,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5865,6 +5912,15 @@
           "name": "SRH vs CSK",
           "date": "18 May",
           "runs": 47,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
