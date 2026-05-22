@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T17:09:08Z",
+  "lastUpdated": "2026-05-22T19:12:50Z",
   "matchesLoaded": 67,
   "scrapedMatchIds": [
     "1527674",
@@ -65,17 +65,16 @@
     "1529306",
     "1529307",
     "1529308",
-    "1529309"
+    "1529309",
+    "1529310"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529310"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR",
-    "RCB vs SRH"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -963,7 +962,7 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 148,
+      "runs": 182,
       "wickets": 11,
       "catches": 2,
       "stumpings": 0,
@@ -1080,7 +1079,7 @@
         {
           "name": "RCB vs SRH",
           "date": "22 May",
-          "runs": 7,
+          "runs": 41,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -1720,7 +1719,7 @@
     },
     "Travis Head": {
       "runs": 382,
-      "wickets": 0,
+      "wickets": 1,
       "catches": 0,
       "stumpings": 0,
       "run_outs": 0,
@@ -1837,7 +1836,7 @@
           "name": "RCB vs SRH",
           "date": "22 May",
           "runs": 26,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
