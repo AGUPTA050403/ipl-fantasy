@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T14:40:19Z",
+  "lastUpdated": "2026-05-22T17:09:08Z",
   "matchesLoaded": 67,
   "scrapedMatchIds": [
     "1527674",
@@ -603,7 +603,7 @@
       ]
     },
     "Ishan Kishan": {
-      "runs": 499,
+      "runs": 489,
       "wickets": 0,
       "catches": 9,
       "stumpings": 1,
@@ -624,15 +624,6 @@
           "runs": 11,
           "wickets": 0,
           "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 80,
-          "wickets": 0,
-          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -729,7 +720,7 @@
         {
           "name": "RCB vs SRH",
           "date": "22 May",
-          "runs": 9,
+          "runs": 79,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -740,7 +731,7 @@
     "Shreyas Iyer": {
       "runs": 397,
       "wickets": 0,
-      "catches": 7,
+      "catches": 8,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -847,6 +838,15 @@
           "name": "PBKS vs RCB",
           "date": "17 May",
           "runs": 1,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -963,8 +963,8 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 141,
-      "wickets": 10,
+      "runs": 148,
+      "wickets": 11,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1000,15 +1000,6 @@
           "name": "GT vs RCB",
           "date": "30 Apr",
           "runs": 4,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1082,6 +1073,15 @@
           "date": "13 May",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 7,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -1719,7 +1719,7 @@
       ]
     },
     "Travis Head": {
-      "runs": 393,
+      "runs": 382,
       "wickets": 0,
       "catches": 0,
       "stumpings": 0,
@@ -1738,15 +1738,6 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2331,7 +2322,7 @@
       ]
     },
     "Nitish Kumar Reddy": {
-      "runs": 235,
+      "runs": 263,
       "wickets": 7,
       "catches": 9,
       "stumpings": 0,
@@ -2350,15 +2341,6 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 2,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2448,7 +2430,7 @@
         {
           "name": "RCB vs SRH",
           "date": "22 May",
-          "runs": 0,
+          "runs": 29,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3961,7 +3943,7 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 34,
-      "wickets": 24,
+      "wickets": 23,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -3998,15 +3980,6 @@
           "date": "30 Apr",
           "runs": 15,
           "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 0,
-          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4455,9 +4428,9 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 542,
+      "runs": 488,
       "wickets": 0,
-      "catches": 8,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -4492,15 +4465,6 @@
           "name": "GT vs RCB",
           "date": "30 Apr",
           "runs": 28,
-          "wickets": 0,
-          "catches": 1,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 69,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -4573,6 +4537,15 @@
           "name": "RCB vs KKR",
           "date": "13 May",
           "runs": 105,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs SRH",
+          "date": "22 May",
+          "runs": 15,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5398,9 +5371,9 @@
       "matches": []
     },
     "Abhishek Sharma": {
-      "runs": 553,
+      "runs": 556,
       "wickets": 0,
-      "catches": 5,
+      "catches": 7,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -5417,15 +5390,6 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 6,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 7,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5524,9 +5488,9 @@
         {
           "name": "RCB vs SRH",
           "date": "22 May",
-          "runs": 46,
+          "runs": 56,
           "wickets": 0,
-          "catches": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5794,9 +5758,9 @@
       ]
     },
     "Heinrich Klaasen": {
-      "runs": 555,
+      "runs": 575,
       "wickets": 0,
-      "catches": 12,
+      "catches": 10,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -5813,15 +5777,6 @@
           "name": "SRH vs GT",
           "date": "12 May",
           "runs": 14,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs SRH",
-          "date": "28 Mar",
-          "runs": 31,
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
@@ -5920,7 +5875,7 @@
         {
           "name": "RCB vs SRH",
           "date": "22 May",
-          "runs": 0,
+          "runs": 51,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
