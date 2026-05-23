@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T17:33:52Z",
+  "lastUpdated": "2026-05-23T19:10:35Z",
   "matchesLoaded": 68,
   "scrapedMatchIds": [
     "1527674",
@@ -66,17 +66,16 @@
     "1529307",
     "1529308",
     "1529309",
-    "1529310"
+    "1529310",
+    "1529311"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529311"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR",
-    "PBKS vs LSG"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -730,7 +729,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 491,
+      "runs": 498,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -856,7 +855,7 @@
         {
           "name": "PBKS vs LSG",
           "date": "23 May",
-          "runs": 94,
+          "runs": 101,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -3275,8 +3274,8 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
+          "name": "PBKS vs LSG",
+          "date": "23 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -3284,8 +3283,8 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs LSG",
-          "date": "23 May",
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -5434,21 +5433,21 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "PBKS vs LSG",
           "date": "23 May",
           "runs": 69,
           "wickets": 0,
           "catches": 1,
           "stumpings": 1,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
           "run_outs": 0
         }
       ]
