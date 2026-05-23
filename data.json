@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T13:25:57Z",
-  "matchesLoaded": 67,
+  "lastUpdated": "2026-05-23T14:48:09Z",
+  "matchesLoaded": 68,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -70,11 +70,13 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529311"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "PBKS vs LSG"
   ],
   "teams": {
     "Adi": {
@@ -855,7 +857,7 @@
     },
     "Marco Jansen": {
       "runs": 51,
-      "wickets": 7,
+      "wickets": 8,
       "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
@@ -956,6 +958,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -1340,7 +1351,7 @@
       ]
     },
     "Rishabh Pant": {
-      "runs": 287,
+      "runs": 295,
       "wickets": 0,
       "catches": 10,
       "stumpings": 0,
@@ -1460,6 +1471,15 @@
           "runs": 35,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 8,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2682,7 +2702,7 @@
     },
     "Yuzvendra Chahal": {
       "runs": 0,
-      "wickets": 10,
+      "wickets": 11,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -2794,6 +2814,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -2890,6 +2919,15 @@
           "date": "19 May",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3221,6 +3259,15 @@
         {
           "name": "PBKS vs KKR",
           "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
           "runs": 0,
           "wickets": 0,
           "catches": 0,
@@ -4670,7 +4717,7 @@
       ]
     },
     "Nicholas Pooran": {
-      "runs": 232,
+      "runs": 234,
       "wickets": 0,
       "catches": 5,
       "stumpings": 0,
@@ -4788,6 +4835,15 @@
           "name": "RR vs LSG",
           "date": "19 May",
           "runs": 16,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -5035,6 +5091,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5238,8 +5303,8 @@
     "Prabhsimran Singh": {
       "runs": 441,
       "wickets": 0,
-      "catches": 6,
-      "stumpings": 0,
+      "catches": 7,
+      "stumpings": 1,
       "run_outs": 1,
       "matches": [
         {
@@ -5357,6 +5422,15 @@
           "wickets": 0,
           "catches": 2,
           "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 1,
           "run_outs": 0
         }
       ]
