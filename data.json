@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T16:02:00Z",
+  "lastUpdated": "2026-05-23T17:33:52Z",
   "matchesLoaded": 68,
   "scrapedMatchIds": [
     "1527674",
@@ -730,7 +730,7 @@
       ]
     },
     "Shreyas Iyer": {
-      "runs": 397,
+      "runs": 491,
       "wickets": 0,
       "catches": 9,
       "stumpings": 0,
@@ -856,7 +856,7 @@
         {
           "name": "PBKS vs LSG",
           "date": "23 May",
-          "runs": 0,
+          "runs": 94,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -2342,6 +2342,15 @@
           "name": "PBKS vs RCB",
           "date": "17 May",
           "runs": 37,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs LSG",
+          "date": "23 May",
+          "runs": 0,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4988,7 +4997,7 @@
     },
     "Mohammed Shami": {
       "runs": 31,
-      "wickets": 10,
+      "wickets": 12,
       "catches": 3,
       "stumpings": 0,
       "run_outs": 0,
@@ -5105,7 +5114,7 @@
           "name": "PBKS vs LSG",
           "date": "23 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -5310,7 +5319,7 @@
       ]
     },
     "Prabhsimran Singh": {
-      "runs": 441,
+      "runs": 510,
       "wickets": 0,
       "catches": 7,
       "stumpings": 1,
@@ -5436,7 +5445,7 @@
         {
           "name": "PBKS vs LSG",
           "date": "23 May",
-          "runs": 0,
+          "runs": 69,
           "wickets": 0,
           "catches": 1,
           "stumpings": 1,
