@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T16:01:35Z",
+  "lastUpdated": "2026-05-24T17:31:56Z",
   "matchesLoaded": 70,
   "scrapedMatchIds": [
     "1527674",
@@ -1102,7 +1102,7 @@
     },
     "Axar Patel": {
       "runs": 162,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1210,7 +1210,7 @@
           "name": "KKR vs DC",
           "date": "24 May",
           "runs": 39,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3810,7 +3810,7 @@
       ]
     },
     "Finn Allen": {
-      "runs": 229,
+      "runs": 249,
       "wickets": 0,
       "catches": 1,
       "stumpings": 0,
@@ -3900,7 +3900,7 @@
         {
           "name": "KKR vs DC",
           "date": "24 May",
-          "runs": 0,
+          "runs": 20,
           "wickets": 0,
           "catches": 1,
           "stumpings": 0,
@@ -5951,7 +5951,7 @@
     },
     "Kuldeep Yadav": {
       "runs": 9,
-      "wickets": 7,
+      "wickets": 10,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -6033,6 +6033,15 @@
           "date": "5 May",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "24 May",
+          "runs": 0,
+          "wickets": 3,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
