@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T17:31:56Z",
+  "lastUpdated": "2026-05-24T19:18:04Z",
   "matchesLoaded": 70,
   "scrapedMatchIds": [
     "1527674",
@@ -68,16 +68,15 @@
     "1529309",
     "1529310",
     "1529311",
-    "1529312"
+    "1529312",
+    "1529313"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1529313"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "KKR vs DC",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -1103,7 +1102,7 @@
     "Axar Patel": {
       "runs": 162,
       "wickets": 9,
-      "catches": 4,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1198,20 +1197,20 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 34,
-          "wickets": 0,
+          "name": "KKR vs DC",
+          "date": "24 May",
+          "runs": 39,
+          "wickets": 1,
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "24 May",
-          "runs": 39,
-          "wickets": 1,
-          "catches": 0,
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 34,
+          "wickets": 0,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2692,18 +2691,18 @@
           "run_outs": 0
         },
         {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 56,
+          "name": "KKR vs DC",
+          "date": "24 May",
+          "runs": 60,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "24 May",
-          "runs": 60,
+          "name": "DC vs RR",
+          "date": "17 May",
+          "runs": 56,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3889,20 +3888,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 6,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs DC",
           "date": "24 May",
           "runs": 20,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 6,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4690,20 +4689,20 @@
           "run_outs": 0
         },
         {
-          "name": "PBKS vs KKR",
-          "date": "6 Apr",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs DC",
           "date": "24 May",
           "runs": 0,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "PBKS vs KKR",
+          "date": "6 Apr",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5097,7 +5096,7 @@
       ]
     },
     "Varun Chakravarthy": {
-      "runs": 0,
+      "runs": 5,
       "wickets": 9,
       "catches": 2,
       "stumpings": 0,
@@ -5178,7 +5177,7 @@
         {
           "name": "KKR vs DC",
           "date": "24 May",
-          "runs": 0,
+          "runs": 5,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
