@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T14:50:10Z",
+  "lastUpdated": "2026-05-24T16:01:35Z",
   "matchesLoaded": 70,
   "scrapedMatchIds": [
     "1527674",
@@ -1101,8 +1101,8 @@
       ]
     },
     "Axar Patel": {
-      "runs": 134,
-      "wickets": 9,
+      "runs": 162,
+      "wickets": 8,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -1198,15 +1198,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 11,
-          "wickets": 1,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs RR",
           "date": "17 May",
           "runs": 34,
@@ -1218,7 +1209,7 @@
         {
           "name": "KKR vs DC",
           "date": "24 May",
-          "runs": 0,
+          "runs": 39,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -1963,18 +1954,18 @@
           "run_outs": 1
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
-          "runs": 39,
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 27,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "MI vs RR",
-          "date": "24 May",
-          "runs": 27,
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 39,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2604,7 +2595,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 497,
+      "runs": 495,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2701,15 +2692,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 23,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "DC vs RR",
           "date": "17 May",
           "runs": 56,
@@ -2721,7 +2703,7 @@
         {
           "name": "KKR vs DC",
           "date": "24 May",
-          "runs": 39,
+          "runs": 60,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3052,20 +3034,20 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
-          "runs": 46,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "MI vs RR",
           "date": "24 May",
           "runs": 4,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 46,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3622,8 +3604,8 @@
     },
     "Sunil Narine": {
       "runs": 40,
-      "wickets": 16,
-      "catches": 3,
+      "wickets": 15,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3678,15 +3660,6 @@
           "runs": 0,
           "wickets": 1,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 0,
-          "wickets": 1,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         },
@@ -3817,15 +3790,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
-          "runs": 9,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "MI vs RR",
           "date": "24 May",
           "runs": 19,
@@ -3833,13 +3797,22 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 9,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Finn Allen": {
-      "runs": 329,
+      "runs": 229,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3898,15 +3871,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 100,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 1,
@@ -3930,6 +3894,15 @@
           "runs": 6,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "24 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4622,7 +4595,7 @@
     "Rinku Singh": {
       "runs": 298,
       "wickets": 0,
-      "catches": 8,
+      "catches": 9,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -4681,15 +4654,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 6,
@@ -4731,6 +4695,15 @@
           "runs": 0,
           "wickets": 0,
           "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "KKR vs DC",
+          "date": "24 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -5125,7 +5098,7 @@
     },
     "Varun Chakravarthy": {
       "runs": 0,
-      "wickets": 8,
+      "wickets": 9,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 1,
@@ -5176,15 +5149,6 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
           "name": "KKR vs CSK",
           "date": "14 Apr",
           "runs": 0,
@@ -5215,7 +5179,7 @@
           "name": "KKR vs DC",
           "date": "24 May",
           "runs": 0,
-          "wickets": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -6072,15 +6036,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
-        },
-        {
-          "name": "KKR vs DC",
-          "date": "8 May",
-          "runs": 0,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -6542,18 +6497,18 @@
           "run_outs": 0
         },
         {
-          "name": "KKR vs RR",
-          "date": "19 Apr",
-          "runs": 12,
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 14,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         },
         {
-          "name": "MI vs RR",
-          "date": "24 May",
-          "runs": 14,
+          "name": "KKR vs RR",
+          "date": "19 Apr",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
