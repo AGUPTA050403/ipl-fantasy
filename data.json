@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-23T21:27:14Z",
-  "matchesLoaded": 68,
+  "lastUpdated": "2026-05-24T13:27:34Z",
+  "matchesLoaded": 69,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -71,10 +71,12 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1529312"
   ],
   "liveMatchNames": [
     "DC vs RR",
+    "MI vs RR",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -1742,6 +1744,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -1872,7 +1883,7 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 364,
+      "runs": 391,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -1983,6 +1994,15 @@
           "runs": 12,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 27,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2952,9 +2972,9 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 575,
+      "runs": 579,
       "wickets": 0,
-      "catches": 0,
+      "catches": 1,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3065,11 +3085,20 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 4,
+          "wickets": 0,
+          "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Hardik Pandya": {
-      "runs": 172,
+      "runs": 174,
       "wickets": 4,
       "catches": 2,
       "stumpings": 0,
@@ -3151,6 +3180,15 @@
           "name": "KKR vs MI",
           "date": "20 May",
           "runs": 26,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 2,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3492,9 +3530,9 @@
       ]
     },
     "Tilak Varma": {
-      "runs": 356,
+      "runs": 359,
       "wickets": 0,
-      "catches": 10,
+      "catches": 12,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -3614,6 +3652,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 3,
+          "wickets": 0,
+          "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -3726,7 +3773,7 @@
       ]
     },
     "Ravindra Jadeja": {
-      "runs": 170,
+      "runs": 189,
       "wickets": 7,
       "catches": 1,
       "stumpings": 0,
@@ -3818,6 +3865,15 @@
           "date": "19 Apr",
           "runs": 9,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 19,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4374,7 +4430,7 @@
       ]
     },
     "Suryakumar Yadav": {
-      "runs": 210,
+      "runs": 256,
       "wickets": 0,
       "catches": 3,
       "stumpings": 0,
@@ -4483,6 +4539,15 @@
           "name": "KKR vs MI",
           "date": "20 May",
           "runs": 15,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 46,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -6469,7 +6534,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 168,
+      "runs": 182,
       "wickets": 2,
       "catches": 4,
       "stumpings": 0,
@@ -6564,15 +6629,24 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 14,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
     "Shardul Thakur": {
       "runs": 14,
-      "wickets": 10,
+      "wickets": 12,
       "catches": 0,
       "stumpings": 0,
-      "run_outs": 0,
+      "run_outs": 1,
       "matches": [
         {
           "name": "MI vs KKR",
@@ -6645,6 +6719,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "MI vs RR",
+          "date": "24 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 1
         }
       ]
     }
