@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T18:33:58Z",
+  "lastUpdated": "2026-05-29T21:08:19Z",
   "matchesLoaded": 73,
   "scrapedMatchIds": [
     "1527674",
@@ -1902,6 +1902,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RR",
+          "date": "29 May",
+          "runs": 1,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs SRH",
           "date": "13 Apr",
           "runs": 1,
@@ -1977,15 +1986,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 39,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RR",
-          "date": "29 May",
-          "runs": 1,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3000,6 +3000,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RR",
+          "date": "29 May",
+          "runs": 96,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs SRH",
           "date": "13 Apr",
           "runs": 0,
@@ -3075,15 +3084,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 46,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RR",
-          "date": "29 May",
-          "runs": 96,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -3765,6 +3765,15 @@
           "run_outs": 0
         },
         {
+          "name": "GT vs RR",
+          "date": "29 May",
+          "runs": 45,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs SRH",
           "date": "13 Apr",
           "runs": 45,
@@ -3832,15 +3841,6 @@
           "date": "19 Apr",
           "runs": 9,
           "wickets": 3,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RR",
-          "date": "29 May",
-          "runs": 45,
-          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -6535,6 +6535,15 @@
       "run_outs": 0,
       "matches": [
         {
+          "name": "GT vs RR",
+          "date": "29 May",
+          "runs": 11,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RR vs SRH",
           "date": "13 Apr",
           "runs": 4,
@@ -6601,15 +6610,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 12,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "GT vs RR",
-          "date": "29 May",
-          "runs": 11,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
