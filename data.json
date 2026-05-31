@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T16:41:32Z",
+  "lastUpdated": "2026-05-31T18:03:05Z",
   "matchesLoaded": 74,
   "scrapedMatchIds": [
     "1527674",
@@ -72,17 +72,16 @@
     "1529313",
     "1535462",
     "1535463",
-    "1535464"
+    "1535464",
+    "1535465"
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305",
-    "1535465"
+    "1529305"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR",
-    "RCB vs GT"
+    "PBKS vs KKR"
   ],
   "teams": {
     "Adi": {
@@ -988,7 +987,7 @@
       ]
     },
     "Krunal Pandya": {
-      "runs": 202,
+      "runs": 203,
       "wickets": 14,
       "catches": 2,
       "stumpings": 0,
@@ -1114,7 +1113,7 @@
         {
           "name": "RCB vs GT",
           "date": "31 May",
-          "runs": 0,
+          "runs": 1,
           "wickets": 1,
           "catches": 0,
           "stumpings": 0,
@@ -2133,7 +2132,7 @@
     "Jos Buttler": {
       "runs": 450,
       "wickets": 0,
-      "catches": 19,
+      "catches": 20,
       "stumpings": 1,
       "run_outs": 2,
       "matches": [
@@ -2259,7 +2258,7 @@
           "date": "31 May",
           "runs": 19,
           "wickets": 0,
-          "catches": 0,
+          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4498,7 +4497,7 @@
       ]
     },
     "Virat Kohli": {
-      "runs": 479,
+      "runs": 525,
       "wickets": 0,
       "catches": 8,
       "stumpings": 0,
@@ -4624,7 +4623,7 @@
         {
           "name": "RCB vs GT",
           "date": "31 May",
-          "runs": 29,
+          "runs": 75,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -4886,7 +4885,7 @@
     },
     "Rashid Khan": {
       "runs": 26,
-      "wickets": 15,
+      "wickets": 17,
       "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
@@ -5012,7 +5011,7 @@
           "name": "RCB vs GT",
           "date": "31 May",
           "runs": 7,
-          "wickets": 0,
+          "wickets": 2,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -6198,8 +6197,8 @@
     },
     "Kagiso Rabada": {
       "runs": 24,
-      "wickets": 23,
-      "catches": 5,
+      "wickets": 24,
+      "catches": 6,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -6324,8 +6323,8 @@
           "name": "RCB vs GT",
           "date": "31 May",
           "runs": 3,
-          "wickets": 0,
-          "catches": 1,
+          "wickets": 1,
+          "catches": 2,
           "stumpings": 0,
           "run_outs": 0
         }
