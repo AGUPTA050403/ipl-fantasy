@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T13:46:14Z",
-  "matchesLoaded": 73,
+  "lastUpdated": "2026-05-31T15:17:56Z",
+  "matchesLoaded": 74,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -76,11 +76,13 @@
   ],
   "liveMatchIds": [
     "1527685",
-    "1529305"
+    "1529305",
+    "1535465"
   ],
   "liveMatchNames": [
     "DC vs RR",
-    "PBKS vs KKR"
+    "PBKS vs KKR",
+    "RCB vs GT"
   ],
   "teams": {
     "Adi": {
@@ -473,7 +475,7 @@
       ]
     },
     "Sai Sudharsan": {
-      "runs": 615,
+      "runs": 627,
       "wickets": 0,
       "catches": 4,
       "stumpings": 0,
@@ -600,6 +602,15 @@
           "name": "GT vs RR",
           "date": "29 May",
           "runs": 58,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 12,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -987,7 +998,7 @@
     },
     "Krunal Pandya": {
       "runs": 225,
-      "wickets": 13,
+      "wickets": 14,
       "catches": 2,
       "stumpings": 0,
       "run_outs": 0,
@@ -1114,6 +1125,15 @@
           "date": "13 May",
           "runs": 0,
           "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -2129,7 +2149,7 @@
       ]
     },
     "Jos Buttler": {
-      "runs": 456,
+      "runs": 475,
       "wickets": 0,
       "catches": 19,
       "stumpings": 1,
@@ -2258,6 +2278,15 @@
           "runs": 9,
           "wickets": 0,
           "catches": 2,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 19,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2626,6 +2655,15 @@
           "date": "29 May",
           "runs": 0,
           "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -3326,7 +3364,7 @@
       ]
     },
     "Shubman Gill": {
-      "runs": 636,
+      "runs": 646,
       "wickets": 0,
       "catches": 12,
       "stumpings": 0,
@@ -3455,6 +3493,15 @@
           "runs": 104,
           "wickets": 0,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 10,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -4002,7 +4049,7 @@
     },
     "Bhuvneshwar Kumar": {
       "runs": 34,
-      "wickets": 25,
+      "wickets": 26,
       "catches": 1,
       "stumpings": 0,
       "run_outs": 1,
@@ -4132,6 +4179,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5014,6 +5070,15 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
         }
       ]
     },
@@ -5352,6 +5417,15 @@
           "date": "29 May",
           "runs": 0,
           "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 0,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -6324,6 +6398,15 @@
           "runs": 0,
           "wickets": 2,
           "catches": 1,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 0,
+          "catches": 0,
           "stumpings": 0,
           "run_outs": 0
         }
