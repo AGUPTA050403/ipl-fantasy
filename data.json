@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T18:03:05Z",
+  "lastUpdated": "2026-05-31T19:49:31Z",
   "matchesLoaded": 74,
   "scrapedMatchIds": [
     "1527674",
@@ -1030,6 +1030,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 1,
+          "wickets": 1,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "22 May",
           "runs": 41,
@@ -1106,15 +1115,6 @@
           "date": "13 May",
           "runs": 0,
           "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs GT",
-          "date": "31 May",
-          "runs": 1,
-          "wickets": 1,
           "catches": 0,
           "stumpings": 0,
           "run_outs": 0
@@ -4045,6 +4045,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 0,
+          "wickets": 2,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "22 May",
           "runs": 0,
@@ -4124,15 +4133,6 @@
           "catches": 0,
           "stumpings": 0,
           "run_outs": 1
-        },
-        {
-          "name": "RCB vs GT",
-          "date": "31 May",
-          "runs": 0,
-          "wickets": 2,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
         }
       ]
     },
@@ -4540,6 +4540,15 @@
           "run_outs": 0
         },
         {
+          "name": "RCB vs GT",
+          "date": "31 May",
+          "runs": 75,
+          "wickets": 0,
+          "catches": 0,
+          "stumpings": 0,
+          "run_outs": 0
+        },
+        {
           "name": "RCB vs SRH",
           "date": "22 May",
           "runs": 15,
@@ -4615,15 +4624,6 @@
           "name": "RCB vs KKR",
           "date": "13 May",
           "runs": 105,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "RCB vs GT",
-          "date": "31 May",
-          "runs": 75,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
