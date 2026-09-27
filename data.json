@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T22:05:43Z",
-  "matchesLoaded": 74,
+  "lastUpdated": "2026-09-27T16:32:19Z",
+  "matchesLoaded": 73,
   "scrapedMatchIds": [
     "1527674",
     "1527675",
@@ -76,11 +76,9 @@
     "1535465"
   ],
   "liveMatchIds": [
-    "1527685",
-    "1529305"
+    "1527685"
   ],
   "liveMatchNames": [
-    "DC vs RR",
     "PBKS vs KKR"
   ],
   "teams": {
@@ -1122,9 +1120,9 @@
       ]
     },
     "Axar Patel": {
-      "runs": 162,
+      "runs": 128,
       "wickets": 9,
-      "catches": 6,
+      "catches": 4,
       "stumpings": 0,
       "run_outs": 0,
       "matches": [
@@ -1223,15 +1221,6 @@
           "date": "24 May",
           "runs": 39,
           "wickets": 1,
-          "catches": 2,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 34,
-          "wickets": 0,
           "catches": 2,
           "stumpings": 0,
           "run_outs": 0
@@ -1887,9 +1876,9 @@
       ]
     },
     "Yashasvi Jaiswal": {
-      "runs": 279,
+      "runs": 267,
       "wickets": 0,
-      "catches": 3,
+      "catches": 2,
       "stumpings": 0,
       "run_outs": 1,
       "matches": [
@@ -1989,15 +1978,6 @@
           "runs": 39,
           "wickets": 0,
           "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 12,
-          "wickets": 0,
-          "catches": 1,
           "stumpings": 0,
           "run_outs": 0
         }
@@ -2634,7 +2614,7 @@
       ]
     },
     "KL Rahul": {
-      "runs": 495,
+      "runs": 439,
       "wickets": 0,
       "catches": 2,
       "stumpings": 1,
@@ -2734,15 +2714,6 @@
           "name": "KKR vs DC",
           "date": "24 May",
           "runs": 60,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 56,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
@@ -2985,7 +2956,7 @@
       ]
     },
     "Vaibhav Suryavanshi": {
-      "runs": 599,
+      "runs": 553,
       "wickets": 0,
       "catches": 2,
       "stumpings": 0,
@@ -3084,15 +3055,6 @@
         {
           "name": "KKR vs RR",
           "date": "19 Apr",
-          "runs": 46,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "17 May",
           "runs": 46,
           "wickets": 0,
           "catches": 0,
@@ -6529,7 +6491,7 @@
       ]
     },
     "Riyan Parag": {
-      "runs": 184,
+      "runs": 133,
       "wickets": 1,
       "catches": 4,
       "stumpings": 0,
@@ -6611,15 +6573,6 @@
           "name": "KKR vs RR",
           "date": "19 Apr",
           "runs": 12,
-          "wickets": 0,
-          "catches": 0,
-          "stumpings": 0,
-          "run_outs": 0
-        },
-        {
-          "name": "DC vs RR",
-          "date": "17 May",
-          "runs": 51,
           "wickets": 0,
           "catches": 0,
           "stumpings": 0,
